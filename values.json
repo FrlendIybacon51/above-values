@@ -9,16 +9,16 @@
    "name": "Goldbone Axe",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 1125000,
+   "value": 1140000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast chopping",
    "verified": true,
    "market": {
-    "buy": 700000,
+    "buy": 725000,
     "sell": 1550000,
-    "buyers": 13,
+    "buyers": 14,
     "sellers": 3,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -91,6 +91,12 @@
       "p": 1100000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 950000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -101,7 +107,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1125000
+     "v": 1140000
     }
    ],
    "range": {
@@ -122,9 +128,9 @@
    "market": {
     "buy": 700000,
     "sell": 1550000,
-    "buyers": 10,
+    "buyers": 11,
     "sellers": 2,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -173,6 +179,12 @@
       "p": 600000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 950000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -204,9 +216,9 @@
    "market": {
     "buy": 700000,
     "sell": 950000,
-    "buyers": 10,
-    "sellers": 3,
-    "islands": 5,
+    "buyers": 11,
+    "sellers": 4,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -255,6 +267,18 @@
       "p": 1100000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1100000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -270,7 +294,7 @@
    ],
    "range": {
     "low": 500000,
-    "high": 950000
+    "high": 1100000
    },
    "icon": "icons/goldbone-sword.png",
    "note": "Asking price was partly cut off in the screenshot; double-check 825K."
@@ -280,16 +304,16 @@
    "name": "Soul Scepter",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 555000,
+   "value": 540000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 712500,
-    "buyers": 9,
-    "sellers": 6,
-    "islands": 9,
+    "sell": 675000,
+    "buyers": 10,
+    "sellers": 7,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -380,6 +404,18 @@
       "p": 675000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 420000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 650000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -390,7 +426,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 555000
+     "v": 540000
     }
    ],
    "range": {
@@ -411,9 +447,9 @@
    "market": {
     "buy": 450000,
     "sell": 825000,
-    "buyers": 9,
+    "buyers": 10,
     "sellers": 7,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -510,6 +546,12 @@
       "p": 825000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -542,9 +584,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 8,
-    "sellers": 6,
-    "islands": 9,
+    "buyers": 9,
+    "sellers": 7,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -629,6 +671,18 @@
       "p": 800000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1150000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -660,9 +714,9 @@
    "market": {
     "buy": 20000,
     "sell": 40000,
-    "buyers": 8,
-    "sellers": 8,
-    "islands": 9,
+    "buyers": 9,
+    "sellers": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -759,6 +813,18 @@
       "p": 45000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 20000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 40000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -790,9 +856,9 @@
    "market": {
     "buy": 250000,
     "sell": 1000000,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 4,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -883,6 +949,12 @@
       "p": 450000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -914,9 +986,9 @@
    "market": {
     "buy": 35000,
     "sell": 55000,
-    "buyers": 10,
-    "sellers": 11,
-    "islands": 12,
+    "buyers": 11,
+    "sellers": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -1043,6 +1115,18 @@
       "p": 57000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 38000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 57000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -1070,9 +1154,9 @@
    "market": {
     "buy": 7000,
     "sell": 13500,
-    "buyers": 13,
-    "sellers": 9,
-    "islands": 13,
+    "buyers": 14,
+    "sellers": 10,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -1205,6 +1289,18 @@
       "p": 13500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 16000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -1220,7 +1316,7 @@
    ],
    "range": {
     "low": 5000,
-    "high": 15500
+    "high": 16000
    },
    "icon": "icons/orange-slime-gel.png",
    "note": "Asking price partly cut off; 15.5K inferred from the 10.5K bid."
@@ -1230,16 +1326,16 @@
    "name": "Slime Gel",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 2400,
-   "demand": 9,
+   "value": 2450,
+   "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1500,
-    "sell": 3262,
-    "buyers": 7,
-    "sellers": 8,
-    "islands": 11,
+    "buy": 1625,
+    "sell": 3275,
+    "buyers": 8,
+    "sellers": 9,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -1330,6 +1426,18 @@
       "p": 2800,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2300,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 3450,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -1340,7 +1448,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 2400
+     "v": 2450
     }
    ],
    "range": {
@@ -1360,10 +1468,10 @@
    "verified": true,
    "market": {
     "buy": 1400,
-    "sell": 3000,
-    "buyers": 13,
-    "sellers": 10,
-    "islands": 13,
+    "sell": 2999,
+    "buyers": 14,
+    "sellers": 11,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -1502,6 +1610,18 @@
       "p": 3000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1400,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -1526,16 +1646,16 @@
    "name": "Bone",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 1750,
+   "value": 1900,
    "demand": 10,
    "source": "Skeletons in the Ruins",
    "verified": true,
    "market": {
-    "buy": 1000,
+    "buy": 1250,
     "sell": 2500,
-    "buyers": 9,
-    "sellers": 8,
-    "islands": 9,
+    "buyers": 10,
+    "sellers": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -1638,6 +1758,18 @@
       "p": 2500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -1645,6 +1777,10 @@
     {
      "d": "2026-11-18",
      "v": 1750
+    },
+    {
+     "d": "2026-11-19",
+     "v": 1900
     }
    ],
    "range": {
@@ -1659,16 +1795,16 @@
    "name": "Candy Corn",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 975,
+   "value": 987,
    "demand": 10,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
     "buy": 500,
-    "sell": 1450,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 4,
+    "sell": 1474,
+    "buyers": 6,
+    "sellers": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -1711,6 +1847,18 @@
       "p": 100,
       "n": 2,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -1721,12 +1869,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 975
+     "v": 987
     }
    ],
    "range": {
     "low": 100,
-    "high": 1499
+    "high": 1500
    },
    "icon": "icons/candy-corn.png"
   },
@@ -2323,16 +2471,16 @@
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
    "rarity": "Rare",
-   "value": 6750,
+   "value": 7000,
    "demand": 10,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 8500,
-    "buyers": 8,
-    "sellers": 6,
-    "islands": 9,
+    "sell": 8999,
+    "buyers": 9,
+    "sellers": 7,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -2417,6 +2565,18 @@
       "p": 9500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 9500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -2427,7 +2587,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 6750
+     "v": 7000
     }
    ],
    "range": {
@@ -2441,16 +2601,16 @@
    "name": "Gold Ore",
    "category": "Ores & Ingots",
    "rarity": "Rare",
-   "value": 6600,
+   "value": 6750,
    "demand": 10,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
     "buy": 4500,
-    "sell": 8750,
-    "buyers": 7,
-    "sellers": 6,
-    "islands": 8,
+    "sell": 8999,
+    "buyers": 8,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -2529,6 +2689,18 @@
       "p": 8500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 4500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 9500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -2539,12 +2711,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 6600
+     "v": 6750
     }
    ],
    "range": {
     "low": 2750,
-    "high": 9000
+    "high": 9500
    },
    "icon": "icons/gold-ore.png"
   },
@@ -2999,16 +3171,16 @@
    "name": "Neon Block (any color)",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 13000,
+   "value": 12500,
    "demand": 10,
    "source": "Block Press: Glass + glowing Flower. Red, Blue, Green, Purple, Yellow, White, Pink\u2026",
    "verified": true,
    "market": {
-    "buy": 10500,
+    "buy": 10000,
     "sell": 15000,
-    "buyers": 31,
-    "sellers": 28,
-    "islands": 4,
+    "buyers": 40,
+    "sellers": 34,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -3051,6 +3223,18 @@
       "p": 10000,
       "n": 2,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 9500,
+      "n": 9,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 14500,
+      "n": 6,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -3058,14 +3242,10 @@
     {
      "d": "2026-11-18",
      "v": 12500
-    },
-    {
-     "d": "2026-11-19",
-     "v": 13000
     }
    ],
    "range": {
-    "low": 10000,
+    "low": 9500,
     "high": 18500
    },
    "icon": "icons/neon-block.png"
@@ -3709,16 +3889,16 @@
    "name": "Water Pump",
    "category": "Machines",
    "rarity": "Epic",
-   "value": 430000,
-   "demand": 6,
+   "value": 420000,
+   "demand": 1,
    "source": "Crafted. Normal quality",
    "verified": true,
    "market": {
     "buy": 350000,
-    "sell": 514999,
+    "sell": 490000,
     "buyers": 4,
-    "sellers": 7,
-    "islands": 3,
+    "sellers": 15,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3749,6 +3929,12 @@
       "p": 350000,
       "n": 3,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 490000,
+      "n": 8,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -3759,7 +3945,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 430000
+     "v": 420000
     }
    ],
    "range": {
@@ -3874,9 +4060,9 @@
    "market": {
     "buy": 1200000,
     "sell": 1900000,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -3943,6 +4129,18 @@
       "p": 1850000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1900000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -3974,9 +4172,9 @@
    "market": {
     "buy": 800000,
     "sell": 835000,
-    "buyers": 9,
-    "sellers": 2,
-    "islands": 3,
+    "buyers": 10,
+    "sellers": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3995,6 +4193,18 @@
       "p": 450000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1000000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4006,7 +4216,7 @@
    ],
    "range": {
     "low": 450000,
-    "high": 835000
+    "high": 1000000
    },
    "icon": "icons/lumber-mill.png"
   },
@@ -4084,16 +4294,16 @@
    "name": "Fletching Machine",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7250,
-   "demand": 9,
+   "value": 7400,
+   "demand": 10,
    "source": "Makes arrows / bolts",
    "verified": true,
    "market": {
-    "buy": 4500,
+    "buy": 4750,
     "sell": 10000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 5,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4142,6 +4352,12 @@
       "p": 10000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4152,7 +4368,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 7250
+     "v": 7400
     }
    ],
    "range": {
@@ -4260,16 +4476,16 @@
    "name": "Conveyor Left",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4200,
+   "value": 3950,
    "demand": 6,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
-    "buy": 3500,
+    "buy": 3000,
     "sell": 4900,
-    "buyers": 3,
-    "sellers": 6,
-    "islands": 6,
+    "buyers": 4,
+    "sellers": 7,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -4324,6 +4540,18 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4200,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4331,6 +4559,10 @@
     {
      "d": "2026-11-18",
      "v": 4200
+    },
+    {
+     "d": "2026-11-19",
+     "v": 3950
     }
    ],
    "range": {
@@ -4344,16 +4576,16 @@
    "name": "Conveyor Right",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3950,
+   "value": 3700,
    "demand": 4,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
-    "buy": 3000,
+    "buy": 2500,
     "sell": 4900,
-    "buyers": 2,
-    "sellers": 6,
-    "islands": 6,
+    "buyers": 3,
+    "sellers": 7,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -4402,6 +4634,18 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4200,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4412,7 +4656,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 3950
+     "v": 3700
     }
    ],
    "range": {
@@ -4468,16 +4712,16 @@
    "name": "Industrial Furnace",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 40000,
-   "demand": 6,
+   "value": 44000,
+   "demand": 5,
    "source": "Smelts ores and blocks. Every listing was sold out",
    "verified": true,
    "market": {
     "buy": 30000,
-    "sell": 50000,
+    "sell": 57500,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -4490,6 +4734,12 @@
       "p": 30000,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 65000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4500,12 +4750,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 40000
+     "v": 44000
     }
    ],
    "range": {
     "low": 30000,
-    "high": 50000
+    "high": 65000
    },
    "icon": "icons/industrial-furnace.png"
   },
@@ -4514,16 +4764,16 @@
    "name": "Arcane Ballista",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1525000,
+   "value": 1595000,
    "demand": 10,
    "source": "Arcane defense. Every listing was sold out",
    "verified": true,
    "market": {
-    "buy": 1100000,
-    "sell": 1950000,
-    "buyers": 6,
-    "sellers": 4,
-    "islands": 6,
+    "buy": 1200000,
+    "sell": 1990000,
+    "buyers": 7,
+    "sellers": 5,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -4584,6 +4834,18 @@
       "p": 1200000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1400000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1990000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4594,7 +4856,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1525000
+     "v": 1595000
     }
    ],
    "range": {
@@ -4608,16 +4870,16 @@
    "name": "Slime Beacon",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1550000,
+   "value": 1495000,
    "demand": 10,
    "source": "Summons slimes. Sold out",
    "verified": true,
    "market": {
-    "buy": 1350000,
+    "buy": 1300000,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -4630,6 +4892,12 @@
       "p": 1450000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1300000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4640,7 +4908,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1550000
+     "v": 1495000
     }
    ],
    "range": {
@@ -4653,16 +4921,16 @@
    "name": "Arcane Gold",
    "category": "Ores & Ingots",
    "rarity": "Legendary",
-   "value": 675000,
+   "value": 690000,
    "demand": 10,
    "source": "Arcane-tier gold ingot",
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 850000,
-    "buyers": 7,
-    "sellers": 7,
-    "islands": 8,
+    "sell": 875000,
+    "buyers": 8,
+    "sellers": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -4747,6 +5015,18 @@
       "p": 835000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 950000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4757,12 +5037,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 675000
+     "v": 690000
     }
    ],
    "range": {
     "low": 450000,
-    "high": 949999
+    "high": 950000
    },
    "icon": "icons/arcane-gold.png"
   },
@@ -4778,9 +5058,9 @@
    "market": {
     "buy": 125000,
     "sell": 250000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 8,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -4877,6 +5157,12 @@
       "p": 225000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 150000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4897,16 +5183,16 @@
    "name": "Arcane Iron",
    "category": "Ores & Ingots",
    "rarity": "Uncommon",
-   "value": 1150,
+   "value": 1200,
    "demand": 10,
    "source": "Arcane-tier iron ingot",
    "verified": true,
    "market": {
-    "buy": 950,
-    "sell": 1350,
-    "buyers": 6,
-    "sellers": 6,
-    "islands": 8,
+    "buy": 1000,
+    "sell": 1400,
+    "buyers": 7,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -4979,6 +5265,18 @@
       "p": 900,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1100,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1400,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -4989,7 +5287,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1150
+     "v": 1200
     }
    ],
    "range": {
@@ -5003,16 +5301,16 @@
    "name": "Arcane Coal",
    "category": "Ores & Ingots",
    "rarity": "Uncommon",
-   "value": 800,
+   "value": 774,
    "demand": 10,
    "source": "Arcane-tier coal",
    "verified": true,
    "market": {
-    "buy": 600,
+    "buy": 550,
     "sell": 999,
-    "buyers": 9,
-    "sellers": 6,
-    "islands": 8,
+    "buyers": 10,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -5097,6 +5395,18 @@
       "p": 600,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5107,7 +5417,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 800
+     "v": 774
     }
    ],
    "range": {
@@ -5121,16 +5431,16 @@
    "name": "Gear",
    "category": "Materials",
    "rarity": "Common",
-   "value": 110,
-   "demand": 3,
+   "value": 112,
+   "demand": 2,
    "source": "Crafting component",
    "verified": true,
    "market": {
     "buy": 65,
-    "sell": 155,
+    "sell": 160,
     "buyers": 2,
-    "sellers": 6,
-    "islands": 6,
+    "sellers": 7,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -5179,6 +5489,12 @@
       "p": 150,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 175,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5189,7 +5505,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 110
+     "v": 112
     }
    ],
    "range": {
@@ -5203,16 +5519,16 @@
    "name": "Morten Chestplate",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 4150000,
+   "value": 4450000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 3000000,
-    "sell": 5300000,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 6,
+    "buy": 3500000,
+    "sell": 5400000,
+    "buyers": 6,
+    "sellers": 4,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -5261,6 +5577,18 @@
       "p": 5300000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 4000000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 5800000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5271,12 +5599,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4150000
+     "v": 4450000
     }
    ],
    "range": {
     "low": 3000000,
-    "high": 5500000
+    "high": 5800000
    },
    "icon": "icons/morten-chestplate.png"
   },
@@ -5285,16 +5613,16 @@
    "name": "Morten Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 900000,
+   "value": 935000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 600000,
-    "sell": 1199999,
-    "buyers": 6,
-    "sellers": 1,
-    "islands": 6,
+    "buy": 670000,
+    "sell": 1200000,
+    "buyers": 7,
+    "sellers": 2,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -5337,6 +5665,18 @@
       "p": 765000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 670000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1200000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5347,12 +5687,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 900000
+     "v": 935000
     }
    ],
    "range": {
     "low": 450000,
-    "high": 1199999
+    "high": 1200000
    },
    "icon": "icons/morten-plush.png"
   },
@@ -5361,16 +5701,16 @@
    "name": "Morten Boots",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 510000,
+   "value": 525000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 350000,
+    "buy": 375000,
     "sell": 675000,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 3,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -5431,6 +5771,12 @@
       "p": 675000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 450000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5441,7 +5787,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 510000
+     "v": 525000
     }
    ],
    "range": {
@@ -5455,16 +5801,16 @@
    "name": "Morten Cape",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 74500,
+   "value": 76000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 60000,
-    "sell": 88750,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "buy": 62500,
+    "sell": 90000,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -5519,6 +5865,18 @@
       "p": 87500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 65000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 120000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5529,12 +5887,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 74500
+     "v": 76000
     }
    ],
    "range": {
     "low": 50000,
-    "high": 109999
+    "high": 120000
    },
    "icon": "icons/morten-cape.png"
   },
@@ -5543,16 +5901,16 @@
    "name": "Morten Mask",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 74500,
+   "value": 76000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 60000,
-    "sell": 88750,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "buy": 62500,
+    "sell": 90000,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -5607,6 +5965,18 @@
       "p": 87500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 65000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 120000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -5617,12 +5987,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 74500
+     "v": 76000
     }
    ],
    "range": {
     "low": 50000,
-    "high": 109999
+    "high": 120000
    },
    "icon": "icons/morten-mask.png"
   },
@@ -6067,8 +6437,8 @@
     "buy": 10000,
     "sell": 17999,
     "buyers": 5,
-    "sellers": 3,
-    "islands": 5,
+    "sellers": 4,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -6117,6 +6487,12 @@
       "p": 9900,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 18000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -6132,7 +6508,7 @@
    ],
    "range": {
     "low": 8000,
-    "high": 17999
+    "high": 18000
    },
    "icon": "icons/lumber-mill-i.png"
   },
@@ -7005,16 +7381,16 @@
    "name": "Colored Clay Block (any color)",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 13500,
+   "value": 12500,
    "demand": 10,
    "source": "Dyed clay. Black, Blue, Green, Lime, Orange, Pink, Purple, Red, Sky, White, Yellow",
    "verified": true,
    "market": {
     "buy": 10000,
-    "sell": 17125,
-    "buyers": 32,
-    "sellers": 12,
-    "islands": 3,
+    "sell": 15000,
+    "buyers": 40,
+    "sellers": 16,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -7051,6 +7427,18 @@
       "p": 19250,
       "n": 6,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 7500,
+      "n": 8,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 12000,
+      "n": 4,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -7058,14 +7446,10 @@
     {
      "d": "2026-11-18",
      "v": 12500
-    },
-    {
-     "d": "2026-11-19",
-     "v": 13500
     }
    ],
    "range": {
-    "low": 10000,
+    "low": 7500,
     "high": 19250
    },
    "icon": "icons/colored-clay-block.png"
@@ -7199,16 +7583,16 @@
    "name": "Output Chest",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 2100,
-   "demand": 8,
+   "value": 1900,
+   "demand": 9,
    "source": "Storage, output side",
    "verified": true,
    "market": {
-    "buy": 1200,
-    "sell": 3000,
-    "buyers": 5,
-    "sellers": 6,
-    "islands": 5,
+    "buy": 1250,
+    "sell": 2500,
+    "buyers": 6,
+    "sellers": 7,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -7269,6 +7653,18 @@
       "p": 1800,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1300,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -7276,10 +7672,6 @@
     {
      "d": "2026-11-18",
      "v": 1900
-    },
-    {
-     "d": "2026-11-19",
-     "v": 2100
     }
    ],
    "range": {
@@ -7294,15 +7686,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 1750,
-   "demand": 6,
+   "demand": 7,
    "source": "Storage, input side",
    "verified": true,
    "market": {
     "buy": 1000,
     "sell": 2500,
-    "buyers": 4,
-    "sellers": 6,
-    "islands": 5,
+    "buyers": 5,
+    "sellers": 7,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -7357,6 +7749,18 @@
       "p": 1650,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1200,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -7377,16 +7781,16 @@
    "name": "Large Chest",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 2450,
-   "demand": 7,
+   "value": 2500,
+   "demand": 8,
    "source": "Big storage",
    "verified": true,
    "market": {
-    "buy": 1875,
+    "buy": 2000,
     "sell": 3000,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 2,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -7411,6 +7815,18 @@
       "p": 1500,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 3000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -7421,7 +7837,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 2450
+     "v": 2500
     }
    ],
    "range": {
@@ -7435,16 +7851,16 @@
    "name": "Conveyor",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4600,
-   "demand": 7,
+   "value": 4200,
+   "demand": 8,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
-    "buy": 3250,
-    "sell": 5900,
-    "buyers": 4,
-    "sellers": 5,
-    "islands": 6,
+    "buy": 3000,
+    "sell": 5450,
+    "buyers": 5,
+    "sellers": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -7499,6 +7915,18 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4200,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -7509,7 +7937,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4600
+     "v": 4200
     }
    ],
    "range": {
@@ -7873,15 +8301,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 700,
-   "demand": 3,
+   "demand": 2,
    "source": "Arcane fluid pipe",
    "verified": true,
    "market": {
     "buy": null,
     "sell": 700,
     "buyers": 0,
-    "sellers": 3,
-    "islands": 3,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -7900,6 +8328,12 @@
       "p": 700,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 500,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -7914,7 +8348,7 @@
     }
    ],
    "range": {
-    "low": 700,
+    "low": 500,
     "high": 750
    },
    "icon": "icons/arcane-pipe.png"
@@ -8040,16 +8474,16 @@
    "name": "Arcane Table",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 4150000,
-   "demand": 9,
+   "value": 4250000,
+   "demand": 10,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
-    "buy": 3300000,
+    "buy": 3500000,
     "sell": 5000000,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 7,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -8122,6 +8556,12 @@
       "p": 4300000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 3500000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -8129,6 +8569,10 @@
     {
      "d": "2026-11-18",
      "v": 4150000
+    },
+    {
+     "d": "2026-11-19",
+     "v": 4250000
     }
    ],
    "range": {
@@ -8443,16 +8887,16 @@
    "name": "DV Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 9625000,
-   "demand": 7,
+   "value": 9875000,
+   "demand": 8,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
-    "buy": 6750000,
-    "sell": 12500000,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 2,
+    "buy": 6000000,
+    "sell": 13750000,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -8471,6 +8915,18 @@
       "p": 7500000,
       "n": 1,
       "where": "Plush collector, island 8 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 15000000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -8481,12 +8937,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 9625000
+     "v": 9875000
     }
    ],
    "range": {
-    "low": 6000000,
-    "high": 12500000
+    "low": 5000000,
+    "high": 15000000
    }
   },
   {
@@ -8494,16 +8950,16 @@
    "name": "Yellow Shiny (any)",
    "category": "Flowers",
    "rarity": "Epic",
-   "value": 105000,
+   "value": 100000,
    "demand": 10,
    "source": "Solar, Sunburst, Corona, Radiant, Dawn, Zenith. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 57500,
+    "buy": 50000,
     "sell": 149999,
-    "buyers": 12,
-    "sellers": 6,
-    "islands": 2,
+    "buyers": 18,
+    "sellers": 10,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -8522,6 +8978,18 @@
       "p": 149999,
       "n": 6,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 45000,
+      "n": 6,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 95000,
+      "n": 4,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -8532,11 +9000,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 105000
+     "v": 100000
     }
    ],
    "range": {
-    "low": 50000,
+    "low": 45000,
     "high": 149999
    },
    "icon": "icons/yellow-shiny.png"
@@ -8546,16 +9014,16 @@
    "name": "Red Shiny (any)",
    "category": "Flowers",
    "rarity": "Rare",
-   "value": 6500,
+   "value": 5750,
    "demand": 10,
    "source": "Phoenix, Inferno, Cinder, Blaze, Magma, Ember. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 4000,
-    "sell": 9000,
-    "buyers": 12,
-    "sellers": 11,
-    "islands": 2,
+    "buy": 3000,
+    "sell": 8499,
+    "buyers": 18,
+    "sellers": 17,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -8580,6 +9048,18 @@
       "p": 8499,
       "n": 5,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 6,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 6,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -8590,7 +9070,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 6500
+     "v": 5750
     }
    ],
    "range": {
@@ -8604,16 +9084,16 @@
    "name": "Blue Shiny (any)",
    "category": "Flowers",
    "rarity": "Uncommon",
-   "value": 1150,
+   "value": 1050,
    "demand": 10,
    "source": "Midnight, Ocean, Electric, Fiery, Frozen, Storm. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 525,
-    "sell": 1800,
-    "buyers": 12,
-    "sellers": 12,
-    "islands": 2,
+    "buy": 500,
+    "sell": 1600,
+    "buyers": 18,
+    "sellers": 18,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -8638,6 +9118,18 @@
       "p": 1999,
       "n": 6,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 6,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 6,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -8648,7 +9140,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1150
+     "v": 1050
     }
    ],
    "range": {
@@ -9080,9 +9572,9 @@
    "market": {
     "buy": 90000,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -9095,6 +9587,12 @@
       "p": 90000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 180000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
@@ -9106,7 +9604,7 @@
    ],
    "range": {
     "low": 90000,
-    "high": 90000
+    "high": 180000
    }
   },
   {
@@ -9232,15 +9730,15 @@
    "category": "Machines",
    "rarity": "Epic",
    "value": 50000,
-   "demand": 6,
+   "demand": 7,
    "source": "Crafts machines",
    "verified": true,
    "market": {
     "buy": 25000,
     "sell": 75000,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 1,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -9253,6 +9751,18 @@
       "p": 25000,
       "n": 2,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 180000,
+      "n": 1,
+      "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
      }
     ]
    },
