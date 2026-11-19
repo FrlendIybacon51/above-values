@@ -721,8 +721,8 @@
     "buy": 20000,
     "sell": 40000,
     "buyers": 9,
-    "sellers": 9,
-    "islands": 10,
+    "sellers": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -831,6 +831,12 @@
       "p": 40000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 35000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -7466,8 +7472,8 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 42,
-    "sellers": 18,
+    "buyers": 51,
+    "sellers": 27,
     "islands": 5,
     "listings": [
      {
@@ -7529,6 +7535,18 @@
       "p": 15000,
       "n": 2,
       "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 6500,
+      "n": 9,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 9,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -7556,8 +7574,8 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 35,
-    "sellers": 26,
+    "buyers": 41,
+    "sellers": 32,
     "islands": 4,
     "listings": [
      {
@@ -7606,6 +7624,18 @@
       "t": "sell",
       "p": 15000,
       "n": 4,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 6500,
+      "n": 6,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 6,
       "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
