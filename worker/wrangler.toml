@@ -1,0 +1,10 @@
+name = "above-values-votes"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[[kv_namespaces]]
+binding = "VOTES"
+id = "PASTE_YOUR_KV_ID_HERE"
+
+[vars]
+SALT = "change-me-to-any-random-words"
