@@ -16,9 +16,9 @@
    "market": {
     "buy": 700000,
     "sell": 1550000,
-    "buyers": 12,
+    "buyers": 13,
     "sellers": 3,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -85,6 +85,12 @@
       "p": 600000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1100000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -198,9 +204,9 @@
    "market": {
     "buy": 700000,
     "sell": 950000,
-    "buyers": 9,
+    "buyers": 10,
     "sellers": 3,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -243,6 +249,12 @@
       "p": 550000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1100000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -268,16 +280,16 @@
    "name": "Soul Scepter",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 575000,
+   "value": 555000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 750000,
-    "buyers": 8,
-    "sellers": 5,
-    "islands": 8,
+    "sell": 712500,
+    "buyers": 9,
+    "sellers": 6,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -356,6 +368,18 @@
       "p": 625000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 675000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -366,7 +390,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 575000
+     "v": 555000
     }
    ],
    "range": {
@@ -380,16 +404,16 @@
    "name": "Soulfire Bow",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 645000,
+   "value": 640000,
    "demand": 10,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
     "buy": 450000,
-    "sell": 837500,
-    "buyers": 8,
-    "sellers": 6,
-    "islands": 8,
+    "sell": 825000,
+    "buyers": 9,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -474,6 +498,18 @@
       "p": 500000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 825000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -484,7 +520,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 645000
+     "v": 640000
     }
    ],
    "range": {
@@ -506,9 +542,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 6,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -587,6 +623,12 @@
       "p": 1150000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -619,8 +661,8 @@
     "buy": 20000,
     "sell": 40000,
     "buyers": 8,
-    "sellers": 7,
-    "islands": 8,
+    "sellers": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -711,6 +753,12 @@
       "p": 22000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 45000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -742,9 +790,9 @@
    "market": {
     "buy": 250000,
     "sell": 1000000,
-    "buyers": 10,
+    "buyers": 11,
     "sellers": 4,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -829,6 +877,12 @@
       "p": 250000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 450000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -861,8 +915,8 @@
     "buy": 35000,
     "sell": 55000,
     "buyers": 10,
-    "sellers": 10,
-    "islands": 11,
+    "sellers": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -983,6 +1037,12 @@
       "p": 54999,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 57000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -1009,10 +1069,10 @@
    "verified": true,
    "market": {
     "buy": 7000,
-    "sell": 13250,
-    "buyers": 12,
-    "sellers": 8,
-    "islands": 12,
+    "sell": 13500,
+    "buyers": 13,
+    "sellers": 9,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -1133,6 +1193,18 @@
       "p": 11000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 7500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 13500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -1288,10 +1360,10 @@
    "verified": true,
    "market": {
     "buy": 1400,
-    "sell": 2999,
-    "buyers": 12,
-    "sellers": 9,
-    "islands": 12,
+    "sell": 3000,
+    "buyers": 13,
+    "sellers": 10,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -1418,6 +1490,18 @@
       "p": 1400,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 3000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -1449,9 +1533,9 @@
    "market": {
     "buy": 1000,
     "sell": 2500,
-    "buyers": 8,
-    "sellers": 7,
-    "islands": 8,
+    "buyers": 9,
+    "sellers": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -1542,6 +1626,18 @@
       "p": 2500,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -1563,16 +1659,16 @@
    "name": "Candy Corn",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 1000,
-   "demand": 7,
+   "value": 975,
+   "demand": 10,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
-    "buy": 600,
+    "buy": 500,
     "sell": 1450,
-    "buyers": 3,
+    "buyers": 5,
     "sellers": 3,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -1609,6 +1705,12 @@
       "p": 600,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 100,
+      "n": 2,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -1619,11 +1721,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1000
+     "v": 975
     }
    ],
    "range": {
-    "low": 500,
+    "low": 100,
     "high": 1499
    },
    "icon": "icons/candy-corn.png"
@@ -2115,16 +2217,16 @@
    "name": "Berry Bush Seed",
    "category": "Crops",
    "rarity": "Uncommon",
-   "value": 625,
-   "demand": 7,
+   "value": 638,
+   "demand": 6,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 400,
-    "sell": 850,
+    "sell": 875,
     "buyers": 5,
-    "sellers": 7,
-    "islands": 7,
+    "sellers": 9,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -2191,6 +2293,12 @@
       "p": 999,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 875,
+      "n": 2,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -2201,7 +2309,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 625
+     "v": 638
     }
    ],
    "range": {
@@ -2215,16 +2323,16 @@
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
    "rarity": "Rare",
-   "value": 6500,
+   "value": 6750,
    "demand": 10,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 8000,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 8,
+    "sell": 8500,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -2297,6 +2405,18 @@
       "p": 5500,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 6000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 9500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -2307,7 +2427,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 6500
+     "v": 6750
     }
    ],
    "range": {
@@ -2326,11 +2446,11 @@
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
-    "buy": 4250,
-    "sell": 8999,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 7,
+    "buy": 4500,
+    "sell": 8750,
+    "buyers": 7,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -2397,6 +2517,18 @@
       "p": 8500,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 8500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -2657,16 +2789,16 @@
    "name": "Pine Wood",
    "category": "Materials",
    "rarity": "Common",
-   "value": 130,
-   "demand": 10,
+   "value": 71,
+   "demand": 8,
    "source": "Pine trees, Lumber Mill",
    "verified": true,
    "market": {
-    "buy": 182,
+    "buy": 65,
     "sell": 77,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 4,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -2697,6 +2829,12 @@
       "p": 300,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 15,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -2707,11 +2845,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 130
+     "v": 71
     }
    ],
    "range": {
-    "low": 65,
+    "low": 15,
     "high": 600
    },
    "icon": "icons/pine-wood.png"
@@ -2721,16 +2859,16 @@
    "name": "Glass",
    "category": "Materials",
    "rarity": "Common",
-   "value": 24,
+   "value": 21,
    "demand": 6,
    "source": "Industrial Furnace: Sand",
    "verified": true,
    "market": {
     "buy": 10,
-    "sell": 39,
+    "sell": 32,
     "buyers": 3,
-    "sellers": 3,
-    "islands": 4,
+    "sellers": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -2767,6 +2905,12 @@
       "p": 10,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 15,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -2774,6 +2918,10 @@
     {
      "d": "2026-11-18",
      "v": 24
+    },
+    {
+     "d": "2026-11-19",
+     "v": 21
     }
    ],
    "range": {
@@ -2794,9 +2942,9 @@
    "market": {
     "buy": 22500,
     "sell": 34999,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 1,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -2821,6 +2969,12 @@
       "p": 23500,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 24000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3115,16 +3269,16 @@
    "name": "Stone Brick",
    "category": "Blocks",
    "rarity": "Common",
-   "value": 32,
-   "demand": 5,
+   "value": 28,
+   "demand": 6,
    "source": "Block Press: Stone",
    "verified": true,
    "market": {
     "buy": 15,
-    "sell": 49,
-    "buyers": 2,
-    "sellers": 3,
-    "islands": 3,
+    "sell": 40,
+    "buyers": 3,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3155,6 +3309,18 @@
       "p": 50,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 8,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3165,11 +3331,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 32
+     "v": 28
     }
    ],
    "range": {
-    "low": 15,
+    "low": 8,
     "high": 50
    }
   },
@@ -3306,16 +3472,16 @@
    "name": "Brick Block",
    "category": "Blocks",
    "rarity": "Common",
-   "value": 32,
-   "demand": 9,
+   "value": 26,
+   "demand": 10,
    "source": "Industrial Furnace: Clay Block",
    "verified": true,
    "market": {
     "buy": 15,
-    "sell": 50,
-    "buyers": 4,
-    "sellers": 1,
-    "islands": 3,
+    "sell": 38,
+    "buyers": 5,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -3340,6 +3506,18 @@
       "p": 25,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 8,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3350,11 +3528,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 32
+     "v": 26
     }
    ],
    "range": {
-    "low": 9,
+    "low": 8,
     "high": 50
    },
    "icon": "icons/brick-block.png"
@@ -3415,16 +3593,16 @@
    "name": "Glass Block",
    "category": "Blocks",
    "rarity": "Common",
-   "value": 40,
-   "demand": 7,
+   "value": 32,
+   "demand": 6,
    "source": "Industrial Furnace: Sand Block",
    "verified": true,
    "market": {
     "buy": 20,
-    "sell": 60,
+    "sell": 45,
     "buyers": 2,
-    "sellers": 1,
-    "islands": 2,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -3443,6 +3621,12 @@
       "p": 30,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 30,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3453,7 +3637,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 40
+     "v": 32
     }
    ],
    "range": {
@@ -3467,16 +3651,16 @@
    "name": "Coal Block",
    "category": "Blocks",
    "rarity": "Common",
-   "value": 31,
+   "value": 25,
    "demand": 6,
    "source": "Block Press: Coal",
    "verified": true,
    "market": {
     "buy": 12,
-    "sell": 50,
+    "sell": 38,
     "buyers": 2,
-    "sellers": 1,
-    "islands": 2,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -3495,6 +3679,12 @@
       "p": 15,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3505,7 +3695,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 31
+     "v": 25
     }
    ],
    "range": {
@@ -3682,11 +3872,11 @@
    "source": "Arcane machine",
    "verified": true,
    "market": {
-    "buy": 1150000,
-    "sell": 1950000,
-    "buyers": 6,
-    "sellers": 4,
-    "islands": 6,
+    "buy": 1200000,
+    "sell": 1900000,
+    "buyers": 7,
+    "sellers": 5,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -3741,6 +3931,18 @@
       "p": 2000000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1250000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1850000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3772,9 +3974,9 @@
    "market": {
     "buy": 800000,
     "sell": 835000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 2,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -3787,6 +3989,12 @@
       "p": 800000,
       "n": 8,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "buy",
+      "p": 450000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3797,7 +4005,7 @@
     }
    ],
    "range": {
-    "low": 800000,
+    "low": 450000,
     "high": 835000
    },
    "icon": "icons/lumber-mill.png"
@@ -3808,15 +4016,15 @@
    "category": "Machines",
    "rarity": "Epic",
    "value": 250000,
-   "demand": 9,
+   "demand": 10,
    "source": "Lets you sell to other players",
    "verified": true,
    "market": {
-    "buy": 175000,
-    "sell": 325000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "buy": 182500,
+    "sell": 317500,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3841,6 +4049,18 @@
       "p": 175000,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 190000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 310000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3864,16 +4084,16 @@
    "name": "Fletching Machine",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7600,
-   "demand": 7,
+   "value": 7250,
+   "demand": 9,
    "source": "Makes arrows / bolts",
    "verified": true,
    "market": {
-    "buy": 3500,
-    "sell": 11750,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 4,
+    "buy": 4500,
+    "sell": 10000,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -3910,6 +4130,18 @@
       "p": 10000,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 10000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -3920,7 +4152,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 7600
+     "v": 7250
     }
    ],
    "range": {
@@ -3934,16 +4166,16 @@
    "name": "Splitter",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3900,
-   "demand": 7,
+   "value": 4650,
+   "demand": 8,
    "source": "Conveyor splitter",
    "verified": true,
    "market": {
-    "buy": 1900,
-    "sell": 5900,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 5,
+    "buy": 2500,
+    "sell": 6800,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -3992,6 +4224,18 @@
       "p": 1300,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 4000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 7500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4002,12 +4246,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 3900
+     "v": 4650
     }
    ],
    "range": {
     "low": 1300,
-    "high": 7000
+    "high": 7500
    },
    "icon": "icons/splitter.png"
   },
@@ -4017,15 +4261,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 4200,
-   "demand": 5,
+   "demand": 6,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 3500,
     "sell": 4900,
-    "buyers": 2,
-    "sellers": 5,
-    "islands": 5,
+    "buyers": 3,
+    "sellers": 6,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4068,6 +4312,18 @@
       "p": 4900,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4078,7 +4334,7 @@
     }
    ],
    "range": {
-    "low": 3500,
+    "low": 2500,
     "high": 6500
    },
    "icon": "icons/conveyor-left.png"
@@ -4088,16 +4344,16 @@
    "name": "Conveyor Right",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4200,
+   "value": 3950,
    "demand": 4,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
-    "buy": 3500,
+    "buy": 3000,
     "sell": 4900,
-    "buyers": 1,
-    "sellers": 5,
-    "islands": 5,
+    "buyers": 2,
+    "sellers": 6,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4134,6 +4390,18 @@
       "p": 4900,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4144,11 +4412,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4200
+     "v": 3950
     }
    ],
    "range": {
-    "low": 3500,
+    "low": 2500,
     "high": 6500
    },
    "icon": "icons/conveyor-right.png"
@@ -4246,16 +4514,16 @@
    "name": "Arcane Ballista",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1475000,
+   "value": 1525000,
    "demand": 10,
    "source": "Arcane defense. Every listing was sold out",
    "verified": true,
    "market": {
-    "buy": 1000000,
+    "buy": 1100000,
     "sell": 1950000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 4,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4310,6 +4578,12 @@
       "p": 1500000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4320,7 +4594,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1475000
+     "v": 1525000
     }
    ],
    "range": {
@@ -4334,22 +4608,28 @@
    "name": "Slime Beacon",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1440000,
-   "demand": 8,
+   "value": 1550000,
+   "demand": 10,
    "source": "Summons slimes. Sold out",
    "verified": true,
    "market": {
-    "buy": 1250000,
+    "buy": 1350000,
     "sell": null,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 1250000,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1450000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4360,12 +4640,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1440000
+     "v": 1550000
     }
    ],
    "range": {
     "low": 1250000,
-    "high": 1250000
+    "high": 1450000
    }
   },
   {
@@ -4373,16 +4653,16 @@
    "name": "Arcane Gold",
    "category": "Ores & Ingots",
    "rarity": "Legendary",
-   "value": 690000,
+   "value": 675000,
    "demand": 10,
    "source": "Arcane-tier gold ingot",
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 875000,
+    "sell": 850000,
     "buyers": 7,
-    "sellers": 6,
-    "islands": 7,
+    "sellers": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -4461,6 +4741,12 @@
       "p": 800000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 835000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4471,7 +4757,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 690000
+     "v": 675000
     }
    ],
    "range": {
@@ -4492,9 +4778,9 @@
    "market": {
     "buy": 125000,
     "sell": 250000,
-    "buyers": 7,
-    "sellers": 7,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 8,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -4579,6 +4865,18 @@
       "p": 250000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 190000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 225000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4599,16 +4897,16 @@
    "name": "Arcane Iron",
    "category": "Ores & Ingots",
    "rarity": "Uncommon",
-   "value": 1200,
-   "demand": 9,
+   "value": 1150,
+   "demand": 10,
    "source": "Arcane-tier iron ingot",
    "verified": true,
    "market": {
-    "buy": 1000,
+    "buy": 950,
     "sell": 1350,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 6,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -4675,6 +4973,12 @@
       "p": 1500,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 900,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4685,7 +4989,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1200
+     "v": 1150
     }
    ],
    "range": {
@@ -4699,16 +5003,16 @@
    "name": "Arcane Coal",
    "category": "Ores & Ingots",
    "rarity": "Uncommon",
-   "value": 774,
+   "value": 800,
    "demand": 10,
    "source": "Arcane-tier coal",
    "verified": true,
    "market": {
-    "buy": 550,
+    "buy": 600,
     "sell": 999,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 6,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -4787,6 +5091,12 @@
       "p": 799,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 600,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4797,7 +5107,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 774
+     "v": 800
     }
    ],
    "range": {
@@ -4893,16 +5203,16 @@
    "name": "Morten Chestplate",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 4000000,
+   "value": 4150000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
     "buy": 3000000,
-    "sell": 5000000,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 5,
+    "sell": 5300000,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -4939,6 +5249,18 @@
       "p": 4000000,
       "n": 1,
       "where": "Plush collector, island 8 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 4000000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 5300000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -4949,7 +5271,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4000000
+     "v": 4150000
     }
    ],
    "range": {
@@ -4963,16 +5285,16 @@
    "name": "Morten Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 850000,
+   "value": 900000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 500000,
+    "buy": 600000,
     "sell": 1199999,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 1,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -5009,6 +5331,12 @@
       "p": 500000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 765000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5019,7 +5347,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 850000
+     "v": 900000
     }
    ],
    "range": {
@@ -5032,17 +5360,17 @@
    "id": "morten-boots",
    "name": "Morten Boots",
    "category": "Gear",
-   "rarity": "Epic",
-   "value": 490000,
+   "rarity": "Legendary",
+   "value": 510000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
     "buy": 350000,
-    "sell": 625000,
-    "buyers": 6,
-    "sellers": 2,
-    "islands": 6,
+    "sell": 675000,
+    "buyers": 7,
+    "sellers": 3,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -5091,6 +5419,18 @@
       "p": 750000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 675000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5101,7 +5441,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 490000
+     "v": 510000
     }
    ],
    "range": {
@@ -5115,16 +5455,16 @@
    "name": "Morten Cape",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 75000,
-   "demand": 9,
+   "value": 74500,
+   "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
     "buy": 60000,
-    "sell": 90000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 4,
+    "sell": 88750,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -5167,6 +5507,18 @@
       "p": 90000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 67500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 87500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5177,7 +5529,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 75000
+     "v": 74500
     }
    ],
    "range": {
@@ -5191,16 +5543,16 @@
    "name": "Morten Mask",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 75000,
-   "demand": 9,
+   "value": 74500,
+   "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
     "buy": 60000,
-    "sell": 90000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 4,
+    "sell": 88750,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -5243,6 +5595,18 @@
       "p": 90000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 67500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 87500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5253,7 +5617,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 75000
+     "v": 74500
     }
    ],
    "range": {
@@ -5420,9 +5784,9 @@
    "market": {
     "buy": 28000,
     "sell": null,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 0,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -5453,6 +5817,12 @@
       "p": 24900,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 32000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5464,7 +5834,7 @@
    ],
    "range": {
     "low": 24900,
-    "high": 30000
+    "high": 32000
    },
    "icon": "icons/onion-harvester.png"
   },
@@ -5474,15 +5844,15 @@
    "category": "Machines",
    "rarity": "Rare",
    "value": 14500,
-   "demand": 7,
+   "demand": 9,
    "source": "Auto-harvests tomatoes",
    "verified": true,
    "market": {
     "buy": 10000,
     "sell": 18999,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 3,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -5519,6 +5889,12 @@
       "p": 18999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 15000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5543,16 +5919,16 @@
    "name": "Carrot Harvester",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 6000,
-   "demand": 8,
+   "value": 6250,
+   "demand": 9,
    "source": "Auto-harvests carrots",
    "verified": true,
    "market": {
-    "buy": 4000,
+    "buy": 4500,
     "sell": 7999,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 3,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -5583,6 +5959,18 @@
       "p": 7999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 10000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5593,12 +5981,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 6000
+     "v": 6250
     }
    ],
    "range": {
     "low": 4000,
-    "high": 7999
+    "high": 10000
    },
    "icon": "icons/carrot-harvester.png"
   },
@@ -5607,16 +5995,16 @@
    "name": "Wheat Harvester",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 1600,
-   "demand": 8,
+   "value": 1700,
+   "demand": 7,
    "source": "Auto-harvests wheat",
    "verified": true,
    "market": {
     "buy": 750,
-    "sell": 2499,
+    "sell": 2700,
     "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -5641,6 +6029,12 @@
       "p": 2499,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2900,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5651,12 +6045,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 1600
+     "v": 1700
     }
    ],
    "range": {
     "low": 750,
-    "high": 2499
+    "high": 2900
    },
    "icon": "icons/wheat-harvester.png"
   },
@@ -5747,16 +6141,16 @@
    "name": "Stone Drill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 10000,
-   "demand": 8,
+   "value": 10500,
+   "demand": 9,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 6000,
-    "sell": 13999,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "buy": 7000,
+    "sell": 14250,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -5781,6 +6175,18 @@
       "p": 6000,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 14500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5788,15 +6194,11 @@
     {
      "d": "2026-11-18",
      "v": 10500
-    },
-    {
-     "d": "2026-11-19",
-     "v": 10000
     }
    ],
    "range": {
     "low": 6000,
-    "high": 13999
+    "high": 14500
    },
    "icon": "icons/stone-drill-i.png"
   },
@@ -5857,16 +6259,16 @@
    "name": "Clay Drill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 15000,
-   "demand": 7,
+   "value": 15500,
+   "demand": 8,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 10000,
-    "sell": 19999,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 11000,
+    "sell": 20000,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -5903,6 +6305,18 @@
       "p": 19999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 18000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 22000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5910,15 +6324,11 @@
     {
      "d": "2026-11-18",
      "v": 15500
-    },
-    {
-     "d": "2026-11-19",
-     "v": 15000
     }
    ],
    "range": {
     "low": 10000,
-    "high": 20000
+    "high": 22000
    },
    "icon": "icons/clay-drill-i.png"
   },
@@ -5927,16 +6337,16 @@
    "name": "Sand Drill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 15000,
-   "demand": 7,
+   "value": 15500,
+   "demand": 8,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 10000,
-    "sell": 19999,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 11000,
+    "sell": 20000,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -5973,6 +6383,18 @@
       "p": 19999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 18000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 21000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -5980,15 +6402,11 @@
     {
      "d": "2026-11-18",
      "v": 15500
-    },
-    {
-     "d": "2026-11-19",
-     "v": 15000
     }
    ],
    "range": {
     "low": 10000,
-    "high": 20000
+    "high": 21000
    },
    "icon": "icons/sand-drill-i.png"
   },
@@ -5997,16 +6415,16 @@
    "name": "Overflow Chest",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7850,
+   "value": 7600,
    "demand": 10,
    "source": "Storage",
    "verified": true,
    "market": {
-    "buy": 4000,
-    "sell": 11700,
-    "buyers": 7,
-    "sellers": 4,
-    "islands": 6,
+    "buy": 4250,
+    "sell": 10900,
+    "buyers": 8,
+    "sellers": 5,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -6061,6 +6479,18 @@
       "p": 10900,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 7500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6071,7 +6501,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 7850
+     "v": 7600
     }
    ],
    "range": {
@@ -6212,9 +6642,9 @@
    "market": {
     "buy": 800,
     "sell": 1100,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 1,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -6251,6 +6681,12 @@
       "p": 600,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 800,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6272,15 +6708,15 @@
    "category": "Crops",
    "rarity": "Uncommon",
    "value": 450,
-   "demand": 10,
+   "demand": 9,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 200,
     "sell": 700,
     "buyers": 5,
-    "sellers": 2,
-    "islands": 5,
+    "sellers": 3,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -6323,6 +6759,12 @@
       "p": 700,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6563,16 +7005,16 @@
    "name": "Colored Clay Block (any color)",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 12000,
+   "value": 13500,
    "demand": 10,
    "source": "Dyed clay. Black, Blue, Green, Lime, Orange, Pink, Purple, Red, Sky, White, Yellow",
    "verified": true,
    "market": {
     "buy": 10000,
-    "sell": 14500,
-    "buyers": 22,
-    "sellers": 6,
-    "islands": 2,
+    "sell": 17125,
+    "buyers": 32,
+    "sellers": 12,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -6597,6 +7039,18 @@
       "p": 10000,
       "n": 11,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 13000,
+      "n": 10,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 19250,
+      "n": 6,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6607,12 +7061,12 @@
     },
     {
      "d": "2026-11-19",
-     "v": 12000
+     "v": 13500
     }
    ],
    "range": {
     "low": 10000,
-    "high": 15000
+    "high": 19250
    },
    "icon": "icons/colored-clay-block.png"
   },
@@ -6621,16 +7075,16 @@
    "name": "Colored Glass Block (any color)",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 12000,
+   "value": 12500,
    "demand": 10,
    "source": "Dyed glass. Blue, Green, Lime, Orange, Pink, Purple, Red, Sky, White, Yellow",
    "verified": true,
    "market": {
     "buy": 10000,
-    "sell": 14500,
-    "buyers": 21,
-    "sellers": 14,
-    "islands": 2,
+    "sell": 15000,
+    "buyers": 31,
+    "sellers": 22,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -6655,6 +7109,18 @@
       "p": 10000,
       "n": 11,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 13000,
+      "n": 10,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 19250,
+      "n": 8,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6662,15 +7128,11 @@
     {
      "d": "2026-11-18",
      "v": 12500
-    },
-    {
-     "d": "2026-11-19",
-     "v": 12000
     }
    ],
    "range": {
     "low": 10000,
-    "high": 15000
+    "high": 19250
    },
    "icon": "icons/colored-glass-block.png"
   },
@@ -6737,16 +7199,16 @@
    "name": "Output Chest",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 2400,
-   "demand": 7,
+   "value": 2100,
+   "demand": 8,
    "source": "Storage, output side",
    "verified": true,
    "market": {
-    "buy": 1250,
-    "sell": 3500,
-    "buyers": 4,
-    "sellers": 5,
-    "islands": 4,
+    "buy": 1200,
+    "sell": 3000,
+    "buyers": 5,
+    "sellers": 6,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -6795,6 +7257,18 @@
       "p": 3500,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1200,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1800,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6805,7 +7279,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 2400
+     "v": 2100
     }
    ],
    "range": {
@@ -6820,15 +7294,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 1750,
-   "demand": 5,
+   "demand": 6,
    "source": "Storage, input side",
    "verified": true,
    "market": {
     "buy": 1000,
     "sell": 2500,
-    "buyers": 3,
-    "sellers": 5,
-    "islands": 4,
+    "buyers": 4,
+    "sellers": 6,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -6871,6 +7345,18 @@
       "p": 3500,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1200,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1650,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -6949,16 +7435,16 @@
    "name": "Conveyor",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4700,
+   "value": 4600,
    "demand": 7,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
-    "buy": 3500,
-    "sell": 5950,
-    "buyers": 3,
-    "sellers": 4,
-    "islands": 5,
+    "buy": 3250,
+    "sell": 5900,
+    "buyers": 4,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -7001,6 +7487,18 @@
       "p": 5000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7011,11 +7509,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4700
+     "v": 4600
     }
    ],
    "range": {
-    "low": 3000,
+    "low": 2500,
     "high": 6500
    },
    "icon": "icons/conveyor.png"
@@ -7025,16 +7523,16 @@
    "name": "Conveyor Ramp Up",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4250,
-   "demand": 4,
+   "value": 4000,
+   "demand": 5,
    "source": "Conveyor incline",
    "verified": true,
    "market": {
-    "buy": 3500,
+    "buy": 3000,
     "sell": 5000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 5,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -7065,6 +7563,12 @@
       "p": 4900,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7075,11 +7579,11 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4250
+     "v": 4000
     }
    ],
    "range": {
-    "low": 3500,
+    "low": 2500,
     "high": 6500
    },
    "icon": "icons/conveyor-ramp-up.png"
@@ -7090,15 +7594,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 4600,
-   "demand": 7,
+   "demand": 8,
    "source": "Conveyor decline",
    "verified": true,
    "market": {
     "buy": 3500,
     "sell": 5750,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -7123,6 +7627,12 @@
       "p": 3500,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7137,7 +7647,7 @@
     }
    ],
    "range": {
-    "low": 3500,
+    "low": 2500,
     "high": 6500
    },
    "icon": "icons/conveyor-ramp-down.png"
@@ -7414,16 +7924,16 @@
    "name": "Arcane Pipe Corner",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 725,
-   "demand": 4,
+   "value": 375,
+   "demand": 3,
    "source": "Arcane pipe turn",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 725,
-    "buyers": 0,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 50,
+    "sell": 700,
+    "buyers": 1,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -7436,6 +7946,18 @@
       "p": 700,
       "n": 1,
       "where": "Night market, island 4 (2026-11-18)"
+     },
+     {
+      "t": "buy",
+      "p": 50,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 600,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7443,10 +7965,14 @@
     {
      "d": "2026-11-18",
      "v": 725
+    },
+    {
+     "d": "2026-11-19",
+     "v": 375
     }
    ],
    "range": {
-    "low": 700,
+    "low": 50,
     "high": 750
    },
    "icon": "icons/arcane-pipe-corner.png"
@@ -7456,16 +7982,16 @@
    "name": "Arcane Pipe Up/Down",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 625,
-   "demand": 4,
+   "value": 400,
+   "demand": 3,
    "source": "Vertical arcane pipe",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 625,
-    "buyers": 0,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 50,
+    "sell": 750,
+    "buyers": 1,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -7478,6 +8004,18 @@
       "p": 500,
       "n": 1,
       "where": "Night market, island 4 (2026-11-18)"
+     },
+     {
+      "t": "buy",
+      "p": 50,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1200,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7485,11 +8023,15 @@
     {
      "d": "2026-11-18",
      "v": 625
+    },
+    {
+     "d": "2026-11-19",
+     "v": 400
     }
    ],
    "range": {
-    "low": 500,
-    "high": 750
+    "low": 50,
+    "high": 1200
    },
    "icon": "icons/arcane-pipe-up-down.png"
   },
@@ -7498,16 +8040,16 @@
    "name": "Arcane Table",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 4050000,
-   "demand": 8,
+   "value": 4150000,
+   "demand": 9,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
-    "buy": 3100000,
+    "buy": 3300000,
     "sell": 5000000,
-    "buyers": 5,
-    "sellers": 6,
-    "islands": 5,
+    "buyers": 6,
+    "sellers": 7,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -7568,6 +8110,18 @@
       "p": 5500000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 3500000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 4300000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7575,10 +8129,6 @@
     {
      "d": "2026-11-18",
      "v": 4150000
-    },
-    {
-     "d": "2026-11-19",
-     "v": 4050000
     }
    ],
    "range": {
@@ -7638,16 +8188,16 @@
    "name": "Green Slime Block",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 9000,
+   "value": 8400,
    "demand": 8,
    "source": "Block Press: Slime Gel",
    "verified": true,
    "market": {
-    "buy": 6000,
+    "buy": 4750,
     "sell": 12000,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 3,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -7678,6 +8228,18 @@
       "p": 12000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 3500,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7685,6 +8247,10 @@
     {
      "d": "2026-11-18",
      "v": 9000
+    },
+    {
+     "d": "2026-11-19",
+     "v": 8400
     }
    ],
    "range": {
@@ -7697,16 +8263,16 @@
    "name": "Blue Slime Block",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 6150,
-   "demand": 9,
+   "value": 6300,
+   "demand": 10,
    "source": "Block Press: Blue Slime Gel",
    "verified": true,
    "market": {
-    "buy": 4800,
-    "sell": 7500,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "buy": 4400,
+    "sell": 8250,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -7731,6 +8297,18 @@
       "p": 4800,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 4000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7738,11 +8316,15 @@
     {
      "d": "2026-11-18",
      "v": 6150
+    },
+    {
+     "d": "2026-11-19",
+     "v": 6300
     }
    ],
    "range": {
     "low": 4000,
-    "high": 7500
+    "high": 9000
    }
   },
   {
@@ -7750,16 +8332,16 @@
    "name": "Pink Slime Block",
    "category": "Blocks",
    "rarity": "Epic",
-   "value": 170000,
-   "demand": 8,
+   "value": 155000,
+   "demand": 9,
    "source": "Block Press: Pink Slime Gel",
    "verified": true,
    "market": {
     "buy": 100000,
-    "sell": 240000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "sell": 212500,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -7784,6 +8366,18 @@
       "p": 100000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 185000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 110000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -7791,6 +8385,10 @@
     {
      "d": "2026-11-18",
      "v": 170000
+    },
+    {
+     "d": "2026-11-19",
+     "v": 155000
     }
    ],
    "range": {
@@ -8064,34 +8662,40 @@
    "name": "Sunflower",
    "category": "Flowers",
    "rarity": "Epic",
-   "value": 230000,
-   "demand": 8,
+   "value": 260000,
+   "demand": 10,
    "source": "Rare flower. One 200K bid, nobody selling",
    "verified": true,
    "market": {
-    "buy": 200000,
+    "buy": 225000,
     "sell": null,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 200000,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-19",
-     "v": 230000
+     "v": 260000
     }
    ],
    "range": {
     "low": 200000,
-    "high": 200000
+    "high": 250000
    }
   },
   {
@@ -8375,34 +8979,46 @@
    "name": "Orange Slime Block",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 34500,
-   "demand": 8,
+   "value": 42500,
+   "demand": 7,
    "source": "Block Press: Orange Slime Gel",
    "verified": true,
    "market": {
     "buy": 30000,
-    "sell": null,
-    "buyers": 1,
-    "sellers": 0,
-    "islands": 1,
+    "sell": 55000,
+    "buyers": 2,
+    "sellers": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 30000,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 55000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-19",
-     "v": 34500
+     "v": 42500
     }
    ],
    "range": {
     "low": 30000,
-    "high": 30000
+    "high": 55000
    }
   },
   {
@@ -8458,21 +9074,27 @@
    "category": "Machines",
    "rarity": "Epic",
    "value": 105000,
-   "demand": 8,
+   "demand": 10,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
     "buy": 90000,
     "sell": null,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 90000,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 90000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
      }
     ]
    },
@@ -8725,6 +9347,41 @@
    "range": {
     "low": 8,
     "high": 40
+   }
+  },
+  {
+   "id": "bone-block",
+   "name": "Bone Block",
+   "category": "Blocks",
+   "rarity": "Rare",
+   "value": 6900,
+   "demand": 8,
+   "source": "Block Press: Bone",
+   "verified": true,
+   "market": {
+    "buy": 6000,
+    "sell": null,
+    "buyers": 1,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 6000,
+      "n": 1,
+      "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-19",
+     "v": 6900
+    }
+   ],
+   "range": {
+    "low": 6000,
+    "high": 6000
    }
   }
  ]
