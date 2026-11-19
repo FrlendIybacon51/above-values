@@ -584,9 +584,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 9,
+    "buyers": 10,
     "sellers": 7,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -683,6 +683,12 @@
       "p": 1150000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -697,7 +703,7 @@
     }
    ],
    "range": {
-    "low": 700000,
+    "low": 600000,
     "high": 1200000
    },
    "icon": "icons/gold-crystal.png"
@@ -856,9 +862,9 @@
    "market": {
     "buy": 250000,
     "sell": 1000000,
-    "buyers": 12,
+    "buyers": 13,
     "sellers": 4,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -955,6 +961,12 @@
       "p": 250000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -986,9 +998,9 @@
    "market": {
     "buy": 35000,
     "sell": 55000,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 12,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -1127,6 +1139,12 @@
       "p": 57000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -1154,9 +1172,9 @@
    "market": {
     "buy": 7000,
     "sell": 13500,
-    "buyers": 14,
+    "buyers": 15,
     "sellers": 10,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -1301,6 +1319,12 @@
       "p": 16000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 8500,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -1326,16 +1350,16 @@
    "name": "Slime Gel",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 2450,
+   "value": 2500,
    "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1625,
+    "buy": 1750,
     "sell": 3275,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 9,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -1438,6 +1462,12 @@
       "p": 3450,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -1448,7 +1478,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 2450
+     "v": 2500
     }
    ],
    "range": {
@@ -1469,9 +1499,9 @@
    "market": {
     "buy": 1400,
     "sell": 2999,
-    "buyers": 14,
-    "sellers": 11,
-    "islands": 14,
+    "buyers": 15,
+    "sellers": 12,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -1622,6 +1652,18 @@
       "p": 2500,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1750,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -2365,16 +2407,16 @@
    "name": "Berry Bush Seed",
    "category": "Crops",
    "rarity": "Uncommon",
-   "value": 638,
-   "demand": 6,
+   "value": 631,
+   "demand": 5,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 400,
-    "sell": 875,
+    "sell": 862,
     "buyers": 5,
-    "sellers": 9,
-    "islands": 8,
+    "sellers": 10,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -2447,6 +2489,12 @@
       "p": 875,
       "n": 2,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 800,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -2457,7 +2505,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 638
+     "v": 631
     }
    ],
    "range": {
@@ -3255,16 +3303,16 @@
    "name": "Iron Block",
    "category": "Blocks",
    "rarity": "Common",
-   "value": 28,
-   "demand": 6,
+   "value": 26,
+   "demand": 5,
    "source": "Block Press: Iron Ingots",
    "verified": true,
    "market": {
     "buy": 22,
-    "sell": 34,
+    "sell": 30,
     "buyers": 2,
-    "sellers": 4,
-    "islands": 3,
+    "sellers": 5,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3295,6 +3343,12 @@
       "p": 25,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -3305,7 +3359,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 28
+     "v": 26
     }
    ],
    "range": {
@@ -3773,16 +3827,16 @@
    "name": "Glass Block",
    "category": "Blocks",
    "rarity": "Common",
-   "value": 32,
+   "value": 25,
    "demand": 6,
    "source": "Industrial Furnace: Sand Block",
    "verified": true,
    "market": {
     "buy": 20,
-    "sell": 45,
+    "sell": 30,
     "buyers": 2,
-    "sellers": 2,
-    "islands": 3,
+    "sellers": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -3807,6 +3861,12 @@
       "p": 30,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -3817,7 +3877,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 32
+     "v": 25
     }
    ],
    "range": {
@@ -4477,15 +4537,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 3950,
-   "demand": 6,
+   "demand": 5,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 3000,
     "sell": 4900,
     "buyers": 4,
-    "sellers": 7,
-    "islands": 7,
+    "sellers": 8,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -4552,6 +4612,12 @@
       "p": 4200,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -4584,8 +4650,8 @@
     "buy": 2500,
     "sell": 4900,
     "buyers": 3,
-    "sellers": 7,
-    "islands": 7,
+    "sellers": 8,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -4646,6 +4712,12 @@
       "p": 4200,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -5189,10 +5261,10 @@
    "verified": true,
    "market": {
     "buy": 1000,
-    "sell": 1400,
+    "sell": 1450,
     "buyers": 7,
-    "sellers": 7,
-    "islands": 9,
+    "sellers": 8,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -5277,6 +5349,12 @@
       "p": 1400,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -5292,7 +5370,7 @@
    ],
    "range": {
     "low": 600,
-    "high": 1799
+    "high": 2000
    },
    "icon": "icons/arcane-iron.png"
   },
@@ -7388,9 +7466,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 40,
-    "sellers": 16,
-    "islands": 4,
+    "buyers": 42,
+    "sellers": 18,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -7439,6 +7517,18 @@
       "p": 12000,
       "n": 4,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 6500,
+      "n": 2,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 2,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -7449,7 +7539,7 @@
     }
    ],
    "range": {
-    "low": 7500,
+    "low": 6500,
     "high": 19250
    },
    "icon": "icons/colored-clay-block.png"
@@ -7466,9 +7556,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 31,
-    "sellers": 22,
-    "islands": 3,
+    "buyers": 35,
+    "sellers": 26,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -7505,6 +7595,18 @@
       "p": 19250,
       "n": 8,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 6500,
+      "n": 4,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 4,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -7515,7 +7617,7 @@
     }
    ],
    "range": {
-    "low": 10000,
+    "low": 6500,
     "high": 19250
    },
    "icon": "icons/colored-glass-block.png"
@@ -7851,16 +7953,16 @@
    "name": "Conveyor",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4200,
-   "demand": 8,
+   "value": 4450,
+   "demand": 7,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
     "buy": 3000,
-    "sell": 5450,
+    "sell": 5900,
     "buyers": 5,
-    "sellers": 6,
-    "islands": 7,
+    "sellers": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -7927,6 +8029,12 @@
       "p": 4200,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -7937,7 +8045,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 4200
+     "v": 4450
     }
    ],
    "range": {
@@ -8301,15 +8409,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 700,
-   "demand": 2,
+   "demand": 1,
    "source": "Arcane fluid pipe",
    "verified": true,
    "market": {
     "buy": null,
     "sell": 700,
     "buyers": 0,
-    "sellers": 4,
-    "islands": 4,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -8334,6 +8442,12 @@
       "p": 500,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 550,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -8358,16 +8472,16 @@
    "name": "Arcane Pipe Corner",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 375,
-   "demand": 3,
+   "value": 388,
+   "demand": 4,
    "source": "Arcane pipe turn",
    "verified": true,
    "market": {
-    "buy": 50,
-    "sell": 700,
-    "buyers": 1,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 125,
+    "sell": 650,
+    "buyers": 2,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -8392,6 +8506,18 @@
       "p": 600,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 550,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -8402,7 +8528,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 375
+     "v": 388
     }
    ],
    "range": {
@@ -8416,16 +8542,16 @@
    "name": "Arcane Pipe Up/Down",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 400,
-   "demand": 3,
+   "value": 388,
+   "demand": 4,
    "source": "Vertical arcane pipe",
    "verified": true,
    "market": {
-    "buy": 50,
-    "sell": 750,
-    "buyers": 1,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 125,
+    "sell": 650,
+    "buyers": 2,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -8450,6 +8576,18 @@
       "p": 1200,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 550,
+      "n": 1,
+      "where": "Ice-block shop, island 13 (2026-11-19)"
      }
     ]
    },
@@ -8460,7 +8598,7 @@
     },
     {
      "d": "2026-11-19",
-     "v": 400
+     "v": 388
     }
    ],
    "range": {
