@@ -9,16 +9,16 @@
    "name": "Goldbone Axe",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 1150000,
+   "value": 1175000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast chopping",
    "verified": true,
    "market": {
-    "buy": 750000,
+    "buy": 800000,
     "sell": 1550000,
-    "buyers": 16,
-    "sellers": 3,
-    "islands": 12,
+    "buyers": 19,
+    "sellers": 6,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -109,6 +109,18 @@
       "p": 1000000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 3,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1550000,
+      "n": 3,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -123,7 +135,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1150000
+     "v": 1175000
     }
    ],
    "range": {
@@ -137,16 +149,16 @@
    "name": "Goldbone Pickaxe",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 1125000,
+   "value": 1150000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast gold mining",
    "verified": true,
    "market": {
-    "buy": 700000,
+    "buy": 750000,
     "sell": 1550000,
-    "buyers": 12,
-    "sellers": 3,
-    "islands": 8,
+    "buyers": 15,
+    "sellers": 6,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -213,6 +225,18 @@
       "p": 1600000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 3,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1550000,
+      "n": 3,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -224,6 +248,10 @@
     {
      "d": "2026-11-19",
      "v": 1125000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 1150000
     }
    ],
    "range": {
@@ -237,16 +265,16 @@
    "name": "Goldbone Sword",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 825000,
+   "value": 890000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 700000,
-    "sell": 950000,
-    "buyers": 13,
-    "sellers": 4,
-    "islands": 8,
+    "buy": 725000,
+    "sell": 1050000,
+    "buyers": 16,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -319,6 +347,18 @@
       "p": 800000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 3,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1050000,
+      "n": 3,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -330,6 +370,10 @@
     {
      "d": "2026-11-19",
      "v": 825000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 890000
     }
    ],
    "range": {
@@ -351,9 +395,9 @@
    "market": {
     "buy": 400000,
     "sell": 662500,
-    "buyers": 12,
+    "buyers": 13,
     "sellers": 8,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -474,6 +518,12 @@
       "p": 600000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -502,16 +552,16 @@
    "name": "Soulfire Bow",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 650000,
+   "value": 660000,
    "demand": 10,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
-    "buy": 475000,
+    "buy": 500000,
     "sell": 825000,
-    "buyers": 12,
-    "sellers": 9,
-    "islands": 12,
+    "buyers": 13,
+    "sellers": 10,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -638,6 +688,18 @@
       "p": 800000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 825000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -652,7 +714,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 650000
+     "v": 660000
     }
    ],
    "range": {
@@ -674,9 +736,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 12,
-    "sellers": 9,
-    "islands": 13,
+    "buyers": 13,
+    "sellers": 10,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -803,6 +865,18 @@
       "p": 1200000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1100000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -833,10 +907,10 @@
    "verified": true,
    "market": {
     "buy": 20000,
-    "sell": 40000,
-    "buyers": 11,
-    "sellers": 12,
-    "islands": 13,
+    "sell": 39999,
+    "buyers": 12,
+    "sellers": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -975,6 +1049,18 @@
       "p": 29999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 22000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 34000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -999,16 +1085,16 @@
    "name": "Purple Slime Gel",
    "category": "Materials",
    "rarity": "Legendary",
-   "value": 575000,
+   "value": 525000,
    "demand": 10,
    "source": "Purple Slime",
    "verified": true,
    "market": {
     "buy": 250000,
-    "sell": 900000,
-    "buyers": 15,
-    "sellers": 6,
-    "islands": 15,
+    "sell": 800000,
+    "buyers": 16,
+    "sellers": 7,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -1135,6 +1221,18 @@
       "p": 999999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 350000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 650000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -1149,7 +1247,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 575000
+     "v": 525000
     }
    ],
    "range": {
@@ -1163,16 +1261,16 @@
    "name": "Pink Slime Gel",
    "category": "Materials",
    "rarity": "Rare",
-   "value": 45000,
+   "value": 45500,
    "demand": 10,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 35500,
+    "buy": 36000,
     "sell": 55000,
-    "buyers": 14,
+    "buyers": 15,
     "sellers": 14,
-    "islands": 16,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -1341,6 +1439,12 @@
       "p": 54999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -1348,6 +1452,10 @@
     {
      "d": "2026-11-18",
      "v": 45000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 45500
     }
    ],
    "range": {
@@ -1366,11 +1474,11 @@
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 7500,
+    "buy": 7250,
     "sell": 13500,
-    "buyers": 17,
-    "sellers": 12,
-    "islands": 17,
+    "buyers": 18,
+    "sellers": 13,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -1545,6 +1653,18 @@
       "p": 15000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 7000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 14999,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -1579,11 +1699,11 @@
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1750,
-    "sell": 3275,
-    "buyers": 11,
-    "sellers": 11,
-    "islands": 15,
+    "buy": 1775,
+    "sell": 3262,
+    "buyers": 12,
+    "sellers": 12,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -1716,6 +1836,18 @@
       "p": 2999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1800,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -1745,11 +1877,11 @@
    "source": "Blue Slime (85 HP)",
    "verified": true,
    "market": {
-    "buy": 1400,
-    "sell": 3000,
-    "buyers": 17,
-    "sellers": 14,
-    "islands": 17,
+    "buy": 1450,
+    "sell": 2999,
+    "buyers": 18,
+    "sellers": 15,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -1936,6 +2068,18 @@
       "p": 3249,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1600,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2599,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -1967,9 +2111,9 @@
    "market": {
     "buy": 1000,
     "sell": 2500,
-    "buyers": 11,
-    "sellers": 11,
-    "islands": 12,
+    "buyers": 12,
+    "sellers": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -2102,6 +2246,18 @@
       "p": 1500,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 950,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1800,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -2131,16 +2287,16 @@
    "name": "Candy Corn",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 987,
+   "value": 975,
    "demand": 10,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
     "buy": 500,
-    "sell": 1474,
-    "buyers": 7,
-    "sellers": 6,
-    "islands": 7,
+    "sell": 1450,
+    "buyers": 8,
+    "sellers": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -2213,6 +2369,18 @@
       "p": 1999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 676,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1299,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -2224,6 +2392,10 @@
     {
      "d": "2026-11-19",
      "v": 987
+    },
+    {
+     "d": "2026-11-20",
+     "v": 975
     }
    ],
    "range": {
@@ -2237,16 +2409,16 @@
    "name": "Golden Bread",
    "category": "Food",
    "rarity": "Epic",
-   "value": 57000,
+   "value": 53500,
    "demand": 8,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 50000,
-    "sell": 64250,
-    "buyers": 3,
-    "sellers": 4,
-    "islands": 4,
+    "buy": 42500,
+    "sell": 64999,
+    "buyers": 4,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -2289,6 +2461,18 @@
       "p": 75000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -2303,7 +2487,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 57000
+     "v": 53500
     }
    ],
    "range": {
@@ -2752,15 +2936,15 @@
    "category": "Crops",
    "rarity": "Uncommon",
    "value": 650,
-   "demand": 6,
+   "demand": 7,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 425,
     "sell": 875,
-    "buyers": 8,
-    "sellers": 14,
-    "islands": 11,
+    "buyers": 9,
+    "sellers": 15,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -2863,6 +3047,18 @@
       "p": 999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 425,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 899,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -2898,9 +3094,9 @@
    "market": {
     "buy": 5000,
     "sell": 8000,
-    "buyers": 11,
-    "sellers": 9,
-    "islands": 12,
+    "buyers": 12,
+    "sellers": 10,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -3021,6 +3217,18 @@
       "p": 7500,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4200,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5999,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -3056,9 +3264,9 @@
    "market": {
     "buy": 4000,
     "sell": 8500,
-    "buyers": 11,
-    "sellers": 10,
-    "islands": 11,
+    "buyers": 12,
+    "sellers": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -3173,6 +3381,18 @@
       "p": 6000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -3442,11 +3662,11 @@
    "source": "Pine trees, Lumber Mill",
    "verified": true,
    "market": {
-    "buy": 65,
-    "sell": 77,
-    "buyers": 3,
-    "sellers": 4,
-    "islands": 4,
+    "buy": 52,
+    "sell": 90,
+    "buyers": 4,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -3483,6 +3703,18 @@
       "p": 15,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 40,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 90,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -3686,9 +3918,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 48,
-    "sellers": 42,
-    "islands": 6,
+    "buyers": 54,
+    "sellers": 49,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -3755,6 +3987,18 @@
       "p": 15000,
       "n": 8,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 6,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 7,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -3765,7 +4009,7 @@
     }
    ],
    "range": {
-    "low": 9500,
+    "low": 8000,
     "high": 18500
    },
    "icon": "icons/neon-block.png"
@@ -4503,8 +4747,8 @@
     "buy": 350000,
     "sell": 499999,
     "buyers": 4,
-    "sellers": 34,
-    "islands": 6,
+    "sellers": 48,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -4553,6 +4797,12 @@
       "p": 499999,
       "n": 14,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 499999,
+      "n": 14,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -4633,16 +4883,16 @@
    "name": "Water Pump (Masterwork)",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 4000000,
-   "demand": 3,
+   "value": 3750000,
+   "demand": 2,
    "source": "Masterwork quality: top-tier stats",
    "verified": true,
    "market": {
     "buy": null,
-    "sell": 3999999,
+    "sell": 3750000,
     "buyers": 0,
-    "sellers": 3,
-    "islands": 3,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -4661,6 +4911,12 @@
       "p": 3999999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 3500000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -4671,7 +4927,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4000000
+     "v": 3750000
     }
    ],
    "range": {
@@ -4685,16 +4941,16 @@
    "name": "ARC-100 Fuser",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1540000,
+   "value": 1525000,
    "demand": 10,
    "source": "Arcane machine",
    "verified": true,
    "market": {
     "buy": 1200000,
-    "sell": 1875000,
-    "buyers": 10,
-    "sellers": 8,
-    "islands": 10,
+    "sell": 1850000,
+    "buyers": 11,
+    "sellers": 9,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -4797,6 +5053,18 @@
       "p": 1800000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1100000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1750000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -4811,7 +5079,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1540000
+     "v": 1525000
     }
    ],
    "range": {
@@ -4832,9 +5100,9 @@
    "market": {
     "buy": 800000,
     "sell": 835000,
-    "buyers": 12,
-    "sellers": 3,
-    "islands": 6,
+    "buyers": 13,
+    "sellers": 4,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -4877,6 +5145,18 @@
       "p": 600000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 650000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 650000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -4897,16 +5177,16 @@
    "name": "Vending Machine",
    "category": "Machines",
    "rarity": "Epic",
-   "value": 240000,
+   "value": 230000,
    "demand": 10,
    "source": "Lets you sell to other players",
    "verified": true,
    "market": {
-    "buy": 195000,
-    "sell": 288500,
-    "buyers": 6,
-    "sellers": 4,
-    "islands": 6,
+    "buy": 190000,
+    "sell": 267000,
+    "buyers": 7,
+    "sellers": 5,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -4967,6 +5247,18 @@
       "p": 267000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 170000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 260000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -4981,11 +5273,11 @@
     },
     {
      "d": "2026-11-20",
-     "v": 240000
+     "v": 230000
     }
    ],
    "range": {
-    "low": 175000,
+    "low": 170000,
     "high": 325000
    }
   },
@@ -5092,16 +5384,16 @@
    "name": "Splitter",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 5500,
+   "value": 5400,
    "demand": 10,
    "source": "Conveyor splitter",
    "verified": true,
    "market": {
-    "buy": 4000,
+    "buy": 3750,
     "sell": 7000,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 7,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -5186,6 +5478,12 @@
       "p": 8000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -5200,7 +5498,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 5500
+     "v": 5400
     }
    ],
    "range": {
@@ -5214,16 +5512,16 @@
    "name": "Conveyor Left",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3600,
+   "value": 3700,
    "demand": 7,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4700,
-    "buyers": 6,
-    "sellers": 10,
-    "islands": 10,
+    "sell": 4900,
+    "buyers": 7,
+    "sellers": 11,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -5320,6 +5618,18 @@
       "p": 4000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -5334,7 +5644,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 3600
+     "v": 3700
     }
    ],
    "range": {
@@ -5348,16 +5658,16 @@
    "name": "Conveyor Right",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3600,
-   "demand": 5,
+   "value": 3700,
+   "demand": 6,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4700,
-    "buyers": 5,
-    "sellers": 10,
-    "islands": 10,
+    "sell": 4900,
+    "buyers": 6,
+    "sellers": 11,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -5448,6 +5758,18 @@
       "p": 4000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -5459,10 +5781,6 @@
     {
      "d": "2026-11-19",
      "v": 3700
-    },
-    {
-     "d": "2026-11-20",
-     "v": 3600
     }
    ],
    "range": {
@@ -5580,16 +5898,16 @@
    "name": "Arcane Ballista",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1595000,
+   "value": 1570000,
    "demand": 10,
    "source": "Arcane defense. Every listing was sold out",
    "verified": true,
    "market": {
     "buy": 1200000,
-    "sell": 1990000,
-    "buyers": 9,
-    "sellers": 5,
-    "islands": 9,
+    "sell": 1945000,
+    "buyers": 10,
+    "sellers": 6,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -5674,6 +5992,18 @@
       "p": 1200000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1800000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -5685,6 +6015,10 @@
     {
      "d": "2026-11-19",
      "v": 1595000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 1570000
     }
    ],
    "range": {
@@ -5698,16 +6032,16 @@
    "name": "Slime Beacon",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1580000,
+   "value": 1665000,
    "demand": 10,
    "source": "Summons slimes. Sold out",
    "verified": true,
    "market": {
-    "buy": 1375000,
+    "buy": 1450000,
     "sell": null,
-    "buyers": 4,
+    "buyers": 6,
     "sellers": 0,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -5732,6 +6066,12 @@
       "p": 1450000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1500000,
+      "n": 2,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -5746,12 +6086,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1580000
+     "v": 1665000
     }
    ],
    "range": {
     "low": 1250000,
-    "high": 1450000
+    "high": 1500000
    }
   },
   {
@@ -5765,10 +6105,10 @@
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 850000,
-    "buyers": 10,
-    "sellers": 9,
-    "islands": 11,
+    "sell": 849500,
+    "buyers": 11,
+    "sellers": 10,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -5883,6 +6223,18 @@
       "p": 650000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 699999,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -5918,9 +6270,9 @@
    "market": {
     "buy": 125000,
     "sell": 250000,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 10,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -6047,6 +6399,12 @@
       "p": 225000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 120000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6074,9 +6432,9 @@
    "market": {
     "buy": 1000,
     "sell": 1400,
-    "buyers": 9,
-    "sellers": 9,
-    "islands": 12,
+    "buyers": 10,
+    "sellers": 10,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -6185,6 +6543,18 @@
       "p": 1400,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1100,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1300,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6209,16 +6579,16 @@
    "name": "Arcane Coal",
    "category": "Ores & Ingots",
    "rarity": "Uncommon",
-   "value": 774,
+   "value": 800,
    "demand": 10,
    "source": "Arcane-tier coal",
    "verified": true,
    "market": {
-    "buy": 550,
+    "buy": 600,
     "sell": 999,
-    "buyers": 12,
-    "sellers": 8,
-    "islands": 11,
+    "buyers": 13,
+    "sellers": 9,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -6333,6 +6703,18 @@
       "p": 900,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1400,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6344,11 +6726,15 @@
     {
      "d": "2026-11-19",
      "v": 774
+    },
+    {
+     "d": "2026-11-20",
+     "v": 800
     }
    ],
    "range": {
     "low": 200,
-    "high": 1200
+    "high": 1400
    },
    "icon": "icons/arcane-coal.png"
   },
@@ -6357,16 +6743,16 @@
    "name": "Gear",
    "category": "Materials",
    "rarity": "Common",
-   "value": 116,
-   "demand": 3,
+   "value": 111,
+   "demand": 5,
    "source": "Crafting component",
    "verified": true,
    "market": {
-    "buy": 65,
-    "sell": 168,
-    "buyers": 3,
-    "sellers": 8,
-    "islands": 8,
+    "buy": 67,
+    "sell": 155,
+    "buyers": 5,
+    "sellers": 10,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -6433,6 +6819,18 @@
       "p": 175,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 67,
+      "n": 2,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 140,
+      "n": 2,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6447,7 +6845,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 116
+     "v": 111
     }
    ],
    "range": {
@@ -6468,9 +6866,9 @@
    "market": {
     "buy": 4000000,
     "sell": 5500000,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 5,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -6543,6 +6941,12 @@
       "p": 7500000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4300000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6571,16 +6975,16 @@
    "name": "Morten Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 920000,
+   "value": 890000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
     "buy": 685000,
-    "sell": 1150000,
+    "sell": 1100000,
     "buyers": 8,
-    "sellers": 4,
-    "islands": 9,
+    "sellers": 5,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -6653,6 +7057,12 @@
       "p": 1100000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 999999,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6667,7 +7077,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 920000
+     "v": 890000
     }
    ],
    "range": {
@@ -6681,16 +7091,16 @@
    "name": "Morten Boots",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 550000,
+   "value": 560000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 425000,
+    "buy": 450000,
     "sell": 675000,
-    "buyers": 10,
+    "buyers": 11,
     "sellers": 5,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -6781,6 +7191,12 @@
       "p": 900000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 570000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6795,7 +7211,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 550000
+     "v": 560000
     }
    ],
    "range": {
@@ -6809,16 +7225,16 @@
    "name": "Morten Cape",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 76000,
+   "value": 75000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 62500,
+    "buy": 60000,
     "sell": 90000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 6,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -6903,6 +7319,12 @@
       "p": 90000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -6914,6 +7336,10 @@
     {
      "d": "2026-11-19",
      "v": 76000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 75000
     }
    ],
    "range": {
@@ -6927,16 +7353,16 @@
    "name": "Morten Mask",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 76000,
+   "value": 75000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 62500,
+    "buy": 60000,
     "sell": 90000,
-    "buyers": 8,
-    "sellers": 6,
-    "islands": 8,
+    "buyers": 9,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -7021,6 +7447,18 @@
       "p": 90000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 84999,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -7032,6 +7470,10 @@
     {
      "d": "2026-11-19",
      "v": 76000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 75000
     }
    ],
    "range": {
@@ -7576,9 +8018,9 @@
    "market": {
     "buy": 10000,
     "sell": 17500,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 6,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -7657,6 +8099,12 @@
       "p": 15000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -8013,16 +8461,16 @@
    "name": "Overflow Chest",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7800,
+   "value": 7700,
    "demand": 10,
    "source": "Storage",
    "verified": true,
    "market": {
-    "buy": 4750,
+    "buy": 4500,
     "sell": 10900,
-    "buyers": 10,
+    "buyers": 11,
     "sellers": 7,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -8113,6 +8561,12 @@
       "p": 9000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -8127,7 +8581,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 7800
+     "v": 7700
     }
    ],
    "range": {
@@ -8141,16 +8595,16 @@
    "name": "Pine Tree Sapling",
    "category": "Crops",
    "rarity": "Uncommon",
-   "value": 2000,
+   "value": 2600,
    "demand": 7,
    "source": "Grows a pine tree",
    "verified": true,
    "market": {
-    "buy": 1000,
-    "sell": 2999,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 1150,
+    "sell": 4000,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -8187,6 +8641,18 @@
       "p": 15000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -8194,6 +8660,10 @@
     {
      "d": "2026-11-18",
      "v": 2000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 2600
     }
    ],
    "range": {
@@ -8718,9 +9188,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 71,
-    "sellers": 47,
-    "islands": 7,
+    "buyers": 82,
+    "sellers": 58,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -8817,6 +9287,18 @@
       "p": 15000,
       "n": 12,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 11,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 11,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -8844,9 +9326,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 59,
-    "sellers": 48,
-    "islands": 6,
+    "buyers": 69,
+    "sellers": 57,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -8931,6 +9413,18 @@
       "p": 15000,
       "n": 10,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 10,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 9,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9038,9 +9532,9 @@
    "market": {
     "buy": 1200,
     "sell": 2500,
-    "buyers": 8,
-    "sellers": 9,
-    "islands": 8,
+    "buyers": 9,
+    "sellers": 10,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -9137,6 +9631,18 @@
       "p": 1800,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1400,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2100,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9161,16 +9667,16 @@
    "name": "Input Chest",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 1850,
+   "value": 1700,
    "demand": 9,
    "source": "Storage, input side",
    "verified": true,
    "market": {
-    "buy": 1200,
-    "sell": 2500,
-    "buyers": 7,
-    "sellers": 9,
-    "islands": 8,
+    "buy": 1100,
+    "sell": 2250,
+    "buyers": 8,
+    "sellers": 10,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -9261,6 +9767,18 @@
       "p": 1800,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9271,7 +9789,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1850
+     "v": 1700
     }
    ],
    "range": {
@@ -9367,16 +9885,16 @@
    "name": "Conveyor",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4200,
-   "demand": 10,
+   "value": 4000,
+   "demand": 9,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
     "buy": 3000,
-    "sell": 5450,
+    "sell": 5000,
     "buyers": 7,
-    "sellers": 8,
-    "islands": 10,
+    "sellers": 9,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -9467,6 +9985,12 @@
       "p": 3500,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9481,7 +10005,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4200
+     "v": 4000
     }
    ],
    "range": {
@@ -9495,16 +10019,16 @@
    "name": "Conveyor Ramp Up",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3700,
+   "value": 3750,
    "demand": 7,
    "source": "Conveyor incline",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4950,
-    "buyers": 4,
-    "sellers": 6,
-    "islands": 7,
+    "sell": 5000,
+    "buyers": 5,
+    "sellers": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -9559,6 +10083,18 @@
       "p": 4000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9573,7 +10109,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 3700
+     "v": 3750
     }
    ],
    "range": {
@@ -9587,16 +10123,16 @@
    "name": "Conveyor Ramp Down",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3500,
+   "value": 3750,
    "demand": 10,
    "source": "Conveyor decline",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4500,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "sell": 5000,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -9651,6 +10187,18 @@
       "p": 4000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9665,7 +10213,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 3500
+     "v": 3750
     }
    ],
    "range": {
@@ -9922,16 +10470,16 @@
    "name": "Arcane Pipe",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 350,
-   "demand": 1,
+   "value": 362,
+   "demand": 2,
    "source": "Arcane fluid pipe",
    "verified": true,
    "market": {
-    "buy": 50,
-    "sell": 650,
-    "buyers": 1,
-    "sellers": 6,
-    "islands": 6,
+    "buy": 125,
+    "sell": 600,
+    "buyers": 2,
+    "sellers": 7,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -9974,6 +10522,18 @@
       "p": 600,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -9988,7 +10548,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 350
+     "v": 362
     }
    ],
    "range": {
@@ -10003,15 +10563,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 325,
-   "demand": 4,
+   "demand": 3,
    "source": "Arcane pipe turn",
    "verified": true,
    "market": {
     "buy": 50,
     "sell": 600,
     "buyers": 3,
-    "sellers": 5,
-    "islands": 5,
+    "sellers": 6,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -10060,6 +10620,12 @@
       "p": 600,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -10088,16 +10654,16 @@
    "name": "Arcane Pipe Up/Down",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 400,
-   "demand": 4,
+   "value": 388,
+   "demand": 5,
    "source": "Vertical arcane pipe",
    "verified": true,
    "market": {
-    "buy": 50,
-    "sell": 750,
-    "buyers": 3,
-    "sellers": 5,
-    "islands": 5,
+    "buy": 125,
+    "sell": 650,
+    "buyers": 4,
+    "sellers": 6,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -10146,6 +10712,18 @@
       "p": 1200,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -10157,10 +10735,6 @@
     {
      "d": "2026-11-19",
      "v": 388
-    },
-    {
-     "d": "2026-11-20",
-     "v": 400
     }
    ],
    "range": {
@@ -10181,9 +10755,9 @@
    "market": {
     "buy": 3100000,
     "sell": 5000000,
-    "buyers": 9,
-    "sellers": 8,
-    "islands": 9,
+    "buyers": 10,
+    "sellers": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -10280,6 +10854,18 @@
       "p": 2000000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2400000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 3300000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -10689,16 +11275,16 @@
    "name": "DV Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 9375000,
-   "demand": 9,
+   "value": 9500000,
+   "demand": 10,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
     "buy": 6000000,
-    "sell": 12750000,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "sell": 13000000,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -10753,6 +11339,18 @@
       "p": 13000000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 7000067,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 13500000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -10767,7 +11365,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 9375000
+     "v": 9500000
     }
    ],
    "range": {
@@ -10780,16 +11378,16 @@
    "name": "Yellow Shiny (any)",
    "category": "Flowers",
    "rarity": "Epic",
-   "value": 100000,
+   "value": 76000,
    "demand": 10,
    "source": "Solar, Sunburst, Corona, Radiant, Dawn, Zenith. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 50000,
-    "sell": 149999,
-    "buyers": 18,
-    "sellers": 10,
-    "islands": 3,
+    "buy": 52500,
+    "sell": 100000,
+    "buyers": 24,
+    "sellers": 16,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -10820,6 +11418,18 @@
       "p": 95000,
       "n": 4,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 55000,
+      "n": 6,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 100000,
+      "n": 6,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -10831,6 +11441,10 @@
     {
      "d": "2026-11-19",
      "v": 100000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 76000
     }
    ],
    "range": {
@@ -10984,16 +11598,16 @@
    "name": "Sunflower",
    "category": "Flowers",
    "rarity": "Legendary",
-   "value": 500000,
-   "demand": 9,
+   "value": 510000,
+   "demand": 10,
    "source": "Rare flower. One 200K bid, nobody selling",
    "verified": true,
    "market": {
-    "buy": 275000,
+    "buy": 300000,
     "sell": 725000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -11030,6 +11644,12 @@
       "p": 750000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -11040,7 +11660,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 500000
+     "v": 510000
     }
    ],
    "range": {
@@ -11493,16 +12113,16 @@
    "name": "Lumber Mill II",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 4045000,
-   "demand": 7,
+   "value": 2080000,
+   "demand": 8,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
     "buy": 90000,
-    "sell": 8000000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 4,
+    "sell": 4065000,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -11527,6 +12147,18 @@
       "p": 8000000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 65000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 130000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -11537,11 +12169,11 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4045000
+     "v": 2080000
     }
    ],
    "range": {
-    "low": 90000,
+    "low": 65000,
     "high": 8000000
    },
    "note": "An 8M ask at the mega shop on 11-20 was ignored as a troll listing (bids are 90\u2013180K)."
@@ -11649,22 +12281,34 @@
    "name": "Recycler",
    "category": "Machines",
    "rarity": "Epic",
-   "value": 57500,
+   "value": 62500,
    "demand": 8,
    "source": "Recycles items",
    "verified": true,
    "market": {
-    "buy": 50000,
-    "sell": null,
-    "buyers": 1,
-    "sellers": 0,
-    "islands": 1,
+    "buy": 45000,
+    "sell": 80000,
+    "buyers": 2,
+    "sellers": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 50000,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 80000,
+      "n": 1,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -11672,28 +12316,32 @@
     {
      "d": "2026-11-19",
      "v": 57500
+    },
+    {
+     "d": "2026-11-20",
+     "v": 62500
     }
    ],
    "range": {
-    "low": 50000,
-    "high": 50000
+    "low": 40000,
+    "high": 80000
    }
   },
   {
    "id": "machinery-workbench",
    "name": "Machinery Workbench",
    "category": "Machines",
-   "rarity": "Epic",
-   "value": 50000,
-   "demand": 6,
+   "rarity": "Rare",
+   "value": 39000,
+   "demand": 9,
    "source": "Crafts machines",
    "verified": true,
    "market": {
-    "buy": 25000,
-    "sell": 75000,
-    "buyers": 3,
-    "sellers": 4,
-    "islands": 3,
+    "buy": 20000,
+    "sell": 57500,
+    "buyers": 7,
+    "sellers": 8,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -11724,6 +12372,18 @@
       "p": 5000000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 20000,
+      "n": 4,
+      "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 54999,
+      "n": 4,
+      "where": "RedRen's market, island 15 (2026-11-20)"
      }
     ]
    },
@@ -11731,10 +12391,14 @@
     {
      "d": "2026-11-19",
      "v": 50000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 39000
     }
    ],
    "range": {
-    "low": 25000,
+    "low": 20000,
     "high": 5000000
    }
   },
