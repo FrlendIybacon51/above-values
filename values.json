@@ -780,9 +780,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 13,
-    "sellers": 10,
-    "islands": 14,
+    "buyers": 14,
+    "sellers": 11,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -921,6 +921,18 @@
       "p": 1100000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 900000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1200000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -951,10 +963,10 @@
    "verified": true,
    "market": {
     "buy": 20000,
-    "sell": 39999,
-    "buyers": 12,
-    "sellers": 13,
-    "islands": 14,
+    "sell": 40000,
+    "buyers": 13,
+    "sellers": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -1105,6 +1117,18 @@
       "p": 34000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 15000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 40000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -1119,7 +1143,7 @@
     }
    ],
    "range": {
-    "low": 17500,
+    "low": 15000,
     "high": 50000
    },
    "icon": "icons/soul-crystal.png"
@@ -3210,9 +3234,9 @@
    "market": {
     "buy": 5000,
     "sell": 8000,
-    "buyers": 12,
-    "sellers": 10,
-    "islands": 13,
+    "buyers": 13,
+    "sellers": 11,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -3345,6 +3369,18 @@
       "p": 5999,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 6500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -3373,16 +3409,16 @@
    "name": "Gold Ore",
    "category": "Ores & Ingots",
    "rarity": "Rare",
-   "value": 6250,
+   "value": 5750,
    "demand": 10,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
     "buy": 4000,
-    "sell": 8500,
-    "buyers": 12,
-    "sellers": 11,
-    "islands": 12,
+    "sell": 7500,
+    "buyers": 13,
+    "sellers": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -3509,6 +3545,18 @@
       "p": 5500,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 6500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -3523,7 +3571,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 6250
+     "v": 5750
     }
    ],
    "range": {
@@ -6292,9 +6340,9 @@
    "market": {
     "buy": 500000,
     "sell": 849500,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 10,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -6421,6 +6469,12 @@
       "p": 699999,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -6449,16 +6503,16 @@
    "name": "Arcane Bone",
    "category": "Materials",
    "rarity": "Epic",
-   "value": 190000,
+   "value": 185000,
    "demand": 10,
    "source": "Arcane-tier bone",
    "verified": true,
    "market": {
     "buy": 125000,
-    "sell": 250000,
-    "buyers": 12,
-    "sellers": 10,
-    "islands": 12,
+    "sell": 249999,
+    "buyers": 13,
+    "sellers": 11,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -6591,6 +6645,18 @@
       "p": 120000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 150000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 225000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -6598,6 +6664,10 @@
     {
      "d": "2026-11-18",
      "v": 190000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 185000
     }
    ],
    "range": {
@@ -6772,9 +6842,9 @@
    "market": {
     "buy": 600,
     "sell": 999,
-    "buyers": 13,
-    "sellers": 9,
-    "islands": 12,
+    "buyers": 14,
+    "sellers": 10,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -6901,6 +6971,18 @@
       "p": 1400,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 640,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 700,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
