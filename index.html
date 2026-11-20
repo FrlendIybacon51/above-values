@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 <style>
 :root{
-  /* Night sky over floating islands: deep navy base, teal glow accent, gold coin values, rarity-tinted card tops.
+  /* Night sky over floating islands: deep navy base, teal glow accent, gold coin values, category-tinted card tops.
      Layout: header + sticky filter bar, then category sections of square item cards (or compact rows); details open in a modal. */
   --bg:#0a1020;
   --bg-2:#0f1830;
@@ -373,7 +373,6 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
       <button class="navbtn" id="navcalc" title="Win / fair / lose trade checker">⚖️ <span class="lb">Trade calc</span></button>
     </div>
     <div class="tabs" id="tabs" role="group" aria-label="Category"></div>
-    <div class="rar" id="rar" role="group" aria-label="Rarity"></div>
   </div>
 
   <section class="editor" id="editor">
@@ -431,8 +430,8 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
 (function(){
   // === CONFIG === paste your Cloudflare Worker URL here once it exists, e.g. "https://above-values-votes.yourname.workers.dev"
   window.ABOVE_VOTE_API = window.ABOVE_VOTE_API || "https://above-values-votes.christopherangarita8.workers.dev";
-  const RARITY=["Legendary","Epic","Rare","Uncommon","Common"];
-  const RC={Common:"var(--r-common)",Uncommon:"var(--r-uncommon)",Rare:"var(--r-rare)",Epic:"var(--r-epic)",Legendary:"var(--r-legendary)"};
+  const CC={"Gear":"#ffb02e","Crystals":"#36d6dd","Flowers":"#ff7ad9","Machines":"#8da2c0","Blocks":"#b26bff","Materials":"#45d57a","Crops":"#9be15d","Food":"#ff8a5c","Ores & Ingots":"#f2c14e"};
+  const colorOf=i=>CC[i.category]||"#8d9bb8";
   const state={data:null,items:[],q:"",cat:"All",rar:"All",sort:"value",view:"grid",realOnly:false,give:[],get:[],modal:null};
   const $=s=>document.querySelector(s);
   const fmt=n=>Number(n).toLocaleString("en-US");
@@ -452,7 +451,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     "Machines":'<path d="M12 22h40v30H12z"/><path d="M20 22v-8h24v8M20 36h8v8h-8zM36 36h8M36 44h8" stroke-linecap="round"/>',
     "Flowers":'<circle cx="32" cy="26" r="9"/><path d="M32 35v21M32 44c-6 0-10-4-10-9 6 0 10 3 10 9zM32 50c6 0 10-4 10-9-6 0-10 3-10 9z"/>'
   };
-  const placeholder=(i,extraStyle)=>'<svg class="ph" style="'+(extraStyle||"")+'" viewBox="0 0 64 64" fill="none" stroke="'+RC[i.rarity]+'" stroke-width="3" stroke-linejoin="round" aria-hidden="true">'+(GLYPH[i.category]||GLYPH["Materials"])+'</svg>';
+  const placeholder=(i,extraStyle)=>'<svg class="ph" style="'+(extraStyle||"")+'" viewBox="0 0 64 64" fill="none" stroke="'+colorOf(i)+'" stroke-width="3" stroke-linejoin="round" aria-hidden="true">'+(GLYPH[i.category]||GLYPH["Materials"])+'</svg>';
   const imgTag=i=>'<img src="'+esc(i.icon||("icons/"+i.id+".png"))+'" alt="" loading="lazy" onerror="this.hidden=true;this.nextElementSibling.style.display=\'block\'">'+placeholder(i,"display:none");
   const words=n=>esc(n).replace(/\s*\((any|any color)\)/i,"").split(" ").map(w=>'<span>'+w+'</span>').join(" ");
   const artHTML=(i,extra)=>'<div class="art">'+(extra||"")+'<div class="tn" data-len="'+(i.name.length>18?"long":i.name.length>11?"mid":"short")+'">'+words(i.name)+'</div><div class="tc">'+esc(i.category)+'</div></div>';
@@ -490,7 +489,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
   function init(){
     const s=pref("sort"); if(s&&[...$("#sort").options].some(o=>o.value===s)){state.sort=s;$("#sort").value=s;}
     const v=pref("view"); if(v==="list"||v==="grid") state.view=v;
-    renderMeta(); renderTabs(); renderRar(); renderViewSeg(); renderList(); initWfl(); route();
+    renderMeta(); renderTabs(); renderViewSeg(); renderList(); initWfl(); route();
     $("#q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();$("#searchbox").classList.toggle("has",!!state.q);renderList();});
     $("#qclr").addEventListener("click",()=>{$("#q").value="";state.q="";$("#searchbox").classList.remove("has");renderList();$("#q").focus();});
     $("#sort").addEventListener("change",e=>{state.sort=e.target.value;pref("sort",state.sort);renderList();});
@@ -533,18 +532,13 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
   const cats=()=>["All",...new Set(state.items.map(i=>i.category))];
   function renderTabs(){
     const counts={}; state.items.forEach(i=>counts[i.category]=(counts[i.category]||0)+1);
-    $("#tabs").innerHTML=cats().map(c=>'<button class="tab" data-c="'+esc(c)+'" aria-pressed="'+(state.cat===c)+'">'+esc(c)+'<small>'+(c==="All"?state.items.length:counts[c])+'</small></button>').join("");
-    $("#tabs").querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>{state.cat=b.dataset.c;renderTabs();renderList();}));
+    $("#tabs").innerHTML=cats().map(c=>'<button class="tab" data-c="'+esc(c)+'" aria-pressed="'+(state.cat===c)+'">'+esc(c)+'<small>'+(c==="All"?state.items.length:counts[c])+'</small></button>').join("")+
+      '<span style="flex:1"></span><button class="tab toggle" id="realonly" aria-pressed="'+state.realOnly+'" title="Hide items that have no market listing yet">✓ Seen in market only</button>';
+    $("#tabs").querySelectorAll(".tab[data-c]").forEach(b=>b.addEventListener("click",()=>{state.cat=b.dataset.c;renderTabs();renderList();}));
+    $("#realonly").addEventListener("click",()=>{state.realOnly=!state.realOnly;renderTabs();renderList();});
   }
-  function renderRar(){
-    $("#rar").innerHTML=['All',...RARITY].map(r=>'<button class="tab" data-r="'+r+'" aria-pressed="'+(state.rar===r)+'" style="--dot:'+(RC[r]||"var(--ink-2)")+'">'+(r==="All"?"Any rarity":'<i></i>'+r)+'</button>').join("")+
-      '<span class="sp"></span><button class="tab toggle" id="realonly" aria-pressed="'+state.realOnly+'" title="Hide items that have no market listing yet">✓ Seen in market only</button>';
-    $("#rar").querySelectorAll(".tab[data-r]").forEach(b=>b.addEventListener("click",()=>{state.rar=b.dataset.r;renderRar();renderList();}));
-    $("#realonly").addEventListener("click",()=>{state.realOnly=!state.realOnly;renderRar();renderList();});
-  }
-
   function filtered(){
-    const arr=state.items.filter(i=>(state.cat==="All"||i.category===state.cat)&&(state.rar==="All"||i.rarity===state.rar)&&(!state.realOnly||i.verified)&&(!state.q||(i.name+" "+i.category+" "+(i.source||"")).toLowerCase().includes(state.q)));
+    const arr=state.items.filter(i=>(state.cat==="All"||i.category===state.cat)&&(!state.realOnly||i.verified)&&(!state.q||(i.name+" "+i.category+" "+(i.source||"")).toLowerCase().includes(state.q)));
     const t=i=>trendOf(i), m=i=>i.market||{};
     const S={
       "value":(a,b)=>b.value-a.value,"value-asc":(a,b)=>a.value-b.value,
@@ -578,8 +572,8 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
 
   function cardHTML(i){
     const t=trendOf(i);
-    const extra='<span class="rb">'+esc(i.rarity)+'</span><span class="tr '+t.dir+'" title="Changed '+esc(agoText(t.when))+'">'+trendText(t)+'</span>'+(i.verified?"":'<span class="est" title="No market listing seen yet">est.</span>');
-    return '<button class="card" style="--rc:'+RC[i.rarity]+'" data-id="'+esc(i.id)+'" aria-label="'+esc(i.name)+', '+fmt(i.value)+' coins">'+
+    const extra='<span class="tr '+t.dir+'" title="Changed '+esc(agoText(t.when))+'">'+trendText(t)+'</span>'+(i.verified?"":'<span class="est" title="No market listing seen yet">est.</span>');
+    return '<button class="card" style="--rc:'+colorOf(i)+'" data-id="'+esc(i.id)+'" aria-label="'+esc(i.name)+', '+fmt(i.value)+' coins">'+
       artHTML(i,extra)+recipeTip(i)+
       '<div class="info"><div class="n">'+esc(i.name)+(i.recipe?' <span class="rc" title="Has a recipe">⚗</span>':'')+'</div>'+
       '<div class="kv"><span class="k">Value</span><span class="v">'+fmt(i.value)+'</span></div>'+
@@ -590,9 +584,9 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
   }
   function rowHTML(i){
     const t=trendOf(i);
-    return '<button class="rowi" style="--rc:'+RC[i.rarity]+'" data-id="'+esc(i.id)+'">'+
+    return '<button class="rowi" style="--rc:'+colorOf(i)+'" data-id="'+esc(i.id)+'">'+
       '<span class="ic"><b>'+esc(i.name.replace(/\(.*\)/,"").trim().split(/\s+/).map(w=>w[0]).join("").slice(0,3).toUpperCase())+'</b></span>'+
-      '<span class="nm">'+esc(i.name)+(i.verified?"":' <span class="est" style="position:static;font-size:10px">est.</span>')+'<small>'+esc(i.rarity)+' · '+esc(i.category)+'</small></span>'+
+      '<span class="nm">'+esc(i.name)+(i.verified?"":' <span class="est" style="position:static;font-size:10px">est.</span>')+'<small>'+esc(i.category)+'</small></span>'+
       '<span class="vl">'+fmt(i.value)+'</span>'+
       '<span class="tr '+t.dir+'">'+trendText(t)+'</span>'+
       '<span class="bars" style="justify-content:flex-end">'+bars(i)+'</span>'+
@@ -624,7 +618,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     const i=state.items.find(x=>x.id===id); if(!i) return; state.modal=id;
     const t=trendOf(i), h=(i.history||[]).slice().reverse(), m=i.market||{};
     const ls=(m.listings||[]).slice().sort((a,b)=>(a.t===b.t?b.p-a.p:a.t==="buy"?-1:1));
-    $("#sheet").style.setProperty("--rc",RC[i.rarity]);
+    $("#sheet").style.setProperty("--rc",colorOf(i));
     $("#sheet").innerHTML=
       '<button class="x" id="mclose" aria-label="Close">×</button>'+
       '<div class="hd">'+artHTML(i)+'<div><h3 id="mtitle">'+esc(i.name)+'</h3><div class="sub">'+esc(i.rarity)+' · '+esc(i.category)+'</div></div>'+
@@ -748,7 +742,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
   let draft=null;
   function renderEditor(){
     draft=draft||state.items.map(i=>({...i,history:(i.history||[]).map(h=>({...h})),_v:i.value}));
-    const rows=draft.map((i,k)=>'<tr data-k="'+k+'"><td><b>'+esc(i.name)+'</b><br><small style="color:var(--ink-2)">'+esc(i.category)+' · '+esc(i.rarity)+'</small></td>'+
+    const rows=draft.map((i,k)=>'<tr data-k="'+k+'"><td><b>'+esc(i.name)+'</b><br><small style="color:var(--ink-2)">'+esc(i.category)+'</small></td>'+
       '<td><input type="number" min="0" step="1" value="'+i.value+'" data-f="value" aria-label="Value of '+esc(i.name)+'"></td>'+
       '<td><input type="range" min="0" max="10" value="'+(i.demand||0)+'" data-f="demand" aria-label="Demand of '+esc(i.name)+'"> <span class="d">'+(i.demand||0)+'</span></td>'+
       '<td><label><input type="checkbox" data-f="verified" '+(i.verified?"checked":"")+'> seen</label></td><td class="chg"></td></tr>').join("");
@@ -765,7 +759,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
       const items=draft.map(i=>{
         const h=i.history.slice(), last=h[h.length-1];
         if(!last||last.v!==i.value){ if(last&&last.d===today) h[h.length-1]={d:today,v:i.value}; else h.push({d:today,v:i.value}); if(i.value!==i._v) changed++; }
-        const o={id:i.id,name:i.name,category:i.category,rarity:i.rarity,value:i.value,demand:i.demand||0,source:i.source||"",verified:!!i.verified,history:h};
+        const o={id:i.id,name:i.name,category:i.category,value:i.value,demand:i.demand||0,source:i.source||"",verified:!!i.verified,history:h};
         if(i.icon) o.icon=i.icon; if(i.market) o.market=i.market; if(i.note) o.note=i.note; if(i.range) o.range=i.range; if(i.votes) o.votes=i.votes; if(i.pvotes) o.pvotes=i.pvotes; if(i.recipe) o.recipe=i.recipe; return o;
       });
       $("#out").value=JSON.stringify({...state.data,updated:today,items},null,1).replace(/\{\n\s+"d": "([^"]+)",\n\s+"v": (\d+)\n\s+\}/g,'{"d":"$1","v":$2}');
@@ -780,8 +774,8 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     };
     $("#addrow").onclick=()=>{
       const name=($("#q").value||"").trim()||"New item";
-      draft.push({id:name.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")||("item-"+Date.now()),name,category:"Materials",rarity:"Common",value:0,demand:0,source:"",verified:false,history:[],_v:0});
-      renderEditor(); $("#estat").textContent="Added “"+name+"”. Type a name in the search box first to name new items; edit category/rarity in the JSON.";
+      draft.push({id:name.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")||("item-"+Date.now()),name,category:"Materials",value:0,demand:0,source:"",verified:false,history:[],_v:0});
+      renderEditor(); $("#estat").textContent="Added “"+name+"”. Type a name in the search box first to name new items; edit category in the JSON.";
     };
   }
 
