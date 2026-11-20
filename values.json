@@ -1155,7 +1155,7 @@
    "rarity": "Legendary",
    "value": 575000,
    "demand": 10,
-   "source": "Purple Slime",
+   "source": "Dev-spawned only, not farmable. Limited supply",
    "verified": true,
    "market": {
     "buy": 250000,
@@ -1334,7 +1334,8 @@
     "low": 200000,
     "high": 1500000
    },
-   "icon": "icons/purple-slime-gel.png"
+   "icon": "icons/purple-slime-gel.png",
+   "note": "Admin-spawned item with no farm source, so the price is speculative: bids 250\u2013450K, asks 650K\u20131.5M. Treat the value as a rough midpoint, not a stable number."
   },
   {
    "id": "pink-slime-gel",
