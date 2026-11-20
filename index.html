@@ -68,6 +68,32 @@ header.top{padding:26px 0 14px}
 .pv b{color:#7c5cff;font-variant-numeric:tabular-nums}
 .pv .q{color:var(--ink-2);font-weight:700}
 .card .info{gap:7px}
+.card{overflow:visible}
+.card .art{border-radius:var(--radius) var(--radius) 0 0;overflow:hidden}
+.tip{position:absolute;left:8px;right:8px;top:8px;z-index:3;background:rgba(10,16,32,.95);border:1px solid var(--accent);border-radius:10px;padding:8px 10px;font-size:12px;line-height:1.4;color:var(--ink);opacity:0;pointer-events:none;transform:translateY(-4px);transition:opacity .15s,transform .15s;box-shadow:0 10px 30px -10px rgba(0,0,0,.8)}
+.tip b{color:var(--accent)}
+.tip .tc2{display:inline-block;margin-top:4px;color:var(--ink-2);font-weight:700}
+.tip em{font-style:normal;font-weight:900}.tip em.up{color:var(--up)}.tip em.down{color:var(--down)}
+.card:hover .tip,.card:focus-visible .tip{opacity:1;transform:none}
+.rc{font-size:12px;color:var(--accent);vertical-align:1px}
+.recipe{background:var(--panel-2);border-radius:12px;padding:12px}
+.recipe .rh{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:8px}
+.recipe .rh b{font-family:var(--display);font-weight:600;font-size:16px}
+.recipe .rh small{color:var(--ink-2);font-weight:800}
+.ing{display:flex;flex-direction:column;gap:6px}
+.ing a{display:grid;grid-template-columns:44px 1fr auto;gap:10px;align-items:center;text-decoration:none;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:6px 10px 6px 6px}
+.ing a:hover{border-color:var(--accent)}
+.ing .q{font-family:var(--display);font-weight:700;font-size:18px;text-align:center;color:var(--accent)}
+.ing .nm{font-weight:800}.ing .nm small{display:block;font-size:11px;color:var(--ink-2);font-weight:700}
+.ing .ct{font-variant-numeric:tabular-nums;font-weight:800;color:var(--gold)}
+.rsum{display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin-top:10px}
+.rsum div{background:var(--panel);border-radius:10px;padding:8px 10px}
+.rsum .k{font-size:10.5px;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-2)}
+.rsum .v{font-weight:900;font-size:16px;font-variant-numeric:tabular-nums;margin-top:2px}
+.rsum .v.up{color:var(--up)}.rsum .v.down{color:var(--down)}
+.used{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.used a{text-decoration:none;color:var(--ink);background:var(--panel-2);border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:12px;font-weight:800}
+.used a:hover{border-color:var(--accent)}
 .card .n{font-size:14.5px}
 .vote h4{margin-top:4px}
 .vrow{display:flex;align-items:center;gap:10px;margin:6px 0 10px}
@@ -294,6 +320,8 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
   .bars i{width:5px;height:8px}.bars b{font-size:11px;margin-left:4px}
   .mk{font-size:10px;flex-direction:column;gap:0}
   .rng{font-size:10.5px}.rng .k{font-size:9px}
+  .tip{display:none}
+  .rsum{grid-template-columns:1fr}
   .cat-h h2{font-size:19px}
   .sheet .hd{grid-template-columns:84px 1fr;}
   .sheet .big{grid-column:1/-1;text-align:left}
@@ -366,7 +394,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
 
   <footer>
     Fan-made list, not affiliated with Above Game. Values are the midpoint between what hub vending machines pay and charge, across every island surveyed.<br>
-    Value = midpoint of market bids and asks across every shop surveyed; Range = lowest to highest price seen. Demand (?/10) and Player value start empty and are filled in by votes; open any item to vote.<br>Prime and Masterwork are quality tiers of the same item with better stats, so they're listed separately.<br>
+    Value = midpoint of market bids and asks across every shop surveyed; Range = lowest to highest price seen. Demand (?/10) and Player value start empty and are filled in by votes; open any item to vote.<br>Prime and Masterwork are quality tiers of the same item with better stats, so they're listed separately. Items marked ⚗ have a recipe: hover a card or open it to see ingredients and whether crafting beats buying.<br>
     Editors: add <code>#editor</code> to the link to change values. Link to any item with <code>#its-id</code>.
   </footer>
 </div>
@@ -537,6 +565,11 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     return '<span class="dnum">'+d+'<small>/10 · '+i.votes.n+' vote'+(i.votes.n===1?'':'s')+'</small></span>';};
   const dbar=i=>{const d=voteDemand(i); return '<div class="dbar"><i style="--w:'+(d===null?0:d*10)+'%"></i></div>';};
   const playerValue=i=>{const p=i.pvotes; if(!p||!p.n) return null; return p.median;};
+  const byId=id=>state.items.find(x=>x.id===id);
+  const craftCost=i=>{const r=i.recipe; if(!r) return null; let t=0; for(const g of r.ingredients){const it=byId(g.id); if(!it) return null; t+=it.value*g.qty;} return t;};
+  const recipeTip=i=>{const r=i.recipe; if(!r) return ""; const parts=r.ingredients.map(g=>{const it=byId(g.id); return g.qty+'× '+esc(it?it.name:g.id);}).join(" + ");
+    const c=craftCost(i); return '<div class="tip"><b>Recipe</b> · '+esc(r.station)+' · '+r.seconds+'s<br>'+parts+(c!==null?'<br><span class="tc2">Ingredients ≈ '+fmt(c)+' · sells '+fmt(i.value)+(i.value>c?' <em class="up">+'+fmt(i.value-c)+'</em>':' <em class="down">'+fmt(i.value-c)+'</em>')+'</span>':"")+'</div>';};
+  const usedIn=id=>state.items.filter(x=>x.recipe&&x.recipe.ingredients.some(g=>g.id===id));
   const pvLine=i=>{const p=playerValue(i); return '<div class="pv"><span>Player value</span>'+(p===null?'<span class="q">? · be first to vote</span>':'<b>'+fmt(p)+'</b>')+'</div>';};
   const rangeLine=i=>{const r=i.range; if(!r) return ""; if(r.low===r.high) return '<div class="rng"><span class="k">Range</span><span>'+short(r.low)+' only</span></div>';
     return '<div class="rng"><span class="k">Range</span><span>'+short(r.low)+' – '+short(r.high)+'</span></div>';};
@@ -547,8 +580,8 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     const t=trendOf(i);
     const extra='<span class="rb">'+esc(i.rarity)+'</span><span class="tr '+t.dir+'" title="Changed '+esc(agoText(t.when))+'">'+trendText(t)+'</span>'+(i.verified?"":'<span class="est" title="No market listing seen yet">est.</span>');
     return '<button class="card" style="--rc:'+RC[i.rarity]+'" data-id="'+esc(i.id)+'" aria-label="'+esc(i.name)+', '+fmt(i.value)+' coins">'+
-      artHTML(i,extra)+
-      '<div class="info"><div class="n">'+esc(i.name)+'</div>'+
+      artHTML(i,extra)+recipeTip(i)+
+      '<div class="info"><div class="n">'+esc(i.name)+(i.recipe?' <span class="rc" title="Has a recipe">⚗</span>':'')+'</div>'+
       '<div class="kv"><span class="k">Value</span><span class="v">'+fmt(i.value)+'</span></div>'+
       rangeLine(i)+
       pvLine(i)+
@@ -597,7 +630,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
       '<div class="hd">'+artHTML(i)+'<div><h3 id="mtitle">'+esc(i.name)+'</h3><div class="sub">'+esc(i.rarity)+' · '+esc(i.category)+'</div></div>'+
         '<div class="big"><small>Value</small>'+fmt(i.value)+(i.range?'<small style="margin-top:4px;text-transform:none;letter-spacing:0">Seen from '+fmt(i.range.low)+' to '+fmt(i.range.high)+'</small>':"")+'</div></div>'+
       '<div class="bd">'+
-        '<div><h4>How to get it</h4><p>'+esc(i.source||"Unknown")+'.</p>'+
+        '<div><h4>How to get it</h4><p>'+esc(i.source||"Unknown")+'.</p>'+recipeBlock(i)+usedInBlock(i)+
           '<h4>Market signal</h4><div class="stat">'+
           '<div><div class="k">Demand</div><div class="v">'+(voteDemand(i)===null?'?':voteDemand(i))+'/10</div></div>'+
           '<div><div class="k">Player value</div><div class="v" style="color:#7c5cff">'+(playerValue(i)===null?'?':fmt(playerValue(i)))+'</div></div>'+
@@ -646,6 +679,17 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     });
     drawSpark($("#sheet canvas"),i);
     $("#mclose").focus();
+  }
+  function recipeBlock(i){
+    const r=i.recipe; if(!r) return "";
+    const c=craftCost(i); const diff=c===null?null:i.value-c;
+    return '<h4>Recipe</h4><div class="recipe"><div class="rh"><b>'+esc(r.station)+'</b><small>'+r.seconds+' seconds</small></div><div class="ing">'+
+      r.ingredients.map(g=>{const it=byId(g.id); return '<a href="#'+esc(g.id)+'"><span class="q">'+g.qty+'×</span><span class="nm">'+esc(it?it.name:g.id)+(it?'<small>'+fmt(it.value)+' each</small>':'')+'</span><span class="ct">'+(it?fmt(it.value*g.qty):"?")+'</span></a>';}).join("")+
+      '</div>'+(c!==null?'<div class="rsum"><div><div class="k">Ingredients</div><div class="v">'+fmt(c)+'</div></div><div><div class="k">Sells for</div><div class="v">'+fmt(i.value)+'</div></div><div><div class="k">'+(diff>=0?"Profit to craft":"Cheaper to buy")+'</div><div class="v '+(diff>=0?"up":"down")+'">'+(diff>=0?"+":"")+fmt(diff)+'</div></div></div>':"")+'</div>';
+  }
+  function usedInBlock(i){
+    const u=usedIn(i.id); if(!u.length) return "";
+    return '<h4 style="margin-top:12px">Used in</h4><div class="used">'+u.map(x=>'<a href="#'+esc(x.id)+'">'+esc(x.name)+'</a>').join("")+'</div>';
   }
   function closeModal(){ if(!$("#modal").classList.contains("open")) return; $("#modal").classList.remove("open"); state.modal=null; if(location.hash&&location.hash!=="#editor") location.hash=""; }
   let toastT; function toast(msg){ const el=$("#toast"); el.textContent=msg; el.classList.add("show"); clearTimeout(toastT); toastT=setTimeout(()=>el.classList.remove("show"),1800); }
@@ -722,7 +766,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
         const h=i.history.slice(), last=h[h.length-1];
         if(!last||last.v!==i.value){ if(last&&last.d===today) h[h.length-1]={d:today,v:i.value}; else h.push({d:today,v:i.value}); if(i.value!==i._v) changed++; }
         const o={id:i.id,name:i.name,category:i.category,rarity:i.rarity,value:i.value,demand:i.demand||0,source:i.source||"",verified:!!i.verified,history:h};
-        if(i.icon) o.icon=i.icon; if(i.market) o.market=i.market; if(i.note) o.note=i.note; if(i.range) o.range=i.range; if(i.votes) o.votes=i.votes; if(i.pvotes) o.pvotes=i.pvotes; return o;
+        if(i.icon) o.icon=i.icon; if(i.market) o.market=i.market; if(i.note) o.note=i.note; if(i.range) o.range=i.range; if(i.votes) o.votes=i.votes; if(i.pvotes) o.pvotes=i.pvotes; if(i.recipe) o.recipe=i.recipe; return o;
       });
       $("#out").value=JSON.stringify({...state.data,updated:today,items},null,1).replace(/\{\n\s+"d": "([^"]+)",\n\s+"v": (\d+)\n\s+\}/g,'{"d":"$1","v":$2}');
       $("#estat").textContent=changed+" value"+(changed===1?"":"s")+" changed · file dated "+today;

@@ -2635,6 +2635,16 @@
     "low": 34999,
     "high": 75000
    },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 12,
+    "ingredients": [
+     {
+      "id": "golden-dough",
+      "qty": 1
+     }
+    ]
+   },
    "icon": "icons/golden-bread.png",
    "note": "Island-2 ask (34,999) read from a half-hidden sign; double-check."
   },
@@ -2709,6 +2719,20 @@
    "range": {
     "low": 4000,
     "high": 14000
+   },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 20,
+    "ingredients": [
+     {
+      "id": "bread",
+      "qty": 1
+     },
+     {
+      "id": "jumbo-berry",
+      "qty": 5
+     }
+    ]
    },
    "icon": "icons/jumbo-berry-pie.png"
   },
@@ -2821,6 +2845,24 @@
     "low": 220,
     "high": 725
    },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 12,
+    "ingredients": [
+     {
+      "id": "carrot",
+      "qty": 2
+     },
+     {
+      "id": "onion",
+      "qty": 2
+     },
+     {
+      "id": "tomato-sauce",
+      "qty": 1
+     }
+    ]
+   },
    "icon": "icons/veggie-soup.png"
   },
   {
@@ -2878,6 +2920,20 @@
    "range": {
     "low": 195,
     "high": 400
+   },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 15,
+    "ingredients": [
+     {
+      "id": "bread",
+      "qty": 1
+     },
+     {
+      "id": "carrot",
+      "qty": 10
+     }
+    ]
    },
    "icon": "icons/carrot-cake.png"
   },
@@ -2937,6 +2993,20 @@
     "low": 195,
     "high": 449
    },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 15,
+    "ingredients": [
+     {
+      "id": "berry-jam",
+      "qty": 1
+     },
+     {
+      "id": "bread",
+      "qty": 1
+     }
+    ]
+   },
    "icon": "icons/berry-pie.png"
   },
   {
@@ -2978,6 +3048,20 @@
    "range": {
     "low": 175,
     "high": 350
+   },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 8,
+    "ingredients": [
+     {
+      "id": "onion",
+      "qty": 2
+     },
+     {
+      "id": "tomato",
+      "qty": 2
+     }
+    ]
    },
    "icon": "icons/tomato-sauce.png"
   },
@@ -3033,6 +3117,16 @@
     "low": 45,
     "high": 100
    },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 10,
+    "ingredients": [
+     {
+      "id": "dough",
+      "qty": 2
+     }
+    ]
+   },
    "icon": "icons/bread.png"
   },
   {
@@ -3068,6 +3162,16 @@
    "range": {
     "low": 50,
     "high": 50
+   },
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 10,
+    "ingredients": [
+     {
+      "id": "berries",
+      "qty": 10
+     }
+    ]
    },
    "icon": "icons/berry-jam.png"
   },
@@ -13340,6 +13444,236 @@
     "low": 1250000,
     "high": 1250000
    }
+  },
+  {
+   "id": "berries",
+   "name": "Berries",
+   "category": "Crops",
+   "rarity": "Common",
+   "value": 6,
+   "demand": 5,
+   "source": "Berry bushes",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 6
+    }
+   ],
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "wheat",
+   "name": "Wheat",
+   "category": "Crops",
+   "rarity": "Common",
+   "value": 5,
+   "demand": 5,
+   "source": "Farm plot",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 5
+    }
+   ],
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "carrot",
+   "name": "Carrot",
+   "category": "Crops",
+   "rarity": "Common",
+   "value": 9,
+   "demand": 5,
+   "source": "Farm plot",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 9
+    }
+   ],
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "tomato",
+   "name": "Tomato",
+   "category": "Crops",
+   "rarity": "Common",
+   "value": 19,
+   "demand": 5,
+   "source": "Farm plot",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 19
+    }
+   ],
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "onion",
+   "name": "Onion",
+   "category": "Crops",
+   "rarity": "Common",
+   "value": 30,
+   "demand": 5,
+   "source": "Farm plot",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 30
+    }
+   ],
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "dough",
+   "name": "Dough",
+   "category": "Food",
+   "rarity": "Common",
+   "value": 20,
+   "demand": 5,
+   "source": "Industrial Cooker: Wheat",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 20
+    }
+   ],
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 6,
+    "ingredients": [
+     {
+      "id": "wheat",
+      "qty": 3
+     }
+    ]
+   },
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "roasted-carrot",
+   "name": "Roasted Carrot",
+   "category": "Food",
+   "rarity": "Common",
+   "value": 15,
+   "demand": 5,
+   "source": "Industrial Cooker: Carrot",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 15
+    }
+   ],
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 5,
+    "ingredients": [
+     {
+      "id": "carrot",
+      "qty": 1
+     }
+    ]
+   },
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
+  },
+  {
+   "id": "golden-dough",
+   "name": "Golden Dough",
+   "category": "Food",
+   "rarity": "Rare",
+   "value": 45000,
+   "demand": 5,
+   "source": "Industrial Cooker: Golden Wheat Sheaf",
+   "verified": false,
+   "market": {
+    "buy": null,
+    "sell": null,
+    "buyers": 0,
+    "sellers": 0,
+    "islands": 0,
+    "listings": []
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 45000
+    }
+   ],
+   "recipe": {
+    "station": "Industrial Cooker",
+    "seconds": 8,
+    "ingredients": [
+     {
+      "id": "golden-wheat-sheaf",
+      "qty": 1
+     }
+    ]
+   },
+   "note": "Sells to the NPC for about this much; no player listing seen yet."
   }
  ]
 }
