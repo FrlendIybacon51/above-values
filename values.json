@@ -10705,7 +10705,8 @@
    "range": {
     "low": 90000,
     "high": 8000000
-   }
+   },
+   "note": "An 8M ask at the mega shop on 11-20 was ignored as a troll listing (bids are 90\u2013180K)."
   },
   {
    "id": "industrial-block-press",
