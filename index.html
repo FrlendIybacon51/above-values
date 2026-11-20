@@ -621,7 +621,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
     $("#sheet").style.setProperty("--rc",colorOf(i));
     $("#sheet").innerHTML=
       '<button class="x" id="mclose" aria-label="Close">×</button>'+
-      '<div class="hd">'+artHTML(i)+'<div><h3 id="mtitle">'+esc(i.name)+'</h3><div class="sub">'+esc(i.rarity)+' · '+esc(i.category)+'</div></div>'+
+      '<div class="hd">'+artHTML(i)+'<div><h3 id="mtitle">'+esc(i.name)+'</h3><div class="sub">'+esc(i.category)+'</div></div>'+
         '<div class="big"><small>Value</small>'+fmt(i.value)+(i.range?'<small style="margin-top:4px;text-transform:none;letter-spacing:0">Seen from '+fmt(i.range.low)+' to '+fmt(i.range.high)+'</small>':"")+'</div></div>'+
       '<div class="bd">'+
         '<div><h4>How to get it</h4><p>'+esc(i.source||"Unknown")+'.</p>'+recipeBlock(i)+usedInBlock(i)+
