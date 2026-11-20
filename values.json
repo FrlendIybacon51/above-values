@@ -16,9 +16,9 @@
    "market": {
     "buy": 750000,
     "sell": 1550000,
-    "buyers": 15,
+    "buyers": 16,
     "sellers": 3,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -103,6 +103,12 @@
       "p": 750000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -138,9 +144,9 @@
    "market": {
     "buy": 700000,
     "sell": 1550000,
-    "buyers": 11,
-    "sellers": 2,
-    "islands": 7,
+    "buyers": 12,
+    "sellers": 3,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -195,6 +201,18 @@
       "p": 950000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -210,7 +228,7 @@
    ],
    "range": {
     "low": 600000,
-    "high": 1550000
+    "high": 1600000
    },
    "icon": "icons/goldbone-pickaxe.png"
   },
@@ -226,9 +244,9 @@
    "market": {
     "buy": 700000,
     "sell": 950000,
-    "buyers": 12,
+    "buyers": 13,
     "sellers": 4,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -295,6 +313,12 @@
       "p": 750000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -320,16 +344,16 @@
    "name": "Soul Scepter",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 540000,
+   "value": 530000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 675000,
-    "buyers": 11,
-    "sellers": 7,
-    "islands": 11,
+    "sell": 662500,
+    "buyers": 12,
+    "sellers": 8,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -438,6 +462,18 @@
       "p": 500000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -449,6 +485,10 @@
     {
      "d": "2026-11-19",
      "v": 540000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 530000
     }
    ],
    "range": {
@@ -462,16 +502,16 @@
    "name": "Soulfire Bow",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 640000,
+   "value": 650000,
    "demand": 10,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
-    "buy": 450000,
+    "buy": 475000,
     "sell": 825000,
-    "buyers": 11,
-    "sellers": 8,
-    "islands": 11,
+    "buyers": 12,
+    "sellers": 9,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -586,6 +626,18 @@
       "p": 825000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 800000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -597,6 +649,10 @@
     {
      "d": "2026-11-19",
      "v": 640000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 650000
     }
    ],
    "range": {
@@ -618,9 +674,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 11,
-    "sellers": 8,
-    "islands": 12,
+    "buyers": 12,
+    "sellers": 9,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -735,6 +791,18 @@
       "p": 1150000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -766,9 +834,9 @@
    "market": {
     "buy": 20000,
     "sell": 40000,
-    "buyers": 10,
-    "sellers": 11,
-    "islands": 12,
+    "buyers": 11,
+    "sellers": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -895,6 +963,18 @@
       "p": 35000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 20000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 29999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -919,16 +999,16 @@
    "name": "Purple Slime Gel",
    "category": "Materials",
    "rarity": "Legendary",
-   "value": 525000,
+   "value": 575000,
    "demand": 10,
    "source": "Purple Slime",
    "verified": true,
    "market": {
     "buy": 250000,
-    "sell": 800000,
-    "buyers": 14,
-    "sellers": 5,
-    "islands": 14,
+    "sell": 900000,
+    "buyers": 15,
+    "sellers": 6,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -1043,6 +1123,18 @@
       "p": 750000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 999999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -1057,7 +1149,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 525000
+     "v": 575000
     }
    ],
    "range": {
@@ -1076,11 +1168,11 @@
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 35000,
+    "buy": 35500,
     "sell": 55000,
-    "buyers": 13,
-    "sellers": 13,
-    "islands": 15,
+    "buyers": 14,
+    "sellers": 14,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -1237,6 +1329,18 @@
       "p": 57500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 54999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -1262,11 +1366,11 @@
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 7250,
+    "buy": 7500,
     "sell": 13500,
-    "buyers": 16,
-    "sellers": 11,
-    "islands": 16,
+    "buyers": 17,
+    "sellers": 12,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -1429,6 +1533,18 @@
       "p": 13500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 7500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -1458,16 +1574,16 @@
    "name": "Slime Gel",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 2600,
+   "value": 2500,
    "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1875,
-    "sell": 3362,
-    "buyers": 10,
-    "sellers": 10,
-    "islands": 14,
+    "buy": 1750,
+    "sell": 3275,
+    "buyers": 11,
+    "sellers": 11,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -1588,6 +1704,18 @@
       "p": 3500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1749,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -1599,10 +1727,6 @@
     {
      "d": "2026-11-19",
      "v": 2500
-    },
-    {
-     "d": "2026-11-20",
-     "v": 2600
     }
    ],
    "range": {
@@ -1622,10 +1746,10 @@
    "verified": true,
    "market": {
     "buy": 1400,
-    "sell": 2999,
-    "buyers": 16,
-    "sellers": 13,
-    "islands": 16,
+    "sell": 3000,
+    "buyers": 17,
+    "sellers": 14,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -1800,6 +1924,18 @@
       "p": 3000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 3249,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -1815,7 +1951,7 @@
    ],
    "range": {
     "low": 1000,
-    "high": 3000
+    "high": 3249
    },
    "icon": "icons/blue-slime-gel.png"
   },
@@ -1832,8 +1968,8 @@
     "buy": 1000,
     "sell": 2500,
     "buyers": 11,
-    "sellers": 10,
-    "islands": 11,
+    "sellers": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -1960,6 +2096,12 @@
       "p": 1650,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -1989,16 +2131,16 @@
    "name": "Candy Corn",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 975,
+   "value": 987,
    "demand": 10,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
     "buy": 500,
-    "sell": 1450,
+    "sell": 1474,
     "buyers": 7,
-    "sellers": 5,
-    "islands": 6,
+    "sellers": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -2065,6 +2207,12 @@
       "p": 1200,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -2076,15 +2224,11 @@
     {
      "d": "2026-11-19",
      "v": 987
-    },
-    {
-     "d": "2026-11-20",
-     "v": 975
     }
    ],
    "range": {
     "low": 100,
-    "high": 1500
+    "high": 1999
    },
    "icon": "icons/candy-corn.png"
   },
@@ -2093,16 +2237,16 @@
    "name": "Golden Bread",
    "category": "Food",
    "rarity": "Epic",
-   "value": 53000,
-   "demand": 6,
+   "value": 57000,
+   "demand": 8,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 42562,
-    "sell": 63500,
-    "buyers": 2,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 50000,
+    "sell": 64250,
+    "buyers": 3,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -2133,6 +2277,18 @@
       "p": 64999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -2144,11 +2300,15 @@
     {
      "d": "2026-11-19",
      "v": 53000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 57000
     }
    ],
    "range": {
     "low": 34999,
-    "high": 64999
+    "high": 75000
    },
    "icon": "icons/golden-bread.png",
    "note": "Island-2 ask (34,999) read from a half-hidden sign; double-check."
@@ -2158,16 +2318,16 @@
    "name": "Jumbo Berry Pie",
    "category": "Food",
    "rarity": "Rare",
-   "value": 8950,
-   "demand": 6,
+   "value": 8000,
+   "demand": 8,
    "source": "Industrial Cooker: Jumbo Berry. 50 HP + 50% bigger",
    "verified": true,
    "market": {
-    "buy": 5875,
-    "sell": 12000,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 6000,
+    "sell": 9999,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -2192,6 +2352,18 @@
       "p": 9999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 6000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -2203,6 +2375,10 @@
     {
      "d": "2026-11-19",
      "v": 8950
+    },
+    {
+     "d": "2026-11-20",
+     "v": 8000
     }
    ],
    "range": {
@@ -2575,16 +2751,16 @@
    "name": "Berry Bush Seed",
    "category": "Crops",
    "rarity": "Uncommon",
-   "value": 662,
+   "value": 650,
    "demand": 6,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 450,
+    "buy": 425,
     "sell": 875,
-    "buyers": 7,
-    "sellers": 13,
-    "islands": 10,
+    "buyers": 8,
+    "sellers": 14,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -2675,6 +2851,18 @@
       "p": 875,
       "n": 3,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 400,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -2689,7 +2877,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 662
+     "v": 650
     }
    ],
    "range": {
@@ -2703,16 +2891,16 @@
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
    "rarity": "Rare",
-   "value": 6750,
+   "value": 6500,
    "demand": 10,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 8500,
-    "buyers": 10,
-    "sellers": 8,
-    "islands": 11,
+    "sell": 8000,
+    "buyers": 11,
+    "sellers": 9,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -2821,6 +3009,18 @@
       "p": 6250,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 7500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -2835,7 +3035,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 6750
+     "v": 6500
     }
    ],
    "range": {
@@ -2849,16 +3049,16 @@
    "name": "Gold Ore",
    "category": "Ores & Ingots",
    "rarity": "Rare",
-   "value": 6400,
+   "value": 6250,
    "demand": 10,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
-    "buy": 4250,
+    "buy": 4000,
     "sell": 8500,
-    "buyers": 10,
-    "sellers": 9,
-    "islands": 10,
+    "buyers": 11,
+    "sellers": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -2961,6 +3161,18 @@
       "p": 4750,
       "n": 2,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -2975,7 +3187,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 6400
+     "v": 6250
     }
    ],
    "range": {
@@ -3474,9 +3686,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 40,
-    "sellers": 34,
-    "islands": 5,
+    "buyers": 48,
+    "sellers": 42,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -3531,6 +3743,18 @@
       "p": 14500,
       "n": 6,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 8,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 8,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4271,16 +4495,16 @@
    "name": "Water Pump",
    "category": "Machines",
    "rarity": "Epic",
-   "value": 420000,
+   "value": 425000,
    "demand": 1,
    "source": "Crafted. Normal quality",
    "verified": true,
    "market": {
     "buy": 350000,
-    "sell": 490000,
+    "sell": 499999,
     "buyers": 4,
-    "sellers": 20,
-    "islands": 5,
+    "sellers": 34,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4323,6 +4547,12 @@
       "p": 545000,
       "n": 5,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 499999,
+      "n": 14,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4334,6 +4564,10 @@
     {
      "d": "2026-11-19",
      "v": 420000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 425000
     }
    ],
    "range": {
@@ -4399,16 +4633,16 @@
    "name": "Water Pump (Masterwork)",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 3375000,
-   "demand": 4,
+   "value": 4000000,
+   "demand": 3,
    "source": "Masterwork quality: top-tier stats",
    "verified": true,
    "market": {
     "buy": null,
-    "sell": 3375000,
+    "sell": 3999999,
     "buyers": 0,
-    "sellers": 2,
-    "islands": 2,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -4421,6 +4655,12 @@
       "p": 2000000,
       "n": 1,
       "where": "Night market, island 4 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 3999999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4428,6 +4668,10 @@
     {
      "d": "2026-11-18",
      "v": 3375000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 4000000
     }
    ],
    "range": {
@@ -4441,16 +4685,16 @@
    "name": "ARC-100 Fuser",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 1550000,
+   "value": 1540000,
    "demand": 10,
    "source": "Arcane machine",
    "verified": true,
    "market": {
     "buy": 1200000,
-    "sell": 1900000,
-    "buyers": 9,
-    "sellers": 7,
-    "islands": 9,
+    "sell": 1875000,
+    "buyers": 10,
+    "sellers": 8,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -4541,6 +4785,18 @@
       "p": 1850000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1800000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4552,6 +4808,10 @@
     {
      "d": "2026-11-19",
      "v": 1550000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 1540000
     }
    ],
    "range": {
@@ -4572,9 +4832,9 @@
    "market": {
     "buy": 800000,
     "sell": 835000,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 3,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4611,6 +4871,12 @@
       "p": 450000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4631,16 +4897,16 @@
    "name": "Vending Machine",
    "category": "Machines",
    "rarity": "Epic",
-   "value": 250000,
+   "value": 240000,
    "demand": 10,
    "source": "Lets you sell to other players",
    "verified": true,
    "market": {
-    "buy": 190000,
-    "sell": 310000,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 5,
+    "buy": 195000,
+    "sell": 288500,
+    "buyers": 6,
+    "sellers": 4,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4689,6 +4955,18 @@
       "p": 265000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 267000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4700,6 +4978,10 @@
     {
      "d": "2026-11-19",
      "v": 250000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 240000
     }
    ],
    "range": {
@@ -4810,16 +5092,16 @@
    "name": "Splitter",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 5100,
-   "demand": 9,
+   "value": 5500,
+   "demand": 10,
    "source": "Conveyor splitter",
    "verified": true,
    "market": {
-    "buy": 3250,
-    "sell": 6900,
-    "buyers": 6,
-    "sellers": 6,
-    "islands": 7,
+    "buy": 4000,
+    "sell": 7000,
+    "buyers": 7,
+    "sellers": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -4892,6 +5174,18 @@
       "p": 7500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 8000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -4906,12 +5200,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 5100
+     "v": 5500
     }
    ],
    "range": {
     "low": 1300,
-    "high": 7500
+    "high": 8000
    },
    "icon": "icons/splitter.png"
   },
@@ -4920,16 +5214,16 @@
    "name": "Conveyor Left",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3700,
-   "demand": 6,
+   "value": 3600,
+   "demand": 7,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4900,
-    "buyers": 5,
-    "sellers": 9,
-    "islands": 9,
+    "sell": 4700,
+    "buyers": 6,
+    "sellers": 10,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -5014,6 +5308,18 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5028,7 +5334,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 3700
+     "v": 3600
     }
    ],
    "range": {
@@ -5042,16 +5348,16 @@
    "name": "Conveyor Right",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3700,
-   "demand": 4,
+   "value": 3600,
+   "demand": 5,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4900,
-    "buyers": 4,
-    "sellers": 9,
-    "islands": 9,
+    "sell": 4700,
+    "buyers": 5,
+    "sellers": 10,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -5130,6 +5436,18 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5141,6 +5459,10 @@
     {
      "d": "2026-11-19",
      "v": 3700
+    },
+    {
+     "d": "2026-11-20",
+     "v": 3600
     }
    ],
    "range": {
@@ -5154,16 +5476,16 @@
    "name": "Rail Booster",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 2000,
-   "demand": 3,
+   "value": 1750,
+   "demand": 2,
    "source": "Speeds up railcarts",
    "verified": true,
    "market": {
     "buy": null,
-    "sell": 2000,
+    "sell": 1750,
     "buyers": 0,
-    "sellers": 3,
-    "islands": 2,
+    "sellers": 4,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -5176,6 +5498,12 @@
       "p": 2000,
       "n": 2,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 1499,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5183,6 +5511,10 @@
     {
      "d": "2026-11-18",
      "v": 2000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 1750
     }
    ],
    "range": {
@@ -5255,9 +5587,9 @@
    "market": {
     "buy": 1200000,
     "sell": 1990000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 5,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -5336,6 +5668,12 @@
       "p": 1200000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5421,16 +5759,16 @@
    "name": "Arcane Gold",
    "category": "Ores & Ingots",
    "rarity": "Legendary",
-   "value": 690000,
+   "value": 675000,
    "demand": 10,
    "source": "Arcane-tier gold ingot",
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 875000,
-    "buyers": 9,
-    "sellers": 8,
-    "islands": 10,
+    "sell": 850000,
+    "buyers": 10,
+    "sellers": 9,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -5533,6 +5871,18 @@
       "p": 500000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 650000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5544,10 +5894,14 @@
     {
      "d": "2026-11-19",
      "v": 690000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 675000
     }
    ],
    "range": {
-    "low": 450000,
+    "low": 400000,
     "high": 950000
    },
    "icon": "icons/arcane-gold.png"
@@ -5564,9 +5918,9 @@
    "market": {
     "buy": 125000,
     "sell": 250000,
-    "buyers": 10,
-    "sellers": 9,
-    "islands": 10,
+    "buyers": 11,
+    "sellers": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -5681,6 +6035,18 @@
       "p": 220000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 150000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 225000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5706,11 +6072,11 @@
    "source": "Arcane-tier iron ingot",
    "verified": true,
    "market": {
-    "buy": 950,
-    "sell": 1450,
-    "buyers": 8,
-    "sellers": 8,
-    "islands": 11,
+    "buy": 1000,
+    "sell": 1400,
+    "buyers": 9,
+    "sellers": 9,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -5807,6 +6173,18 @@
       "p": 900,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1400,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5831,16 +6209,16 @@
    "name": "Arcane Coal",
    "category": "Ores & Ingots",
    "rarity": "Uncommon",
-   "value": 750,
+   "value": 774,
    "demand": 10,
    "source": "Arcane-tier coal",
    "verified": true,
    "market": {
-    "buy": 500,
+    "buy": 550,
     "sell": 999,
-    "buyers": 11,
-    "sellers": 7,
-    "islands": 10,
+    "buyers": 12,
+    "sellers": 8,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -5943,6 +6321,18 @@
       "p": 200,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 900,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -5954,10 +6344,6 @@
     {
      "d": "2026-11-19",
      "v": 774
-    },
-    {
-     "d": "2026-11-20",
-     "v": 750
     }
    ],
    "range": {
@@ -6075,16 +6461,16 @@
    "name": "Morten Chestplate",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 4450000,
+   "value": 4750000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 3500000,
-    "sell": 5400000,
-    "buyers": 6,
-    "sellers": 4,
-    "islands": 7,
+    "buy": 4000000,
+    "sell": 5500000,
+    "buyers": 7,
+    "sellers": 5,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -6145,6 +6531,18 @@
       "p": 5800000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 7500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6156,11 +6554,15 @@
     {
      "d": "2026-11-19",
      "v": 4450000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 4750000
     }
    ],
    "range": {
     "low": 3000000,
-    "high": 5800000
+    "high": 7500000
    },
    "icon": "icons/morten-chestplate.png"
   },
@@ -6169,16 +6571,16 @@
    "name": "Morten Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 935000,
+   "value": 920000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 670000,
-    "sell": 1199999,
-    "buyers": 7,
-    "sellers": 3,
-    "islands": 8,
+    "buy": 685000,
+    "sell": 1150000,
+    "buyers": 8,
+    "sellers": 4,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -6239,6 +6641,18 @@
       "p": 945000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 700000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1100000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6250,6 +6664,10 @@
     {
      "d": "2026-11-19",
      "v": 935000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 920000
     }
    ],
    "range": {
@@ -6263,16 +6681,16 @@
    "name": "Morten Boots",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 540000,
+   "value": 550000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 400000,
+    "buy": 425000,
     "sell": 675000,
-    "buyers": 9,
-    "sellers": 4,
-    "islands": 9,
+    "buyers": 10,
+    "sellers": 5,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -6351,6 +6769,18 @@
       "p": 675000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 900000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6365,12 +6795,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 540000
+     "v": 550000
     }
    ],
    "range": {
     "low": 325000,
-    "high": 750000
+    "high": 900000
    },
    "icon": "icons/morten-boots.png"
   },
@@ -6379,16 +6809,16 @@
    "name": "Morten Cape",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 77500,
+   "value": 76000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 65000,
+    "buy": 62500,
     "sell": 90000,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -6461,6 +6891,18 @@
       "p": 67500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 90000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6472,10 +6914,6 @@
     {
      "d": "2026-11-19",
      "v": 76000
-    },
-    {
-     "d": "2026-11-20",
-     "v": 77500
     }
    ],
    "range": {
@@ -6489,16 +6927,16 @@
    "name": "Morten Mask",
    "category": "Gear",
    "rarity": "Epic",
-   "value": 77500,
+   "value": 76000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 65000,
+    "buy": 62500,
     "sell": 90000,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -6571,6 +7009,18 @@
       "p": 67500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 90000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6582,10 +7032,6 @@
     {
      "d": "2026-11-19",
      "v": 76000
-    },
-    {
-     "d": "2026-11-20",
-     "v": 77500
     }
    ],
    "range": {
@@ -6745,16 +7191,16 @@
    "name": "Onion Harvester",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 32000,
+   "value": 33500,
    "demand": 10,
    "source": "Auto-harvests onions",
    "verified": true,
    "market": {
-    "buy": 28000,
-    "sell": null,
-    "buyers": 7,
-    "sellers": 0,
-    "islands": 7,
+    "buy": 29000,
+    "sell": 38000,
+    "buyers": 8,
+    "sellers": 1,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -6797,6 +7243,18 @@
       "p": 32000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 38000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6804,11 +7262,15 @@
     {
      "d": "2026-11-18",
      "v": 32000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 33500
     }
    ],
    "range": {
     "low": 24900,
-    "high": 32000
+    "high": 38000
    },
    "icon": "icons/onion-harvester.png"
   },
@@ -6818,15 +7280,15 @@
    "category": "Machines",
    "rarity": "Rare",
    "value": 14500,
-   "demand": 8,
+   "demand": 9,
    "source": "Auto-harvests tomatoes",
    "verified": true,
    "market": {
     "buy": 10000,
     "sell": 18999,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 5,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -6875,6 +7337,18 @@
       "p": 19500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 19999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6890,7 +7364,7 @@
    ],
    "range": {
     "low": 10000,
-    "high": 19500
+    "high": 19999
    },
    "icon": "icons/tomato-harvester.png"
   },
@@ -6899,16 +7373,16 @@
    "name": "Carrot Harvester",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7000,
+   "value": 7500,
    "demand": 10,
    "source": "Auto-harvests carrots",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 9000,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "sell": 9999,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -6963,6 +7437,18 @@
       "p": 10000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 6500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -6977,7 +7463,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 7000
+     "v": 7500
     }
    ],
    "range": {
@@ -6991,16 +7477,16 @@
    "name": "Wheat Harvester",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 2000,
-   "demand": 8,
+   "value": 2200,
+   "demand": 10,
    "source": "Auto-harvests wheat",
    "verified": true,
    "market": {
-    "buy": 1125,
+    "buy": 1500,
     "sell": 2900,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 5,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -7043,6 +7529,18 @@
       "p": 2900,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7057,12 +7555,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 2000
+     "v": 2200
     }
    ],
    "range": {
     "low": 750,
-    "high": 2900
+    "high": 2999
    },
    "icon": "icons/wheat-harvester.png"
   },
@@ -7077,10 +7575,10 @@
    "verified": true,
    "market": {
     "buy": 10000,
-    "sell": 17999,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 7,
+    "sell": 17500,
+    "buyers": 7,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -7147,6 +7645,18 @@
       "p": 17000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7247,16 +7757,16 @@
    "name": "Coal Drill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 10500,
+   "value": 11500,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 9000,
+    "buy": 10000,
     "sell": null,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 0,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -7281,6 +7791,12 @@
       "p": 14000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 12000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7295,7 +7811,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 10500
+     "v": 11500
     }
    ],
    "range": {
@@ -7497,16 +8013,16 @@
    "name": "Overflow Chest",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7700,
+   "value": 7800,
    "demand": 10,
    "source": "Storage",
    "verified": true,
    "market": {
-    "buy": 4500,
+    "buy": 4750,
     "sell": 10900,
-    "buyers": 9,
-    "sellers": 6,
-    "islands": 8,
+    "buyers": 10,
+    "sellers": 7,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -7585,6 +8101,18 @@
       "p": 7500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 6000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7599,7 +8127,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 7700
+     "v": 7800
     }
    ],
    "range": {
@@ -7733,16 +8261,16 @@
    "name": "Onion Seeds",
    "category": "Crops",
    "rarity": "Uncommon",
-   "value": 950,
+   "value": 975,
    "demand": 10,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 800,
-    "sell": 1100,
-    "buyers": 7,
-    "sellers": 1,
-    "islands": 7,
+    "sell": 1150,
+    "buyers": 8,
+    "sellers": 2,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -7791,6 +8319,18 @@
       "p": 800,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1199,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7798,11 +8338,15 @@
     {
      "d": "2026-11-18",
      "v": 950
+    },
+    {
+     "d": "2026-11-20",
+     "v": 975
     }
    ],
    "range": {
     "low": 600,
-    "high": 1100
+    "high": 1199
    },
    "icon": "icons/onion-seeds.png"
   },
@@ -7811,16 +8355,16 @@
    "name": "Tomato Seeds",
    "category": "Crops",
    "rarity": "Uncommon",
-   "value": 450,
+   "value": 375,
    "demand": 10,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 200,
-    "sell": 700,
-    "buyers": 6,
-    "sellers": 3,
-    "islands": 7,
+    "sell": 550,
+    "buyers": 7,
+    "sellers": 4,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -7875,6 +8419,18 @@
       "p": 200,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7882,6 +8438,10 @@
     {
      "d": "2026-11-18",
      "v": 450
+    },
+    {
+     "d": "2026-11-20",
+     "v": 375
     }
    ],
    "range": {
@@ -7896,15 +8456,15 @@
    "category": "Crops",
    "rarity": "Common",
    "value": 174,
-   "demand": 9,
+   "demand": 10,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 100,
     "sell": 249,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 4,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -7941,6 +8501,18 @@
       "p": 50,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 75,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 150,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -7962,15 +8534,15 @@
    "category": "Crops",
    "rarity": "Common",
    "value": 30,
-   "demand": 7,
+   "demand": 8,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 10,
-    "sell": 50,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 6,
+    "sell": 49,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -8019,6 +8591,18 @@
       "p": 10,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 20,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8029,7 +8613,7 @@
     }
    ],
    "range": {
-    "low": 10,
+    "low": 5,
     "high": 50
    },
    "icon": "icons/wheat-seeds.png"
@@ -8134,9 +8718,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 61,
-    "sellers": 35,
-    "islands": 6,
+    "buyers": 71,
+    "sellers": 47,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -8221,6 +8805,18 @@
       "p": 15250,
       "n": 8,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 10,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 12,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8248,9 +8844,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 49,
-    "sellers": 38,
-    "islands": 5,
+    "buyers": 59,
+    "sellers": 48,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -8323,6 +8919,18 @@
       "p": 15250,
       "n": 6,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 10,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 10,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8343,16 +8951,16 @@
    "name": "Iron Drill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 33500,
+   "value": 38500,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 29000,
-    "sell": null,
-    "buyers": 5,
-    "sellers": 0,
-    "islands": 5,
+    "buy": 32000,
+    "sell": 44999,
+    "buyers": 6,
+    "sellers": 1,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -8383,6 +8991,18 @@
       "p": 35000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 44999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8394,11 +9014,15 @@
     {
      "d": "2026-11-19",
      "v": 33500
+    },
+    {
+     "d": "2026-11-20",
+     "v": 38500
     }
    ],
    "range": {
     "low": 28000,
-    "high": 35000
+    "high": 44999
    },
    "icon": "icons/iron-drill-i.png"
   },
@@ -8408,15 +9032,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 1850,
-   "demand": 9,
+   "demand": 10,
    "source": "Storage, output side",
    "verified": true,
    "market": {
     "buy": 1200,
     "sell": 2500,
-    "buyers": 7,
-    "sellers": 8,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 9,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -8501,6 +9125,18 @@
       "p": 1800,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 900,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1800,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8515,7 +9151,7 @@
     }
    ],
    "range": {
-    "low": 1000,
+    "low": 900,
     "high": 4500
    },
    "icon": "icons/output-chest.png"
@@ -8525,16 +9161,16 @@
    "name": "Input Chest",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 1800,
-   "demand": 8,
+   "value": 1850,
+   "demand": 9,
    "source": "Storage, input side",
    "verified": true,
    "market": {
-    "buy": 1100,
+    "buy": 1200,
     "sell": 2500,
-    "buyers": 6,
-    "sellers": 8,
-    "islands": 7,
+    "buyers": 7,
+    "sellers": 9,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -8613,6 +9249,18 @@
       "p": 1650,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1800,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8623,7 +9271,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1800
+     "v": 1850
     }
    ],
    "range": {
@@ -8638,15 +9286,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 2500,
-   "demand": 8,
+   "demand": 9,
    "source": "Big storage",
    "verified": true,
    "market": {
     "buy": 2000,
     "sell": 3000,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 3,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -8683,6 +9331,18 @@
       "p": 3000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 3000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8707,16 +9367,16 @@
    "name": "Conveyor",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4100,
-   "demand": 8,
+   "value": 4200,
+   "demand": 10,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
-    "buy": 2750,
+    "buy": 3000,
     "sell": 5450,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 8,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -8801,6 +9461,12 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8815,7 +9481,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4100
+     "v": 4200
     }
    ],
    "range": {
@@ -8829,16 +9495,16 @@
    "name": "Conveyor Ramp Up",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 3750,
-   "demand": 6,
+   "value": 3700,
+   "demand": 7,
    "source": "Conveyor incline",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 5000,
-    "buyers": 3,
-    "sellers": 5,
-    "islands": 6,
+    "sell": 4950,
+    "buyers": 4,
+    "sellers": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -8881,6 +9547,18 @@
       "p": 2500,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8895,7 +9573,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 3750
+     "v": 3700
     }
    ],
    "range": {
@@ -8909,16 +9587,16 @@
    "name": "Conveyor Ramp Down",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 4000,
-   "demand": 9,
+   "value": 3500,
+   "demand": 10,
    "source": "Conveyor decline",
    "verified": true,
    "market": {
-    "buy": 3000,
-    "sell": 5000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 4,
+    "buy": 2500,
+    "sell": 4500,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -8961,6 +9639,18 @@
       "p": 4000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -8975,7 +9665,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4000
+     "v": 3500
     }
    ],
    "range": {
@@ -9026,21 +9716,27 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 1500,
-   "demand": 4,
+   "demand": 3,
    "source": "Rail turn",
    "verified": true,
    "market": {
     "buy": null,
     "sell": 1500,
     "buyers": 0,
-    "sellers": 2,
-    "islands": 1,
+    "sellers": 3,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 1500,
       "n": 2,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 1499,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9051,7 +9747,7 @@
     }
    ],
    "range": {
-    "low": 1500,
+    "low": 1499,
     "high": 1500
    },
    "icon": "icons/rail-corner.png"
@@ -9069,14 +9765,20 @@
     "buy": null,
     "sell": 1500,
     "buyers": 0,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 1500,
       "n": 1,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 1499,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9087,7 +9789,7 @@
     }
    ],
    "range": {
-    "low": 1500,
+    "low": 1499,
     "high": 1500
    }
   },
@@ -9096,22 +9798,28 @@
    "name": "Rail Ramp Booster",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 2000,
+   "value": 1750,
    "demand": 4,
    "source": "Powered rail incline",
    "verified": true,
    "market": {
     "buy": null,
-    "sell": 2000,
+    "sell": 1750,
     "buyers": 0,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 2000,
       "n": 1,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 1499,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9119,10 +9827,14 @@
     {
      "d": "2026-11-18",
      "v": 2000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 1750
     }
    ],
    "range": {
-    "low": 2000,
+    "low": 1499,
     "high": 2000
    },
    "icon": "icons/rail-ramp-booster.png"
@@ -9176,14 +9888,20 @@
     "buy": null,
     "sell": 1000,
     "buyers": 0,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 1000,
       "n": 1,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9194,7 +9912,7 @@
     }
    ],
    "range": {
-    "low": 1000,
+    "low": 999,
     "high": 1000
    },
    "icon": "icons/iron-railcart.png"
@@ -9456,16 +10174,16 @@
    "name": "Arcane Table",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 4150000,
+   "value": 4050000,
    "demand": 10,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
-    "buy": 3300000,
+    "buy": 3100000,
     "sell": 5000000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 8,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -9556,6 +10274,12 @@
       "p": 3400000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9570,11 +10294,11 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4150000
+     "v": 4050000
     }
    ],
    "range": {
-    "low": 2200000,
+    "low": 2000000,
     "high": 5500000
    },
    "icon": "icons/arcane-table.png"
@@ -9630,16 +10354,16 @@
    "name": "Green Slime Block",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 7000,
-   "demand": 9,
+   "value": 8400,
+   "demand": 10,
    "source": "Block Press: Slime Gel",
    "verified": true,
    "market": {
-    "buy": 3500,
-    "sell": 10500,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "buy": 4750,
+    "sell": 12000,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -9694,6 +10418,18 @@
       "p": 9000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 12000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9705,10 +10441,6 @@
     {
      "d": "2026-11-19",
      "v": 8400
-    },
-    {
-     "d": "2026-11-20",
-     "v": 7000
     }
    ],
    "range": {
@@ -9721,16 +10453,16 @@
    "name": "Blue Slime Block",
    "category": "Blocks",
    "rarity": "Rare",
-   "value": 6500,
+   "value": 6700,
    "demand": 10,
    "source": "Block Press: Blue Slime Gel",
    "verified": true,
    "market": {
-    "buy": 4000,
+    "buy": 4400,
     "sell": 9000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 3,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -9779,6 +10511,12 @@
       "p": 9000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9793,7 +10531,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 6500
+     "v": 6700
     }
    ],
    "range": {
@@ -9806,16 +10544,16 @@
    "name": "Pink Slime Block",
    "category": "Blocks",
    "rarity": "Epic",
-   "value": 140000,
+   "value": 145000,
    "demand": 10,
    "source": "Block Press: Pink Slime Gel",
    "verified": true,
    "market": {
-    "buy": 100000,
+    "buy": 105000,
     "sell": 185000,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 5,
+    "buyers": 6,
+    "sellers": 4,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -9864,6 +10602,18 @@
       "p": 185000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 120000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 180000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9878,7 +10628,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 140000
+     "v": 145000
     }
    ],
    "range": {
@@ -9892,15 +10642,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 500,
-   "demand": 4,
+   "demand": 3,
    "source": "Water output",
    "verified": true,
    "market": {
     "buy": null,
     "sell": 500,
     "buyers": 0,
-    "sellers": 2,
-    "islands": 2,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -9913,6 +10663,12 @@
       "p": 500,
       "n": 1,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9924,7 +10680,7 @@
    ],
    "range": {
     "low": 500,
-    "high": 500
+    "high": 999
    },
    "icon": "icons/water-spout.png"
   },
@@ -9933,16 +10689,16 @@
    "name": "DV Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 9250000,
+   "value": 9375000,
    "demand": 9,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
     "buy": 6000000,
-    "sell": 12500000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 4,
+    "sell": 12750000,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -9985,6 +10741,18 @@
       "p": 9300000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 13000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -9999,7 +10767,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 9250000
+     "v": 9375000
     }
    ],
    "range": {
@@ -10215,17 +10983,17 @@
    "id": "sunflower",
    "name": "Sunflower",
    "category": "Flowers",
-   "rarity": "Epic",
-   "value": 475000,
-   "demand": 8,
+   "rarity": "Legendary",
+   "value": 500000,
+   "demand": 9,
    "source": "Rare flower. One 200K bid, nobody selling",
    "verified": true,
    "market": {
-    "buy": 250000,
-    "sell": 700000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "buy": 275000,
+    "sell": 725000,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -10250,6 +11018,18 @@
       "p": 700000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 750000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10260,12 +11040,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 475000
+     "v": 500000
     }
    ],
    "range": {
     "low": 200000,
-    "high": 700000
+    "high": 750000
    }
   },
   {
@@ -10314,16 +11094,16 @@
    "name": "Golden Wheat Sheaf",
    "category": "Crops",
    "rarity": "Rare",
-   "value": 42500,
-   "demand": 6,
+   "value": 45000,
+   "demand": 8,
    "source": "Rare wheat harvest",
    "verified": true,
    "market": {
-    "buy": 30000,
+    "buy": 35000,
     "sell": 54999,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
@@ -10336,6 +11116,12 @@
       "p": 54999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10343,6 +11129,10 @@
     {
      "d": "2026-11-19",
      "v": 42500
+    },
+    {
+     "d": "2026-11-20",
+     "v": 45000
     }
    ],
    "range": {
@@ -10432,16 +11222,16 @@
    "name": "Hearty Soup",
    "category": "Food",
    "rarity": "Epic",
-   "value": 95000,
-   "demand": 6,
+   "value": 80000,
+   "demand": 7,
    "source": "Industrial Cooker. Top-tier food",
    "verified": true,
    "market": {
-    "buy": 65000,
-    "sell": 124999,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "buy": 62500,
+    "sell": 97500,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
@@ -10454,6 +11244,18 @@
       "p": 124999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 70000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10461,10 +11263,14 @@
     {
      "d": "2026-11-19",
      "v": 95000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 80000
     }
    ],
    "range": {
-    "low": 65000,
+    "low": 60000,
     "high": 124999
    }
   },
@@ -10473,22 +11279,28 @@
    "name": "Pinkberry Pie",
    "category": "Food",
    "rarity": "Epic",
-   "value": 75000,
-   "demand": 8,
+   "value": 72000,
+   "demand": 10,
    "source": "Industrial Cooker. Rare pie",
    "verified": true,
    "market": {
-    "buy": 65000,
+    "buy": 62500,
     "sell": null,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 65000,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10496,10 +11308,14 @@
     {
      "d": "2026-11-19",
      "v": 75000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 72000
     }
    ],
    "range": {
-    "low": 65000,
+    "low": 60000,
     "high": 65000
    }
   },
@@ -10508,16 +11324,16 @@
    "name": "Slime Soup",
    "category": "Food",
    "rarity": "Rare",
-   "value": 7000,
+   "value": 6400,
    "demand": 5,
    "source": "Industrial Cooker: Slime Gel",
    "verified": true,
    "market": {
     "buy": 4000,
-    "sell": 9999,
+    "sell": 8750,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
@@ -10530,6 +11346,12 @@
       "p": 9999,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 7500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10537,6 +11359,10 @@
     {
      "d": "2026-11-19",
      "v": 7000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 6400
     }
    ],
    "range": {
@@ -10550,15 +11376,15 @@
    "category": "Blocks",
    "rarity": "Rare",
    "value": 42500,
-   "demand": 8,
+   "demand": 9,
    "source": "Block Press: Orange Slime Gel",
    "verified": true,
    "market": {
     "buy": 30000,
     "sell": 55000,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 3,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -10589,6 +11415,18 @@
       "p": 55000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10600,7 +11438,7 @@
    ],
    "range": {
     "low": 30000,
-    "high": 55000
+    "high": 60000
    }
   },
   {
@@ -10713,16 +11551,16 @@
    "name": "Industrial Block Press",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7500,
+   "value": 5250,
    "demand": 6,
    "source": "Presses blocks",
    "verified": true,
    "market": {
-    "buy": 5000,
-    "sell": 10000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "buy": 3500,
+    "sell": 7000,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -10735,6 +11573,18 @@
       "p": 5000,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10742,10 +11592,14 @@
     {
      "d": "2026-11-19",
      "v": 7500
+    },
+    {
+     "d": "2026-11-20",
+     "v": 5250
     }
    ],
    "range": {
-    "low": 5000,
+    "low": 2000,
     "high": 10000
    }
   },
@@ -10831,15 +11685,15 @@
    "category": "Machines",
    "rarity": "Epic",
    "value": 50000,
-   "demand": 7,
+   "demand": 6,
    "source": "Crafts machines",
    "verified": true,
    "market": {
     "buy": 25000,
     "sell": 75000,
     "buyers": 3,
-    "sellers": 3,
-    "islands": 2,
+    "sellers": 4,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -10864,6 +11718,12 @@
       "p": 180000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 5000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
      }
     ]
    },
@@ -10875,7 +11735,7 @@
    ],
    "range": {
     "low": 25000,
-    "high": 75000
+    "high": 5000000
    }
   },
   {
@@ -11009,6 +11869,158 @@
    "range": {
     "low": 6000,
     "high": 12000
+   }
+  },
+  {
+   "id": "rocket-carrot",
+   "name": "Rocket Carrot",
+   "category": "Crops",
+   "rarity": "Rare",
+   "value": 30000,
+   "demand": 7,
+   "source": "Rare carrot harvest",
+   "verified": true,
+   "market": {
+    "buy": 25000,
+    "sell": 35000,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 35000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 30000
+    }
+   ],
+   "range": {
+    "low": 25000,
+    "high": 35000
+   }
+  },
+  {
+   "id": "bluetato",
+   "name": "Bluetato",
+   "category": "Crops",
+   "rarity": "Uncommon",
+   "value": 3250,
+   "demand": 6,
+   "source": "Rare potato harvest",
+   "verified": true,
+   "market": {
+    "buy": 2500,
+    "sell": 4000,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 3250
+    }
+   ],
+   "range": {
+    "low": 2500,
+    "high": 4000
+   }
+  },
+  {
+   "id": "water-pipe",
+   "name": "Water Pipe",
+   "category": "Machines",
+   "rarity": "Uncommon",
+   "value": 999,
+   "demand": 4,
+   "source": "Carries water",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 999,
+    "buyers": 0,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 999
+    }
+   ],
+   "range": {
+    "low": 999,
+    "high": 999
+   }
+  },
+  {
+   "id": "water-pipe-corner",
+   "name": "Water Pipe Corner",
+   "category": "Machines",
+   "rarity": "Uncommon",
+   "value": 999,
+   "demand": 4,
+   "source": "Water pipe turn",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 999,
+    "buyers": 0,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 999
+    }
+   ],
+   "range": {
+    "low": 999,
+    "high": 999
    }
   }
  ]
