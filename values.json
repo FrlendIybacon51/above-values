@@ -16,9 +16,9 @@
    "market": {
     "buy": 800000,
     "sell": 1550000,
-    "buyers": 19,
+    "buyers": 20,
     "sellers": 6,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -121,6 +121,12 @@
       "p": 1550000,
       "n": 3,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -149,16 +155,16 @@
    "name": "Goldbone Pickaxe",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 1150000,
+   "value": 1160000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast gold mining",
    "verified": true,
    "market": {
-    "buy": 750000,
+    "buy": 775000,
     "sell": 1550000,
-    "buyers": 15,
-    "sellers": 6,
-    "islands": 9,
+    "buyers": 16,
+    "sellers": 7,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -237,6 +243,18 @@
       "p": 1550000,
       "n": 3,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1250000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -251,7 +269,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1150000
+     "v": 1160000
     }
    ],
    "range": {
@@ -265,16 +283,16 @@
    "name": "Goldbone Sword",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 890000,
+   "value": 875000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 725000,
+    "buy": 700000,
     "sell": 1050000,
-    "buyers": 16,
+    "buyers": 17,
     "sellers": 7,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -359,6 +377,12 @@
       "p": 1050000,
       "n": 3,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 700000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -373,7 +397,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 890000
+     "v": 875000
     }
    ],
    "range": {
@@ -388,16 +412,16 @@
    "name": "Soul Scepter",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 530000,
+   "value": 540000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 662500,
-    "buyers": 13,
-    "sellers": 8,
-    "islands": 13,
+    "sell": 675000,
+    "buyers": 14,
+    "sellers": 9,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -524,6 +548,18 @@
       "p": 400000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 850000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -535,10 +571,6 @@
     {
      "d": "2026-11-19",
      "v": 540000
-    },
-    {
-     "d": "2026-11-20",
-     "v": 530000
     }
    ],
    "range": {
@@ -559,9 +591,9 @@
    "market": {
     "buy": 500000,
     "sell": 825000,
-    "buyers": 13,
-    "sellers": 10,
-    "islands": 13,
+    "buyers": 14,
+    "sellers": 11,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -700,6 +732,18 @@
       "p": 825000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 850000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -1085,16 +1129,16 @@
    "name": "Purple Slime Gel",
    "category": "Materials",
    "rarity": "Legendary",
-   "value": 525000,
+   "value": 575000,
    "demand": 10,
    "source": "Purple Slime",
    "verified": true,
    "market": {
     "buy": 250000,
-    "sell": 800000,
-    "buyers": 16,
-    "sellers": 7,
-    "islands": 16,
+    "sell": 900000,
+    "buyers": 17,
+    "sellers": 8,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -1233,6 +1277,18 @@
       "p": 650000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1500000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -1247,12 +1303,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 525000
+     "v": 575000
     }
    ],
    "range": {
     "low": 200000,
-    "high": 1200000
+    "high": 1500000
    },
    "icon": "icons/purple-slime-gel.png"
   },
@@ -1261,16 +1317,16 @@
    "name": "Pink Slime Gel",
    "category": "Materials",
    "rarity": "Rare",
-   "value": 45500,
+   "value": 46000,
    "demand": 10,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 36000,
+    "buy": 37000,
     "sell": 55000,
-    "buyers": 15,
-    "sellers": 14,
-    "islands": 17,
+    "buyers": 16,
+    "sellers": 15,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -1445,6 +1501,18 @@
       "p": 40000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 42500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 55000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -1455,7 +1523,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 45500
+     "v": 46000
     }
    ],
    "range": {
@@ -1474,11 +1542,11 @@
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 7250,
+    "buy": 7500,
     "sell": 13500,
-    "buyers": 18,
-    "sellers": 13,
-    "islands": 18,
+    "buyers": 19,
+    "sellers": 14,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -1665,6 +1733,18 @@
       "p": 14999,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 12500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -1699,11 +1779,11 @@
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1775,
-    "sell": 3262,
-    "buyers": 12,
-    "sellers": 12,
-    "islands": 16,
+    "buy": 1800,
+    "sell": 3250,
+    "buyers": 13,
+    "sellers": 13,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -1848,6 +1928,18 @@
       "p": 2999,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2250,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -1872,16 +1964,16 @@
    "name": "Blue Slime Gel",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 2200,
+   "value": 2250,
    "demand": 10,
    "source": "Blue Slime (85 HP)",
    "verified": true,
    "market": {
-    "buy": 1450,
+    "buy": 1500,
     "sell": 2999,
-    "buyers": 18,
-    "sellers": 15,
-    "islands": 18,
+    "buyers": 19,
+    "sellers": 16,
+    "islands": 19,
     "listings": [
      {
       "t": "buy",
@@ -2080,6 +2172,18 @@
       "p": 2599,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -2091,6 +2195,10 @@
     {
      "d": "2026-11-19",
      "v": 2200
+    },
+    {
+     "d": "2026-11-20",
+     "v": 2250
     }
    ],
    "range": {
@@ -2287,16 +2395,16 @@
    "name": "Candy Corn",
    "category": "Materials",
    "rarity": "Uncommon",
-   "value": 975,
+   "value": 987,
    "demand": 10,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
     "buy": 500,
-    "sell": 1450,
-    "buyers": 8,
-    "sellers": 7,
-    "islands": 8,
+    "sell": 1474,
+    "buyers": 9,
+    "sellers": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -2381,6 +2489,18 @@
       "p": 1299,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1750,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -2392,10 +2512,6 @@
     {
      "d": "2026-11-19",
      "v": 987
-    },
-    {
-     "d": "2026-11-20",
-     "v": 975
     }
    ],
    "range": {
@@ -3918,9 +4034,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 54,
-    "sellers": 49,
-    "islands": 7,
+    "buyers": 63,
+    "sellers": 58,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -3999,6 +4115,18 @@
       "p": 15000,
       "n": 7,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 9,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 12500,
+      "n": 9,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -4747,8 +4875,8 @@
     "buy": 350000,
     "sell": 499999,
     "buyers": 4,
-    "sellers": 48,
-    "islands": 7,
+    "sellers": 58,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -4803,6 +4931,12 @@
       "p": 499999,
       "n": 14,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400000,
+      "n": 10,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -4832,15 +4966,15 @@
    "category": "Machines",
    "rarity": "Legendary",
    "value": 2000000,
-   "demand": 2,
+   "demand": 1,
    "source": "Prime quality: same machine, better stats",
    "verified": true,
    "market": {
     "buy": null,
     "sell": 2000000,
     "buyers": 0,
-    "sellers": 4,
-    "islands": 3,
+    "sellers": 5,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -4859,6 +4993,12 @@
       "p": 2000000,
       "n": 2,
       "where": "Night market, island 4 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 1000000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -4873,7 +5013,7 @@
     }
    ],
    "range": {
-    "low": 1450000,
+    "low": 1000000,
     "high": 2000000
    },
    "note": "Which 2M pump was Prime vs Masterwork was read from the floor signs; treat the two tiers as approximate."
@@ -4948,9 +5088,9 @@
    "market": {
     "buy": 1200000,
     "sell": 1850000,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 9,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -5065,6 +5205,12 @@
       "p": 1750000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -5177,16 +5323,16 @@
    "name": "Vending Machine",
    "category": "Machines",
    "rarity": "Epic",
-   "value": 230000,
+   "value": 235000,
    "demand": 10,
    "source": "Lets you sell to other players",
    "verified": true,
    "market": {
-    "buy": 190000,
-    "sell": 267000,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 7,
+    "buy": 195000,
+    "sell": 271000,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -5259,6 +5405,18 @@
       "p": 260000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 275000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -5273,7 +5431,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 230000
+     "v": 235000
     }
    ],
    "range": {
@@ -5286,16 +5444,16 @@
    "name": "Fletching Machine",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7500,
+   "value": 8400,
    "demand": 10,
    "source": "Makes arrows / bolts",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 10000,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 7,
+    "sell": 11750,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -5356,6 +5514,18 @@
       "p": 5000,
       "n": 1,
       "where": "Yellow-floor mega shop, island 11 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 25000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -5370,12 +5540,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 7500
+     "v": 8400
     }
    ],
    "range": {
     "low": 2500,
-    "high": 15000
+    "high": 25000
    },
    "icon": "icons/fletching-machine.png"
   },
@@ -5845,17 +6015,17 @@
    "id": "industrial-furnace",
    "name": "Industrial Furnace",
    "category": "Machines",
-   "rarity": "Rare",
-   "value": 44000,
-   "demand": 5,
+   "rarity": "Epic",
+   "value": 52500,
+   "demand": 1,
    "source": "Smelts ores and blocks. Every listing was sold out",
    "verified": true,
    "market": {
     "buy": 30000,
-    "sell": 57500,
+    "sell": 75000,
     "buyers": 1,
-    "sellers": 2,
-    "islands": 2,
+    "sellers": 8,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -5874,6 +6044,12 @@
       "p": 65000,
       "n": 1,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 6,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -5885,11 +6061,15 @@
     {
      "d": "2026-11-19",
      "v": 44000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 52500
     }
    ],
    "range": {
     "low": 30000,
-    "high": 65000
+    "high": 75000
    },
    "icon": "icons/industrial-furnace.png"
   },
@@ -5905,9 +6085,9 @@
    "market": {
     "buy": 1200000,
     "sell": 1945000,
-    "buyers": 10,
+    "buyers": 11,
     "sellers": 6,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -6004,6 +6184,12 @@
       "p": 1800000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1250000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -6866,9 +7052,9 @@
    "market": {
     "buy": 4000000,
     "sell": 5500000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 5,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -6947,6 +7133,12 @@
       "p": 4300000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4000000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -6975,16 +7167,16 @@
    "name": "Morten Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 890000,
+   "value": 900000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 685000,
+    "buy": 700000,
     "sell": 1100000,
-    "buyers": 8,
+    "buyers": 9,
     "sellers": 5,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -7063,6 +7255,12 @@
       "p": 999999,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 700000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -7077,7 +7275,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 890000
+     "v": 900000
     }
    ],
    "range": {
@@ -7091,16 +7289,16 @@
    "name": "Morten Boots",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 560000,
+   "value": 570000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 450000,
-    "sell": 675000,
-    "buyers": 11,
-    "sellers": 5,
-    "islands": 11,
+    "buy": 425000,
+    "sell": 712500,
+    "buyers": 12,
+    "sellers": 6,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -7197,6 +7395,18 @@
       "p": 570000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1500000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -7211,12 +7421,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 560000
+     "v": 570000
     }
    ],
    "range": {
     "low": 325000,
-    "high": 900000
+    "high": 1500000
    },
    "icon": "icons/morten-boots.png"
   },
@@ -7232,9 +7442,9 @@
    "market": {
     "buy": 60000,
     "sell": 90000,
-    "buyers": 9,
-    "sellers": 6,
-    "islands": 9,
+    "buyers": 10,
+    "sellers": 7,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -7325,6 +7535,18 @@
       "p": 60000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 90000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -7343,7 +7565,7 @@
     }
    ],
    "range": {
-    "low": 50000,
+    "low": 25000,
     "high": 120000
    },
    "icon": "icons/morten-cape.png"
@@ -7360,9 +7582,9 @@
    "market": {
     "buy": 60000,
     "sell": 90000,
-    "buyers": 9,
-    "sellers": 7,
-    "islands": 9,
+    "buyers": 10,
+    "sellers": 8,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -7459,6 +7681,18 @@
       "p": 84999,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 90000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -7477,7 +7711,7 @@
     }
    ],
    "range": {
-    "low": 50000,
+    "low": 25000,
     "high": 120000
    },
    "icon": "icons/morten-mask.png"
@@ -7633,16 +7867,16 @@
    "name": "Onion Harvester",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 33500,
+   "value": 34000,
    "demand": 10,
    "source": "Auto-harvests onions",
    "verified": true,
    "market": {
-    "buy": 29000,
-    "sell": 38000,
-    "buyers": 8,
-    "sellers": 1,
-    "islands": 8,
+    "buy": 30000,
+    "sell": 38250,
+    "buyers": 9,
+    "sellers": 2,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -7697,6 +7931,18 @@
       "p": 38000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 38500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -7707,12 +7953,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 33500
+     "v": 34000
     }
    ],
    "range": {
     "low": 24900,
-    "high": 38000
+    "high": 38500
    },
    "icon": "icons/onion-harvester.png"
   },
@@ -8011,16 +8257,16 @@
    "name": "Lumber Mill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 14000,
+   "value": 13500,
    "demand": 10,
    "source": "Tier 1 lumber mill",
    "verified": true,
    "market": {
     "buy": 10000,
-    "sell": 17500,
-    "buyers": 8,
-    "sellers": 6,
-    "islands": 9,
+    "sell": 17000,
+    "buyers": 9,
+    "sellers": 7,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -8105,6 +8351,18 @@
       "p": 8500,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -8116,6 +8374,10 @@
     {
      "d": "2026-11-19",
      "v": 14000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 13500
     }
    ],
    "range": {
@@ -8461,16 +8723,16 @@
    "name": "Overflow Chest",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 7700,
+   "value": 7200,
    "demand": 10,
    "source": "Storage",
    "verified": true,
    "market": {
     "buy": 4500,
-    "sell": 10900,
-    "buyers": 11,
-    "sellers": 7,
-    "islands": 10,
+    "sell": 9950,
+    "buyers": 12,
+    "sellers": 8,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -8567,6 +8829,18 @@
       "p": 4000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 8000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -8581,7 +8855,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 7700
+     "v": 7200
     }
    ],
    "range": {
@@ -9188,9 +9462,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 82,
-    "sellers": 58,
-    "islands": 8,
+    "buyers": 92,
+    "sellers": 68,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -9299,6 +9573,18 @@
       "p": 15000,
       "n": 11,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 10,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 12500,
+      "n": 10,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -9445,16 +9731,16 @@
    "name": "Iron Drill I",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 38500,
+   "value": 40000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 32000,
+    "buy": 35000,
     "sell": 44999,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 1,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -9497,6 +9783,12 @@
       "p": 44999,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -9511,7 +9803,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 38500
+     "v": 40000
     }
    ],
    "range": {
@@ -9886,15 +10178,15 @@
    "category": "Machines",
    "rarity": "Uncommon",
    "value": 4000,
-   "demand": 9,
+   "demand": 8,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
     "buy": 3000,
     "sell": 5000,
     "buyers": 7,
-    "sellers": 9,
-    "islands": 11,
+    "sellers": 10,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -9991,6 +10283,12 @@
       "p": 5000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -10470,16 +10768,16 @@
    "name": "Arcane Pipe",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 362,
-   "demand": 2,
+   "value": 388,
+   "demand": 3,
    "source": "Arcane fluid pipe",
    "verified": true,
    "market": {
-    "buy": 125,
-    "sell": 600,
-    "buyers": 2,
-    "sellers": 7,
-    "islands": 7,
+    "buy": 200,
+    "sell": 575,
+    "buyers": 3,
+    "sellers": 8,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -10534,6 +10832,18 @@
       "p": 400,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -10548,7 +10858,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 362
+     "v": 388
     }
    ],
    "range": {
@@ -10562,16 +10872,16 @@
    "name": "Arcane Pipe Corner",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 325,
-   "demand": 3,
+   "value": 362,
+   "demand": 5,
    "source": "Arcane pipe turn",
    "verified": true,
    "market": {
-    "buy": 50,
+    "buy": 125,
     "sell": 600,
-    "buyers": 3,
-    "sellers": 6,
-    "islands": 6,
+    "buyers": 4,
+    "sellers": 7,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -10626,6 +10936,18 @@
       "p": 400,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -10640,7 +10962,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 325
+     "v": 362
     }
    ],
    "range": {
@@ -10654,16 +10976,16 @@
    "name": "Arcane Pipe Up/Down",
    "category": "Machines",
    "rarity": "Uncommon",
-   "value": 388,
-   "demand": 5,
+   "value": 375,
+   "demand": 7,
    "source": "Vertical arcane pipe",
    "verified": true,
    "market": {
-    "buy": 125,
-    "sell": 650,
-    "buyers": 4,
-    "sellers": 6,
-    "islands": 6,
+    "buy": 200,
+    "sell": 550,
+    "buyers": 5,
+    "sellers": 7,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -10724,6 +11046,18 @@
       "p": 400,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -10735,6 +11069,10 @@
     {
      "d": "2026-11-19",
      "v": 388
+    },
+    {
+     "d": "2026-11-20",
+     "v": 375
     }
    ],
    "range": {
@@ -10748,16 +11086,16 @@
    "name": "Arcane Table",
    "category": "Machines",
    "rarity": "Legendary",
-   "value": 4050000,
+   "value": 4000000,
    "demand": 10,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
     "buy": 3100000,
-    "sell": 5000000,
+    "sell": 4900000,
     "buyers": 10,
-    "sellers": 9,
-    "islands": 10,
+    "sellers": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -10866,6 +11204,12 @@
       "p": 3300000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -10880,7 +11224,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 4050000
+     "v": 4000000
     }
    ],
    "range": {
@@ -11275,16 +11619,16 @@
    "name": "DV Plush",
    "category": "Gear",
    "rarity": "Legendary",
-   "value": 9500000,
+   "value": 9375000,
    "demand": 10,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
     "buy": 6000000,
-    "sell": 13000000,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 6,
+    "sell": 12750000,
+    "buyers": 7,
+    "sellers": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -11351,6 +11695,18 @@
       "p": 13500000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5000000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 10000000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -11365,7 +11721,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 9500000
+     "v": 9375000
     }
    ],
    "range": {
@@ -11378,16 +11734,16 @@
    "name": "Yellow Shiny (any)",
    "category": "Flowers",
    "rarity": "Epic",
-   "value": 76000,
+   "value": 75000,
    "demand": 10,
    "source": "Solar, Sunburst, Corona, Radiant, Dawn, Zenith. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 52500,
+    "buy": 50000,
     "sell": 100000,
-    "buyers": 24,
-    "sellers": 16,
-    "islands": 4,
+    "buyers": 30,
+    "sellers": 22,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -11430,6 +11786,18 @@
       "p": 100000,
       "n": 6,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 6,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 100000,
+      "n": 6,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -11444,7 +11812,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 76000
+     "v": 75000
     }
    ],
    "range": {
@@ -11458,16 +11826,16 @@
    "name": "Red Shiny (any)",
    "category": "Flowers",
    "rarity": "Rare",
-   "value": 5750,
+   "value": 6500,
    "demand": 10,
    "source": "Phoenix, Inferno, Cinder, Blaze, Magma, Ember. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 3000,
-    "sell": 8499,
-    "buyers": 18,
-    "sellers": 17,
-    "islands": 3,
+    "buy": 4000,
+    "sell": 9000,
+    "buyers": 24,
+    "sellers": 23,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -11504,6 +11872,18 @@
       "p": 6000,
       "n": 6,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 6,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 10000,
+      "n": 6,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -11515,11 +11895,15 @@
     {
      "d": "2026-11-19",
      "v": 5750
+    },
+    {
+     "d": "2026-11-20",
+     "v": 6500
     }
    ],
    "range": {
     "low": 3000,
-    "high": 9000
+    "high": 10000
    },
    "icon": "icons/red-shiny.png"
   },
@@ -12182,17 +12566,17 @@
    "id": "industrial-block-press",
    "name": "Industrial Block Press",
    "category": "Machines",
-   "rarity": "Rare",
-   "value": 5250,
-   "demand": 6,
+   "rarity": "Uncommon",
+   "value": 3000,
+   "demand": 7,
    "source": "Presses blocks",
    "verified": true,
    "market": {
-    "buy": 3500,
-    "sell": 7000,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 2000,
+    "sell": 4000,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -12217,6 +12601,18 @@
       "p": 4000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2500,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -12227,11 +12623,11 @@
     },
     {
      "d": "2026-11-20",
-     "v": 5250
+     "v": 3000
     }
    ],
    "range": {
-    "low": 2000,
+    "low": 1500,
     "high": 10000
    }
   },
@@ -12332,16 +12728,16 @@
    "name": "Machinery Workbench",
    "category": "Machines",
    "rarity": "Rare",
-   "value": 39000,
-   "demand": 9,
+   "value": 44000,
+   "demand": 7,
    "source": "Crafts machines",
    "verified": true,
    "market": {
     "buy": 20000,
-    "sell": 57500,
+    "sell": 67500,
     "buyers": 7,
-    "sellers": 8,
-    "islands": 4,
+    "sellers": 10,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -12384,6 +12780,12 @@
       "p": 54999,
       "n": 4,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 100000,
+      "n": 2,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
      }
     ]
    },
@@ -12394,7 +12796,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 39000
+     "v": 44000
     }
    ],
    "range": {
@@ -12685,6 +13087,181 @@
    "range": {
     "low": 999,
     "high": 999
+   }
+  },
+  {
+   "id": "industrial-furnace-prime",
+   "name": "Industrial Furnace (Prime)",
+   "category": "Machines",
+   "rarity": "Legendary",
+   "value": 500000,
+   "demand": 4,
+   "source": "Prime quality: better stats",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 500000,
+    "buyers": 0,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 500000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 500000
+    }
+   ],
+   "range": {
+    "low": 500000,
+    "high": 500000
+   }
+  },
+  {
+   "id": "industrial-furnace-masterwork",
+   "name": "Industrial Furnace (Masterwork)",
+   "category": "Machines",
+   "rarity": "Legendary",
+   "value": 2000000,
+   "demand": 4,
+   "source": "Masterwork quality: top-tier stats",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 2000000,
+    "buyers": 0,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 2000000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 2000000
+    }
+   ],
+   "range": {
+    "low": 2000000,
+    "high": 2000000
+   }
+  },
+  {
+   "id": "industrial-cooker-prime",
+   "name": "Industrial Cooker (Prime)",
+   "category": "Machines",
+   "rarity": "Epic",
+   "value": 100000,
+   "demand": 4,
+   "source": "Prime quality: better stats",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 100000,
+    "buyers": 0,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 100000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 100000
+    }
+   ],
+   "range": {
+    "low": 100000,
+    "high": 100000
+   }
+  },
+  {
+   "id": "machinery-workbench-masterwork",
+   "name": "Machinery Workbench (Masterwork)",
+   "category": "Machines",
+   "rarity": "Legendary",
+   "value": 7500000,
+   "demand": 4,
+   "source": "Masterwork quality: top-tier stats",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 7500000,
+    "buyers": 0,
+    "sellers": 2,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 7500000,
+      "n": 2,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 7500000
+    }
+   ],
+   "range": {
+    "low": 7500000,
+    "high": 7500000
+   }
+  },
+  {
+   "id": "goldbone-pickaxe-prime",
+   "name": "Goldbone Pickaxe (Prime)",
+   "category": "Gear",
+   "rarity": "Legendary",
+   "value": 1250000,
+   "demand": 4,
+   "source": "Prime quality: better stats",
+   "verified": true,
+   "market": {
+    "buy": null,
+    "sell": 1250000,
+    "buyers": 0,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 1250000,
+      "n": 1,
+      "where": "DV_Economy's market, island 16 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 1250000
+    }
+   ],
+   "range": {
+    "low": 1250000,
+    "high": 1250000
    }
   }
  ]
