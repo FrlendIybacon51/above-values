@@ -13440,6 +13440,176 @@
    }
   },
   {
+   "id": "iron-drill-ii",
+   "name": "Iron Drill II",
+   "category": "Machines",
+   "value": 40000,
+   "demand": 8,
+   "source": "Tier 2 iron drill",
+   "verified": true,
+   "market": {
+    "buy": 35000,
+    "sell": null,
+    "buyers": 1,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 40000
+    }
+   ],
+   "range": {
+    "low": 35000,
+    "high": 35000
+   }
+  },
+  {
+   "id": "snapdragon",
+   "name": "Snapdragon (any color)",
+   "category": "Flowers",
+   "value": 11500,
+   "demand": 10,
+   "source": "Bred flower. Blue, Red, Sky, Purple, Yellow, Orange, Lime",
+   "verified": true,
+   "market": {
+    "buy": 10000,
+    "sell": null,
+    "buyers": 7,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 7,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 11500
+    }
+   ],
+   "range": {
+    "low": 10000,
+    "high": 10000
+   }
+  },
+  {
+   "id": "glowing-snapdragon",
+   "name": "Glowing Snapdragon (any color)",
+   "category": "Flowers",
+   "value": 11500,
+   "demand": 10,
+   "source": "Glowing variant. Black, Blue, Orange, Pink, Purple, Red, Sky, White, Lime",
+   "verified": true,
+   "market": {
+    "buy": 10000,
+    "sell": null,
+    "buyers": 9,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 9,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 11500
+    }
+   ],
+   "range": {
+    "low": 10000,
+    "high": 10000
+   }
+  },
+  {
+   "id": "glowing-daisy",
+   "name": "Glowing Daisy (any color)",
+   "category": "Flowers",
+   "value": 11500,
+   "demand": 10,
+   "source": "Glowing variant. Green, White",
+   "verified": true,
+   "market": {
+    "buy": 10000,
+    "sell": null,
+    "buyers": 2,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 2,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 11500
+    }
+   ],
+   "range": {
+    "low": 10000,
+    "high": 10000
+   }
+  },
+  {
+   "id": "poppy",
+   "name": "Poppy (any color)",
+   "category": "Flowers",
+   "value": 11500,
+   "demand": 10,
+   "source": "Bred flower. Black, Blue",
+   "verified": true,
+   "market": {
+    "buy": 10000,
+    "sell": null,
+    "buyers": 2,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 2,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-20",
+     "v": 11500
+    }
+   ],
+   "range": {
+    "low": 10000,
+    "high": 10000
+   }
+  },
+  {
    "id": "berries",
    "name": "Berries",
    "category": "Crops",
