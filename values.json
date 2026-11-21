@@ -15,9 +15,9 @@
    "market": {
     "buy": 800000,
     "sell": 1550000,
-    "buyers": 21,
-    "sellers": 6,
-    "islands": 15,
+    "buyers": 22,
+    "sellers": 7,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -132,6 +132,18 @@
       "p": 1000000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1750000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -151,7 +163,7 @@
    ],
    "range": {
     "low": 600000,
-    "high": 1550000
+    "high": 1750000
    },
    "icon": "icons/goldbone-axe.png"
   },
@@ -159,16 +171,16 @@
    "id": "goldbone-pickaxe",
    "name": "Goldbone Pickaxe",
    "category": "Gear",
-   "value": 1160000,
+   "value": 1150000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast gold mining",
    "verified": true,
    "market": {
-    "buy": 775000,
+    "buy": 750000,
     "sell": 1550000,
-    "buyers": 16,
+    "buyers": 17,
     "sellers": 7,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -259,6 +271,12 @@
       "p": 1250000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -273,7 +291,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1160000
+     "v": 1150000
     }
    ],
    "range": {
@@ -286,16 +304,16 @@
    "id": "goldbone-sword",
    "name": "Goldbone Sword",
    "category": "Gear",
-   "value": 890000,
+   "value": 875000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 725000,
+    "buy": 700000,
     "sell": 1050000,
-    "buyers": 18,
-    "sellers": 7,
-    "islands": 11,
+    "buyers": 19,
+    "sellers": 8,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -392,6 +410,18 @@
       "p": 900000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 550000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1450000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -406,12 +436,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 890000
+     "v": 875000
     }
    ],
    "range": {
     "low": 500000,
-    "high": 1100000
+    "high": 1450000
    },
    "icon": "icons/goldbone-sword.png",
    "note": "Asking price was partly cut off in the screenshot; double-check 825K."
@@ -420,16 +450,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 530000,
+   "value": 540000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 662500,
-    "buyers": 15,
-    "sellers": 10,
-    "islands": 15,
+    "sell": 675000,
+    "buyers": 16,
+    "sellers": 11,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -580,6 +610,18 @@
       "p": 600000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 350000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 750000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -591,10 +633,6 @@
     {
      "d": "2026-11-19",
      "v": 540000
-    },
-    {
-     "d": "2026-11-20",
-     "v": 530000
     }
    ],
    "range": {
@@ -614,9 +652,9 @@
    "market": {
     "buy": 500000,
     "sell": 825000,
-    "buyers": 15,
-    "sellers": 11,
-    "islands": 15,
+    "buyers": 16,
+    "sellers": 12,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -773,6 +811,18 @@
       "p": 500000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 450000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 850000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -808,9 +858,9 @@
    "market": {
     "buy": 800000,
     "sell": 1200000,
-    "buyers": 14,
-    "sellers": 11,
-    "islands": 15,
+    "buyers": 15,
+    "sellers": 12,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -961,6 +1011,18 @@
       "p": 1200000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1600000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -976,7 +1038,7 @@
    ],
    "range": {
     "low": 600000,
-    "high": 1200000
+    "high": 1600000
    },
    "icon": "icons/gold-crystal.png"
   },
@@ -990,10 +1052,10 @@
    "verified": true,
    "market": {
     "buy": 20000,
-    "sell": 39999,
-    "buyers": 14,
-    "sellers": 15,
-    "islands": 16,
+    "sell": 40000,
+    "buyers": 15,
+    "sellers": 16,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -1168,6 +1230,18 @@
       "p": 35000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 15000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 45000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -1385,16 +1459,16 @@
    "id": "pink-slime-gel",
    "name": "Pink Slime Gel",
    "category": "Materials",
-   "value": 46000,
+   "value": 46500,
    "demand": 10,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 37000,
+    "buy": 38000,
     "sell": 55000,
-    "buyers": 16,
+    "buyers": 17,
     "sellers": 16,
-    "islands": 19,
+    "islands": 20,
     "listings": [
      {
       "t": "sell",
@@ -1587,6 +1661,12 @@
       "p": 65000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -1597,7 +1677,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 46000
+     "v": 46500
     }
    ],
    "range": {
@@ -1857,11 +1937,11 @@
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1800,
+    "buy": 1775,
     "sell": 3250,
-    "buyers": 13,
+    "buyers": 14,
     "sellers": 13,
-    "islands": 17,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -2018,6 +2098,12 @@
       "p": 2500,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1600,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -2048,9 +2134,9 @@
    "market": {
     "buy": 1500,
     "sell": 2999,
-    "buyers": 19,
-    "sellers": 16,
-    "islands": 19,
+    "buyers": 20,
+    "sellers": 17,
+    "islands": 20,
     "listings": [
      {
       "t": "buy",
@@ -2261,6 +2347,18 @@
       "p": 2500,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2200,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -2295,9 +2393,9 @@
    "market": {
     "buy": 1000,
     "sell": 2500,
-    "buyers": 12,
-    "sellers": 12,
-    "islands": 13,
+    "buyers": 13,
+    "sellers": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -2442,6 +2540,18 @@
       "p": 1800,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 3000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -2461,7 +2571,7 @@
    ],
    "range": {
     "low": 800,
-    "high": 2500
+    "high": 3000
    },
    "icon": "icons/bone.png",
    "note": "Asking price partly cut off; 2.5K inferred from the 1.6K bid."
@@ -2846,16 +2956,16 @@
    "id": "veggie-soup",
    "name": "Veggie Soup",
    "category": "Food",
-   "value": 416,
-   "demand": 4,
+   "value": 468,
+   "demand": 5,
    "source": "Cooking station. Heals 40 HP",
    "verified": true,
    "market": {
-    "buy": 220,
-    "sell": 612,
-    "buyers": 1,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 210,
+    "sell": 725,
+    "buyers": 2,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -2874,6 +2984,18 @@
       "p": 499,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 800,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -2885,11 +3007,15 @@
     {
      "d": "2026-11-19",
      "v": 416
+    },
+    {
+     "d": "2026-11-20",
+     "v": 468
     }
    ],
    "range": {
-    "low": 220,
-    "high": 725
+    "low": 200,
+    "high": 800
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -2915,16 +3041,16 @@
    "id": "carrot-cake",
    "name": "Carrot Cake",
    "category": "Food",
-   "value": 305,
-   "demand": 7,
+   "value": 312,
+   "demand": 8,
    "source": "Industrial Cooker. 20 healing",
    "verified": true,
    "market": {
-    "buy": 210,
+    "buy": 225,
     "sell": 400,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 2,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -2949,6 +3075,18 @@
       "p": 399,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 400,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 900,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -2960,11 +3098,15 @@
     {
      "d": "2026-11-19",
      "v": 305
+    },
+    {
+     "d": "2026-11-20",
+     "v": 312
     }
    ],
    "range": {
     "low": 195,
-    "high": 400
+    "high": 900
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -2986,16 +3128,16 @@
    "id": "berry-pie",
    "name": "Berry Pie",
    "category": "Food",
-   "value": 342,
-   "demand": 7,
+   "value": 387,
+   "demand": 8,
    "source": "Industrial Cooker. 15 healing",
    "verified": true,
    "market": {
-    "buy": 260,
-    "sell": 424,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 325,
+    "sell": 449,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -3020,6 +3162,18 @@
       "p": 449,
       "n": 1,
       "where": "Middle's market, island 2 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 350,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1199,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -3031,11 +3185,15 @@
     {
      "d": "2026-11-19",
      "v": 342
+    },
+    {
+     "d": "2026-11-20",
+     "v": 387
     }
    ],
    "range": {
     "low": 195,
-    "high": 449
+    "high": 1199
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3057,16 +3215,16 @@
    "id": "tomato-sauce",
    "name": "Tomato Sauce",
    "category": "Food",
-   "value": 262,
+   "value": 369,
    "demand": 6,
    "source": "Industrial Cooker: Tomato",
    "verified": true,
    "market": {
-    "buy": 175,
-    "sell": 350,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "buy": 238,
+    "sell": 500,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -3079,6 +3237,18 @@
       "p": 175,
       "n": 1,
       "where": "Your shop, island 1 (2026-11-18)"
+     },
+     {
+      "t": "buy",
+      "p": 300,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 650,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -3086,11 +3256,15 @@
     {
      "d": "2026-11-18",
      "v": 262
+    },
+    {
+     "d": "2026-11-20",
+     "v": 369
     }
    ],
    "range": {
     "low": 175,
-    "high": 350
+    "high": 650
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3175,22 +3349,34 @@
    "id": "berry-jam",
    "name": "Berry Jam",
    "category": "Food",
-   "value": 50,
-   "demand": 4,
+   "value": 238,
+   "demand": 5,
    "source": "Industrial Cooker: 10 Berries",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 50,
-    "buyers": 0,
-    "sellers": 1,
-    "islands": 1,
+    "buy": 150,
+    "sell": 325,
+    "buyers": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 50,
       "n": 1,
       "where": "Your shop, island 1 (2026-11-18)"
+     },
+     {
+      "t": "buy",
+      "p": 150,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 600,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -3198,11 +3384,15 @@
     {
      "d": "2026-11-18",
      "v": 50
+    },
+    {
+     "d": "2026-11-20",
+     "v": 238
     }
    ],
    "range": {
-    "low": 50,
-    "high": 50
+    "low": 150,
+    "high": 600
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3383,16 +3573,16 @@
    "id": "gold-ingot",
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
-   "value": 6400,
+   "value": 6500,
    "demand": 10,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 7750,
-    "buyers": 14,
-    "sellers": 12,
-    "islands": 15,
+    "sell": 8000,
+    "buyers": 15,
+    "sellers": 13,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -3549,6 +3739,18 @@
       "p": 7000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4500,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 11000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -3563,12 +3765,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 6400
+     "v": 6500
     }
    ],
    "range": {
     "low": 3500,
-    "high": 9999
+    "high": 11000
    },
    "icon": "icons/gold-ingot.png"
   },
@@ -3576,16 +3778,16 @@
    "id": "gold-ore",
    "name": "Gold Ore",
    "category": "Ores & Ingots",
-   "value": 5750,
+   "value": 6250,
    "demand": 10,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
     "buy": 4000,
-    "sell": 7500,
+    "sell": 8500,
     "buyers": 14,
-    "sellers": 12,
-    "islands": 14,
+    "sellers": 13,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -3730,6 +3932,12 @@
       "p": 3000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -3744,7 +3952,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 5750
+     "v": 6250
     }
    ],
    "range": {
@@ -3989,16 +4197,16 @@
    "id": "pine-wood",
    "name": "Pine Wood",
    "category": "Materials",
-   "value": 71,
+   "value": 88,
    "demand": 8,
    "source": "Pine trees, Lumber Mill",
    "verified": true,
    "market": {
-    "buy": 52,
-    "sell": 90,
-    "buyers": 4,
-    "sellers": 5,
-    "islands": 5,
+    "buy": 65,
+    "sell": 110,
+    "buyers": 5,
+    "sellers": 6,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4047,6 +4255,18 @@
       "p": 90,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 125,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 600,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -4058,6 +4278,10 @@
     {
      "d": "2026-11-19",
      "v": 71
+    },
+    {
+     "d": "2026-11-20",
+     "v": 88
     }
    ],
    "range": {
@@ -4247,9 +4471,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 63,
-    "sellers": 58,
-    "islands": 8,
+    "buyers": 75,
+    "sellers": 70,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -4340,6 +4564,18 @@
       "p": 12500,
       "n": 9,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 12,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 12,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -5759,16 +5995,16 @@
    "id": "splitter",
    "name": "Splitter",
    "category": "Machines",
-   "value": 5450,
+   "value": 5300,
    "demand": 10,
    "source": "Conveyor splitter",
    "verified": true,
    "market": {
-    "buy": 4000,
-    "sell": 6900,
-    "buyers": 9,
-    "sellers": 8,
-    "islands": 10,
+    "buy": 3750,
+    "sell": 6800,
+    "buyers": 10,
+    "sellers": 9,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -5871,6 +6107,18 @@
       "p": 6000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 6800,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -5885,7 +6133,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 5450
+     "v": 5300
     }
    ],
    "range": {
@@ -5899,15 +6147,15 @@
    "name": "Conveyor Left",
    "category": "Machines",
    "value": 3700,
-   "demand": 7,
+   "demand": 9,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
     "sell": 4900,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 11,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -6016,6 +6264,12 @@
       "p": 5000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -6044,15 +6298,15 @@
    "name": "Conveyor Right",
    "category": "Machines",
    "value": 3700,
-   "demand": 6,
+   "demand": 7,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
     "sell": 4900,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 11,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -6155,6 +6409,12 @@
       "p": 5000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -6442,9 +6702,9 @@
    "market": {
     "buy": 1450000,
     "sell": null,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 0,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -6475,6 +6735,12 @@
       "p": 1500000,
       "n": 2,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -6493,7 +6759,7 @@
     }
    ],
    "range": {
-    "low": 1250000,
+    "low": 1200000,
     "high": 1500000
    }
   },
@@ -9102,16 +9368,16 @@
    "id": "pine-tree-sapling",
    "name": "Pine Tree Sapling",
    "category": "Crops",
-   "value": 2600,
-   "demand": 7,
+   "value": 3150,
+   "demand": 8,
    "source": "Grows a pine tree",
    "verified": true,
    "market": {
-    "buy": 1150,
-    "sell": 4000,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 4,
+    "buy": 1300,
+    "sell": 5000,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -9160,6 +9426,18 @@
       "p": 5000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -9170,7 +9448,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 2600
+     "v": 3150
     }
    ],
    "range": {
@@ -9687,9 +9965,9 @@
    "market": {
     "buy": 10000,
     "sell": 15000,
-    "buyers": 92,
-    "sellers": 68,
-    "islands": 9,
+    "buyers": 104,
+    "sellers": 80,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -9810,6 +10088,18 @@
       "p": 12500,
       "n": 10,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 12,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 12,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -10039,16 +10329,16 @@
    "id": "output-chest",
    "name": "Output Chest",
    "category": "Machines",
-   "value": 1850,
+   "value": 1900,
    "demand": 10,
    "source": "Storage, output side",
    "verified": true,
    "market": {
-    "buy": 1200,
+    "buy": 1250,
     "sell": 2500,
-    "buyers": 9,
-    "sellers": 10,
-    "islands": 9,
+    "buyers": 10,
+    "sellers": 11,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -10157,6 +10447,18 @@
       "p": 2100,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -10164,10 +10466,6 @@
     {
      "d": "2026-11-18",
      "v": 1900
-    },
-    {
-     "d": "2026-11-20",
-     "v": 1850
     }
    ],
    "range": {
@@ -10180,16 +10478,16 @@
    "id": "input-chest",
    "name": "Input Chest",
    "category": "Machines",
-   "value": 1700,
-   "demand": 9,
+   "value": 1600,
+   "demand": 10,
    "source": "Storage, input side",
    "verified": true,
    "market": {
-    "buy": 1100,
-    "sell": 2250,
-    "buyers": 8,
-    "sellers": 10,
-    "islands": 9,
+    "buy": 1200,
+    "sell": 2000,
+    "buyers": 9,
+    "sellers": 11,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -10292,6 +10590,18 @@
       "p": 2000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 2000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -10302,7 +10612,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 1700
+     "v": 1600
     }
    ],
    "range": {
@@ -11489,16 +11799,16 @@
    "id": "green-slime-block",
    "name": "Green Slime Block",
    "category": "Blocks",
-   "value": 8400,
+   "value": 7750,
    "demand": 10,
    "source": "Block Press: Slime Gel",
    "verified": true,
    "market": {
-    "buy": 4750,
+    "buy": 3500,
     "sell": 12000,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 6,
+    "buyers": 7,
+    "sellers": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -11565,6 +11875,18 @@
       "p": 12000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 12000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -11576,10 +11898,14 @@
     {
      "d": "2026-11-19",
      "v": 8400
+    },
+    {
+     "d": "2026-11-20",
+     "v": 7750
     }
    ],
    "range": {
-    "low": 3500,
+    "low": 3000,
     "high": 12000
    }
   },
@@ -11677,16 +12003,16 @@
    "id": "pink-slime-block",
    "name": "Pink Slime Block",
    "category": "Blocks",
-   "value": 145000,
+   "value": 140000,
    "demand": 10,
    "source": "Block Press: Pink Slime Gel",
    "verified": true,
    "market": {
-    "buy": 105000,
+    "buy": 100000,
     "sell": 185000,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 4,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -11747,6 +12073,12 @@
       "p": 180000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 100000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -11761,7 +12093,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 145000
+     "v": 140000
     }
    ],
    "range": {
@@ -12293,16 +12625,16 @@
    "id": "golden-wheat-sheaf",
    "name": "Golden Wheat Sheaf",
    "category": "Crops",
-   "value": 45000,
-   "demand": 8,
+   "value": 51000,
+   "demand": 9,
    "source": "Rare wheat harvest",
    "verified": true,
    "market": {
-    "buy": 35000,
-    "sell": 54999,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 2,
+    "buy": 40000,
+    "sell": 62500,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -12321,6 +12653,18 @@
       "p": 40000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 45000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 70000,
+      "n": 1,
+      "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
      }
     ]
    },
@@ -12331,12 +12675,12 @@
     },
     {
      "d": "2026-11-20",
-     "v": 45000
+     "v": 51000
     }
    ],
    "range": {
     "low": 30000,
-    "high": 54999
+    "high": 70000
    },
    "note": "Bid was partly hidden; 30K is a best read."
   },
