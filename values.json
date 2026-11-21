@@ -179,8 +179,8 @@
     "buy": 750000,
     "sell": 1550000,
     "buyers": 17,
-    "sellers": 7,
-    "islands": 11,
+    "sellers": 9,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -277,6 +277,12 @@
       "p": 600000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1400000,
+      "n": 2,
+      "where": "\"Cheap\" Goldbone shop, island 22 (2026-11-21)"
      }
     ]
    },
