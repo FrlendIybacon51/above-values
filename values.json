@@ -15,9 +15,9 @@
    "market": {
     "buy": 800000,
     "sell": 1550000,
-    "buyers": 20,
+    "buyers": 21,
     "sellers": 6,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -126,6 +126,12 @@
       "p": 800000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -280,16 +286,16 @@
    "id": "goldbone-sword",
    "name": "Goldbone Sword",
    "category": "Gear",
-   "value": 875000,
+   "value": 890000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 700000,
+    "buy": 725000,
     "sell": 1050000,
-    "buyers": 17,
+    "buyers": 18,
     "sellers": 7,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -380,6 +386,12 @@
       "p": 700000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 900000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -394,7 +406,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 875000
+     "v": 890000
     }
    ],
    "range": {
@@ -408,16 +420,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 540000,
+   "value": 530000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 675000,
-    "buyers": 14,
-    "sellers": 9,
-    "islands": 14,
+    "sell": 662500,
+    "buyers": 15,
+    "sellers": 10,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -556,6 +568,18 @@
       "p": 850000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 350000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 600000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -567,6 +591,10 @@
     {
      "d": "2026-11-19",
      "v": 540000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 530000
     }
    ],
    "range": {
@@ -586,9 +614,9 @@
    "market": {
     "buy": 500000,
     "sell": 825000,
-    "buyers": 14,
+    "buyers": 15,
     "sellers": 11,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -739,6 +767,12 @@
       "p": 850000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -956,10 +990,10 @@
    "verified": true,
    "market": {
     "buy": 20000,
-    "sell": 40000,
-    "buyers": 13,
-    "sellers": 14,
-    "islands": 15,
+    "sell": 39999,
+    "buyers": 14,
+    "sellers": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -1122,6 +1156,18 @@
       "p": 40000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 20000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 35000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -1147,14 +1193,14 @@
    "category": "Materials",
    "value": 575000,
    "demand": 10,
-   "source": "Dev-spawned only, not farmable. Limited supply",
+   "source": "Dropped by Slime Kings (previously dev-spawned only)",
    "verified": true,
    "market": {
     "buy": 250000,
     "sell": 900000,
-    "buyers": 17,
+    "buyers": 18,
     "sellers": 8,
-    "islands": 17,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -1305,6 +1351,12 @@
       "p": 1500000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 150000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -1323,11 +1375,11 @@
     }
    ],
    "range": {
-    "low": 200000,
+    "low": 150000,
     "high": 1500000
    },
    "icon": "icons/purple-slime-gel.png",
-   "note": "Admin-spawned item with no farm source, so the price is speculative: bids 250\u2013450K, asks 650K\u20131.5M. Treat the value as a rough midpoint, not a stable number."
+   "note": "Was admin-spawned only; Slime Kings started dropping it on 2026-11-20, so expect the price to fall. Bids already down to 150K at some shops."
   },
   {
    "id": "pink-slime-gel",
@@ -1341,8 +1393,8 @@
     "buy": 37000,
     "sell": 55000,
     "buyers": 16,
-    "sellers": 15,
-    "islands": 18,
+    "sellers": 16,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -1529,6 +1581,12 @@
       "p": 55000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 65000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -1544,7 +1602,7 @@
    ],
    "range": {
     "low": 30000,
-    "high": 60000
+    "high": 65000
    },
    "icon": "icons/pink-slime-gel.png"
   },
@@ -1559,9 +1617,9 @@
    "market": {
     "buy": 7500,
     "sell": 13500,
-    "buyers": 19,
+    "buyers": 20,
     "sellers": 14,
-    "islands": 19,
+    "islands": 20,
     "listings": [
      {
       "t": "sell",
@@ -1760,6 +1818,12 @@
       "p": 12500,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 11000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -3156,16 +3220,16 @@
    "id": "berry-bush-seed",
    "name": "Berry Bush Seed",
    "category": "Crops",
-   "value": 650,
-   "demand": 7,
+   "value": 656,
+   "demand": 8,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 425,
+    "buy": 438,
     "sell": 875,
-    "buyers": 9,
-    "sellers": 15,
-    "islands": 12,
+    "buyers": 10,
+    "sellers": 16,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -3280,6 +3344,18 @@
       "p": 899,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 695,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 899,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -3294,7 +3370,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 650
+     "v": 656
     }
    ],
    "range": {
@@ -3307,16 +3383,16 @@
    "id": "gold-ingot",
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
-   "value": 6500,
+   "value": 6400,
    "demand": 10,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 8000,
-    "buyers": 13,
-    "sellers": 11,
-    "islands": 14,
+    "sell": 7750,
+    "buyers": 14,
+    "sellers": 12,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -3461,6 +3537,18 @@
       "p": 6500,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 7000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -3475,7 +3563,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 6500
+     "v": 6400
     }
    ],
    "range": {
@@ -3495,9 +3583,9 @@
    "market": {
     "buy": 4000,
     "sell": 7500,
-    "buyers": 13,
+    "buyers": 14,
     "sellers": 12,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -3636,6 +3724,12 @@
       "p": 6500,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -5343,16 +5437,16 @@
    "id": "lumber-mill",
    "name": "Lumber Mill III",
    "category": "Machines",
-   "value": 820000,
+   "value": 800000,
    "demand": 10,
    "source": "Tier 3 lumber mill. Tier I and II were sold out",
    "verified": true,
    "market": {
     "buy": 800000,
-    "sell": 835000,
+    "sell": 800000,
     "buyers": 13,
-    "sellers": 4,
-    "islands": 7,
+    "sellers": 9,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -5407,6 +5501,12 @@
       "p": 650000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 800000,
+      "n": 5,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -5414,6 +5514,10 @@
     {
      "d": "2026-11-18",
      "v": 820000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 800000
     }
    ],
    "range": {
@@ -5655,16 +5759,16 @@
    "id": "splitter",
    "name": "Splitter",
    "category": "Machines",
-   "value": 5400,
+   "value": 5450,
    "demand": 10,
    "source": "Conveyor splitter",
    "verified": true,
    "market": {
-    "buy": 3750,
-    "sell": 7000,
-    "buyers": 8,
-    "sellers": 7,
-    "islands": 9,
+    "buy": 4000,
+    "sell": 6900,
+    "buyers": 9,
+    "sellers": 8,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -5755,6 +5859,18 @@
       "p": 3500,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -5769,7 +5885,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 5400
+     "v": 5450
     }
    ],
    "range": {
@@ -6181,9 +6297,9 @@
    "market": {
     "buy": 1200000,
     "sell": 1945000,
-    "buyers": 11,
+    "buyers": 12,
     "sellers": 6,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -6286,6 +6402,12 @@
       "p": 1250000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -8836,9 +8958,9 @@
    "market": {
     "buy": 4500,
     "sell": 9950,
-    "buyers": 12,
+    "buyers": 13,
     "sellers": 8,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -8947,6 +9069,12 @@
       "p": 8000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 7000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -12857,16 +12985,16 @@
    "id": "sylvan-bow",
    "name": "Sylvan Bow",
    "category": "Gear",
-   "value": 80000,
+   "value": 64000,
    "demand": 6,
    "source": "Bow. Between Basic and Soulfire",
    "verified": true,
    "market": {
     "buy": 50000,
-    "sell": 110000,
+    "sell": 77500,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
@@ -12879,6 +13007,12 @@
       "p": 110000,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 45000,
+      "n": 1,
+      "where": "Blue-stone shop, island 17 (2026-11-20)"
      }
     ]
    },
@@ -12886,6 +13020,10 @@
     {
      "d": "2026-11-19",
      "v": 80000
+    },
+    {
+     "d": "2026-11-20",
+     "v": 64000
     }
    ],
    "range": {
