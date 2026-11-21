@@ -1484,9 +1484,9 @@
    "market": {
     "buy": 38000,
     "sell": 55000,
-    "buyers": 18,
+    "buyers": 19,
     "sellers": 18,
-    "islands": 22,
+    "islands": 23,
     "listings": [
      {
       "t": "sell",
@@ -1703,6 +1703,12 @@
       "p": 57000,
       "n": 1,
       "where": "Small skull shop, island 20 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 37500,
+      "n": 1,
+      "where": "Gel buyer, island 21 (2026-11-20)"
      }
     ]
    },
@@ -1733,9 +1739,9 @@
    "market": {
     "buy": 7500,
     "sell": 13500,
-    "buyers": 21,
+    "buyers": 22,
     "sellers": 15,
-    "islands": 22,
+    "islands": 23,
     "listings": [
      {
       "t": "sell",
@@ -1952,6 +1958,12 @@
       "p": 15000,
       "n": 1,
       "where": "Small skull shop, island 20 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "Gel buyer, island 21 (2026-11-20)"
      }
     ]
    },
@@ -1987,9 +1999,9 @@
    "market": {
     "buy": 1750,
     "sell": 3250,
-    "buyers": 16,
+    "buyers": 17,
     "sellers": 13,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -2164,6 +2176,12 @@
       "p": 1700,
       "n": 1,
       "where": "Small skull shop, island 20 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Gel buyer, island 21 (2026-11-20)"
      }
     ]
    },
