@@ -859,8 +859,8 @@
     "buy": 800000,
     "sell": 1200000,
     "buyers": 15,
-    "sellers": 12,
-    "islands": 16,
+    "sellers": 13,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -1023,6 +1023,12 @@
       "p": 1600000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 1100000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -1265,16 +1271,16 @@
    "id": "purple-slime-gel",
    "name": "Purple Slime Gel",
    "category": "Materials",
-   "value": 575000,
+   "value": 525000,
    "demand": 10,
    "source": "Dropped by Slime Kings (previously dev-spawned only)",
    "verified": true,
    "market": {
     "buy": 250000,
-    "sell": 900000,
+    "sell": 800000,
     "buyers": 18,
-    "sellers": 8,
-    "islands": 18,
+    "sellers": 9,
+    "islands": 19,
     "listings": [
      {
       "t": "buy",
@@ -1431,6 +1437,12 @@
       "p": 150000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 650000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -1445,7 +1457,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 575000
+     "v": 525000
     }
    ],
    "range": {
@@ -1466,9 +1478,9 @@
    "market": {
     "buy": 38000,
     "sell": 55000,
-    "buyers": 17,
-    "sellers": 16,
-    "islands": 20,
+    "buyers": 18,
+    "sellers": 17,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -1667,6 +1679,18 @@
       "p": 40000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 45000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 55900,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -1697,9 +1721,9 @@
    "market": {
     "buy": 7500,
     "sell": 13500,
-    "buyers": 20,
+    "buyers": 21,
     "sellers": 14,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -1904,6 +1928,12 @@
       "p": 11000,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 2988,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -1922,7 +1952,7 @@
     }
    ],
    "range": {
-    "low": 5000,
+    "low": 2988,
     "high": 16000
    },
    "icon": "icons/orange-slime-gel.png",
@@ -1937,11 +1967,11 @@
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1775,
+    "buy": 1750,
     "sell": 3250,
-    "buyers": 14,
+    "buyers": 15,
     "sellers": 13,
-    "islands": 18,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -2104,6 +2134,12 @@
       "p": 1600,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1666,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -2134,9 +2170,9 @@
    "market": {
     "buy": 1500,
     "sell": 2999,
-    "buyers": 20,
+    "buyers": 21,
     "sellers": 17,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "buy",
@@ -2359,6 +2395,12 @@
       "p": 2200,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1444,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -3410,16 +3452,16 @@
    "id": "berry-bush-seed",
    "name": "Berry Bush Seed",
    "category": "Crops",
-   "value": 656,
-   "demand": 8,
+   "value": 650,
+   "demand": 9,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 438,
+    "buy": 425,
     "sell": 875,
-    "buyers": 10,
-    "sellers": 16,
-    "islands": 13,
+    "buyers": 11,
+    "sellers": 17,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -3546,6 +3588,18 @@
       "p": 899,
       "n": 1,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 222,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 777,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -3560,11 +3614,11 @@
     },
     {
      "d": "2026-11-20",
-     "v": 656
+     "v": 650
     }
    ],
    "range": {
-    "low": 350,
+    "low": 222,
     "high": 1200
    },
    "icon": "icons/berry-bush-seed.png"
@@ -3579,10 +3633,10 @@
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 8000,
-    "buyers": 15,
-    "sellers": 13,
-    "islands": 16,
+    "sell": 7950,
+    "buyers": 16,
+    "sellers": 14,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -3751,6 +3805,18 @@
       "p": 11000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3333,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 7900,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -3769,7 +3835,7 @@
     }
    ],
    "range": {
-    "low": 3500,
+    "low": 3333,
     "high": 11000
    },
    "icon": "icons/gold-ingot.png"
@@ -5681,8 +5747,8 @@
     "buy": 800000,
     "sell": 800000,
     "buyers": 13,
-    "sellers": 9,
-    "islands": 8,
+    "sellers": 10,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -5743,6 +5809,12 @@
       "p": 800000,
       "n": 5,
       "where": "Blue-stone shop, island 17 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 750000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -6497,8 +6569,8 @@
     "buy": 30000,
     "sell": 75000,
     "buyers": 1,
-    "sellers": 8,
-    "islands": 3,
+    "sellers": 11,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -6523,6 +6595,12 @@
       "p": 75000,
       "n": 6,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 95000,
+      "n": 3,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -6542,7 +6620,7 @@
    ],
    "range": {
     "low": 30000,
-    "high": 75000
+    "high": 95000
    },
    "icon": "icons/industrial-furnace.png"
   },
@@ -7441,16 +7519,16 @@
    "id": "gear",
    "name": "Gear",
    "category": "Materials",
-   "value": 111,
-   "demand": 5,
+   "value": 118,
+   "demand": 3,
    "source": "Crafting component",
    "verified": true,
    "market": {
     "buy": 67,
-    "sell": 155,
+    "sell": 168,
     "buyers": 5,
-    "sellers": 10,
-    "islands": 9,
+    "sellers": 12,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -7529,6 +7607,12 @@
       "p": 140,
       "n": 2,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 188,
+      "n": 2,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -7543,7 +7627,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 111
+     "v": 118
     }
    ],
    "range": {
@@ -7684,9 +7768,9 @@
    "market": {
     "buy": 700000,
     "sell": 1100000,
-    "buyers": 9,
+    "buyers": 10,
     "sellers": 5,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -7771,6 +7855,12 @@
       "p": 700000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 700000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -7951,8 +8041,8 @@
     "buy": 60000,
     "sell": 90000,
     "buyers": 10,
-    "sellers": 7,
-    "islands": 10,
+    "sellers": 8,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -8055,6 +8145,12 @@
       "p": 90000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 111111,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -8090,8 +8186,8 @@
     "buy": 60000,
     "sell": 90000,
     "buyers": 10,
-    "sellers": 8,
-    "islands": 10,
+    "sellers": 9,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -8200,6 +8296,12 @@
       "p": 90000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 111111,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -12152,16 +12254,16 @@
    "id": "dv-plush",
    "name": "DV Plush",
    "category": "Gear",
-   "value": 9375000,
+   "value": 9125000,
    "demand": 10,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
-    "buy": 6000000,
+    "buy": 5500000,
     "sell": 12750000,
-    "buyers": 7,
+    "buyers": 8,
     "sellers": 6,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -12240,6 +12342,12 @@
       "p": 10000000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 3500000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -12254,11 +12362,11 @@
     },
     {
      "d": "2026-11-20",
-     "v": 9375000
+     "v": 9125000
     }
    ],
    "range": {
-    "low": 5000000,
+    "low": 3500000,
     "high": 15000000
    }
   },
@@ -13028,16 +13136,16 @@
    "id": "lumber-mill-ii",
    "name": "Lumber Mill II",
    "category": "Machines",
-   "value": 110000,
+   "value": 100000,
    "demand": 10,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
     "buy": 90000,
-    "sell": 130000,
+    "sell": 115000,
     "buyers": 4,
-    "sellers": 1,
-    "islands": 4,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -13068,6 +13176,12 @@
       "p": 130000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 100000,
+      "n": 1,
+      "where": "Pooflezs's shop, island 19 (2026-11-20)"
      }
     ]
    },
@@ -13078,7 +13192,7 @@
     },
     {
      "d": "2026-11-20",
-     "v": 110000
+     "v": 100000
     }
    ],
    "range": {
