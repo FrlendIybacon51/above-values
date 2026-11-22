@@ -15,9 +15,9 @@
    "market": {
     "buy": 800000,
     "sell": 1550000,
-    "buyers": 23,
-    "sellers": 7,
-    "islands": 17,
+    "buyers": 24,
+    "sellers": 8,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -150,6 +150,18 @@
       "p": 1100000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1670000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -177,16 +189,16 @@
    "id": "goldbone-pickaxe",
    "name": "Goldbone Pickaxe",
    "category": "Gear",
-   "value": 1160000,
+   "value": 1175000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast gold mining",
    "verified": true,
    "market": {
-    "buy": 775000,
+    "buy": 800000,
     "sell": 1550000,
-    "buyers": 18,
-    "sellers": 10,
-    "islands": 13,
+    "buyers": 19,
+    "sellers": 11,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -301,6 +313,18 @@
       "p": 1100000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -319,7 +343,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1160000
+     "v": 1175000
     }
    ],
    "range": {
@@ -332,16 +356,16 @@
    "id": "goldbone-sword",
    "name": "Goldbone Sword",
    "category": "Gear",
-   "value": 890000,
+   "value": 900000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 725000,
+    "buy": 750000,
     "sell": 1050000,
-    "buyers": 20,
-    "sellers": 9,
-    "islands": 13,
+    "buyers": 21,
+    "sellers": 10,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -462,6 +486,18 @@
       "p": 1100000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -480,7 +516,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 890000
+     "v": 900000
     }
    ],
    "range": {
@@ -494,16 +530,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 540000,
+   "value": 530000,
    "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 675000,
-    "buyers": 17,
-    "sellers": 11,
-    "islands": 17,
+    "sell": 662500,
+    "buyers": 18,
+    "sellers": 12,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -672,6 +708,18 @@
       "p": 400000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -683,6 +731,10 @@
     {
      "d": "2026-11-19",
      "v": 540000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 530000
     }
    ],
    "range": {
@@ -695,16 +747,16 @@
    "id": "soulfire-bow",
    "name": "Soulfire Bow",
    "category": "Gear",
-   "value": 660000,
+   "value": 670000,
    "demand": 10,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 825000,
-    "buyers": 17,
-    "sellers": 13,
-    "islands": 17,
+    "sell": 837500,
+    "buyers": 18,
+    "sellers": 14,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -885,6 +937,18 @@
       "p": 600000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 900000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -900,6 +964,10 @@
     {
      "d": "2026-11-20",
      "v": 660000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 670000
     }
    ],
    "range": {
@@ -919,10 +987,10 @@
    "verified": true,
    "market": {
     "buy": 800000,
-    "sell": 1200000,
-    "buyers": 17,
-    "sellers": 14,
-    "islands": 19,
+    "sell": 1199999,
+    "buyers": 18,
+    "sellers": 15,
+    "islands": 20,
     "listings": [
      {
       "t": "buy",
@@ -1109,6 +1177,18 @@
       "p": 800000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 750000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -1138,10 +1218,10 @@
    "verified": true,
    "market": {
     "buy": 20000,
-    "sell": 40000,
-    "buyers": 16,
-    "sellers": 16,
-    "islands": 18,
+    "sell": 39999,
+    "buyers": 17,
+    "sellers": 17,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -1334,6 +1414,18 @@
       "p": 32500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 39999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -1364,9 +1456,9 @@
    "market": {
     "buy": 250000,
     "sell": 800000,
-    "buyers": 18,
-    "sellers": 9,
-    "islands": 19,
+    "buyers": 19,
+    "sellers": 10,
+    "islands": 20,
     "listings": [
      {
       "t": "buy",
@@ -1529,6 +1621,18 @@
       "p": 650000,
       "n": 1,
       "where": "Pooflezs's shop, island 19 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -1557,16 +1661,16 @@
    "id": "pink-slime-gel",
    "name": "Pink Slime Gel",
    "category": "Materials",
-   "value": 46500,
+   "value": 46000,
    "demand": 10,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 37750,
+    "buy": 37500,
     "sell": 55000,
-    "buyers": 20,
-    "sellers": 19,
-    "islands": 24,
+    "buyers": 21,
+    "sellers": 20,
+    "islands": 25,
     "listings": [
      {
       "t": "sell",
@@ -1801,6 +1905,18 @@
       "p": 37000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 44999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -1812,6 +1928,10 @@
     {
      "d": "2026-11-20",
      "v": 46500
+    },
+    {
+     "d": "2026-11-22",
+     "v": 46000
     }
    ],
    "range": {
@@ -1831,9 +1951,9 @@
    "market": {
     "buy": 7500,
     "sell": 13500,
-    "buyers": 22,
-    "sellers": 16,
-    "islands": 24,
+    "buyers": 23,
+    "sellers": 17,
+    "islands": 25,
     "listings": [
      {
       "t": "sell",
@@ -2062,6 +2182,18 @@
       "p": 47500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 40000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 20000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -2084,7 +2216,7 @@
     "high": 47500
    },
    "icon": "icons/orange-slime-gel.png",
-   "note": "One shop listed it at 47.5K after the 11-22 update; every other shop sells at 12\u201315K, so treat that as an outlier until more shops confirm."
+   "note": "Price jumped with the 11-22 update: two hubs now buy at ~20K and sell at 40\u201347.5K, up from 7\u201310K / 12\u201315K before."
   },
   {
    "id": "slime-gel",
@@ -2096,10 +2228,10 @@
    "verified": true,
    "market": {
     "buy": 1750,
-    "sell": 3225,
-    "buyers": 18,
-    "sellers": 14,
-    "islands": 22,
+    "sell": 3200,
+    "buyers": 19,
+    "sellers": 15,
+    "islands": 23,
     "listings": [
      {
       "t": "sell",
@@ -2292,6 +2424,18 @@
       "p": 1750,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -2321,10 +2465,10 @@
    "verified": true,
    "market": {
     "buy": 1500,
-    "sell": 2599,
-    "buyers": 21,
-    "sellers": 19,
-    "islands": 23,
+    "sell": 2574,
+    "buyers": 22,
+    "sellers": 20,
+    "islands": 24,
     "listings": [
      {
       "t": "buy",
@@ -2565,6 +2709,18 @@
       "p": 2550,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2250,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -2602,10 +2758,10 @@
    "verified": true,
    "market": {
     "buy": 1000,
-    "sell": 2500,
-    "buyers": 14,
-    "sellers": 14,
-    "islands": 15,
+    "sell": 2499,
+    "buyers": 15,
+    "sellers": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -2774,6 +2930,18 @@
       "p": 900,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -2807,11 +2975,11 @@
    "source": "Halloween event drop",
    "verified": true,
    "market": {
-    "buy": 500,
-    "sell": 1499,
-    "buyers": 11,
-    "sellers": 9,
-    "islands": 11,
+    "buy": 550,
+    "sell": 1500,
+    "buyers": 12,
+    "sellers": 10,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -2926,6 +3094,18 @@
       "p": 599,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -2953,16 +3133,16 @@
    "id": "golden-bread",
    "name": "Golden Bread",
    "category": "Food",
-   "value": 53500,
-   "demand": 8,
+   "value": 60000,
+   "demand": 9,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 42500,
-    "sell": 64999,
-    "buyers": 4,
-    "sellers": 5,
-    "islands": 5,
+    "buy": 50000,
+    "sell": 70000,
+    "buyers": 5,
+    "sellers": 6,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -3017,6 +3197,18 @@
       "p": 75000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -3032,6 +3224,10 @@
     {
      "d": "2026-11-20",
      "v": 53500
+    },
+    {
+     "d": "2026-11-22",
+     "v": 60000
     }
    ],
    "range": {
@@ -3055,16 +3251,16 @@
    "id": "jumbo-berry-pie",
    "name": "Jumbo Berry Pie",
    "category": "Food",
-   "value": 8000,
+   "value": 7500,
    "demand": 8,
    "source": "Industrial Cooker: Jumbo Berry. 50 HP + 50% bigger",
    "verified": true,
    "market": {
-    "buy": 6000,
-    "sell": 9999,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 3,
+    "buy": 5500,
+    "sell": 9500,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3101,6 +3297,18 @@
       "p": 9000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 8000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -3116,6 +3324,10 @@
     {
      "d": "2026-11-20",
      "v": 8000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 7500
     }
    ],
    "range": {
@@ -3661,9 +3873,9 @@
    "market": {
     "buy": 400,
     "sell": 875,
-    "buyers": 13,
-    "sellers": 17,
-    "islands": 15,
+    "buyers": 14,
+    "sellers": 18,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -3808,6 +4020,18 @@
       "p": 400,
       "n": 2,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 400,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -3846,9 +4070,9 @@
    "market": {
     "buy": 5000,
     "sell": 8000,
-    "buyers": 17,
-    "sellers": 15,
-    "islands": 18,
+    "buyers": 18,
+    "sellers": 16,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -4041,6 +4265,18 @@
       "p": 6000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4068,16 +4304,16 @@
    "id": "gold-ore",
    "name": "Gold Ore",
    "category": "Ores & Ingots",
-   "value": 6000,
+   "value": 5900,
    "demand": 10,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
-    "buy": 4000,
-    "sell": 8000,
-    "buyers": 15,
-    "sellers": 14,
-    "islands": 16,
+    "buy": 4250,
+    "sell": 7500,
+    "buyers": 16,
+    "sellers": 15,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -4240,6 +4476,18 @@
       "p": 4500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 7500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4258,7 +4506,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 6000
+     "v": 5900
     }
    ],
    "range": {
@@ -4272,15 +4520,15 @@
    "name": "Iron Ingot",
    "category": "Ores & Ingots",
    "value": 18,
-   "demand": 3,
+   "demand": 2,
    "source": "Smelt Iron Ore",
    "verified": true,
    "market": {
     "buy": 10,
-    "sell": 27,
+    "sell": 25,
     "buyers": 1,
-    "sellers": 4,
-    "islands": 5,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -4311,6 +4559,12 @@
       "p": 22,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4401,16 +4655,16 @@
    "id": "coal",
    "name": "Coal",
    "category": "Ores & Ingots",
-   "value": 12,
-   "demand": 7,
+   "value": 13,
+   "demand": 8,
    "source": "Coal drills, mining",
    "verified": true,
    "market": {
-    "buy": 6,
-    "sell": 17,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 4,
+    "buy": 7,
+    "sell": 19,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -4459,6 +4713,18 @@
       "p": 8,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 7,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4466,11 +4732,15 @@
     {
      "d": "2026-11-18",
      "v": 12
+    },
+    {
+     "d": "2026-11-22",
+     "v": 13
     }
    ],
    "range": {
     "low": 4,
-    "high": 19
+    "high": 25
    },
    "icon": "icons/coal.png"
   },
@@ -4478,22 +4748,34 @@
    "id": "stone",
    "name": "Stone",
    "category": "Ores & Ingots",
-   "value": 6,
-   "demand": 8,
+   "value": 15,
+   "demand": 6,
    "source": "Mining",
    "verified": true,
    "market": {
     "buy": 5,
-    "sell": null,
-    "buyers": 1,
-    "sellers": 0,
-    "islands": 1,
+    "sell": 25,
+    "buyers": 2,
+    "sellers": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 5,
       "n": 1,
       "where": "Your shop, island 1 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4501,11 +4783,15 @@
     {
      "d": "2026-11-18",
      "v": 6
+    },
+    {
+     "d": "2026-11-22",
+     "v": 15
     }
    ],
    "range": {
     "low": 5,
-    "high": 5
+    "high": 25
    },
    "icon": "icons/stone.png"
   },
@@ -4513,16 +4799,16 @@
    "id": "pine-wood",
    "name": "Pine Wood",
    "category": "Materials",
-   "value": 94,
+   "value": 80,
    "demand": 9,
    "source": "Pine trees, Lumber Mill",
    "verified": true,
    "market": {
-    "buy": 58,
-    "sell": 129,
-    "buyers": 6,
-    "sellers": 7,
-    "islands": 7,
+    "buy": 50,
+    "sell": 110,
+    "buyers": 7,
+    "sellers": 8,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -4595,6 +4881,18 @@
       "p": 50,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 74,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4613,7 +4911,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 94
+     "v": 80
     }
    ],
    "range": {
@@ -4626,16 +4924,16 @@
    "id": "glass",
    "name": "Glass",
    "category": "Materials",
-   "value": 18,
-   "demand": 8,
+   "value": 21,
+   "demand": 9,
    "source": "Industrial Furnace: Sand",
    "verified": true,
    "market": {
     "buy": 10,
-    "sell": 25,
-    "buyers": 5,
-    "sellers": 5,
-    "islands": 7,
+    "sell": 32,
+    "buyers": 6,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -4696,6 +4994,18 @@
       "p": 10,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 67,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 25,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -4714,12 +5024,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 18
+     "v": 21
     }
    ],
    "range": {
     "low": 5,
-    "high": 39
+    "high": 67
    },
    "icon": "icons/glass.png"
   },
@@ -4826,8 +5136,8 @@
     "buy": 10000,
     "sell": 15000,
     "buyers": 85,
-    "sellers": 80,
-    "islands": 10,
+    "sellers": 92,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -4942,6 +5252,12 @@
       "p": 7500,
       "n": 10,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 12,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -5949,9 +6265,9 @@
    "market": {
     "buy": 1200000,
     "sell": 1850000,
-    "buyers": 13,
+    "buyers": 14,
     "sellers": 9,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -6078,6 +6394,12 @@
       "p": 1200000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -6112,9 +6434,9 @@
    "market": {
     "buy": 800000,
     "sell": 800000,
-    "buyers": 14,
-    "sellers": 10,
-    "islands": 10,
+    "buyers": 15,
+    "sellers": 11,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -6187,6 +6509,18 @@
       "p": 500000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1100000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -6202,7 +6536,7 @@
    ],
    "range": {
     "low": 450000,
-    "high": 1000000
+    "high": 1100000
    },
    "icon": "icons/lumber-mill.png"
   },
@@ -6210,16 +6544,16 @@
    "id": "vending-machine",
    "name": "Vending Machine",
    "category": "Machines",
-   "value": 230000,
+   "value": 225000,
    "demand": 10,
    "source": "Lets you sell to other players",
    "verified": true,
    "market": {
-    "buy": 190000,
-    "sell": 267000,
-    "buyers": 9,
-    "sellers": 7,
-    "islands": 9,
+    "buy": 182500,
+    "sell": 266000,
+    "buyers": 10,
+    "sellers": 8,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -6316,6 +6650,18 @@
       "p": 120000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 250000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 150000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -6334,7 +6680,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 230000
+     "v": 225000
     }
    ],
    "range": {
@@ -6628,16 +6974,16 @@
    "id": "conveyor-left",
    "name": "Conveyor Left",
    "category": "Machines",
-   "value": 3700,
-   "demand": 9,
+   "value": 3600,
+   "demand": 10,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4900,
-    "buyers": 8,
-    "sellers": 11,
-    "islands": 12,
+    "sell": 4700,
+    "buyers": 9,
+    "sellers": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -6752,6 +7098,18 @@
       "p": 3000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -6767,6 +7125,10 @@
     {
      "d": "2026-11-20",
      "v": 3700
+    },
+    {
+     "d": "2026-11-22",
+     "v": 3600
     }
    ],
    "range": {
@@ -6779,16 +7141,16 @@
    "id": "conveyor-right",
    "name": "Conveyor Right",
    "category": "Machines",
-   "value": 3700,
-   "demand": 7,
+   "value": 3600,
+   "demand": 8,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4900,
-    "buyers": 7,
-    "sellers": 11,
-    "islands": 12,
+    "sell": 4700,
+    "buyers": 8,
+    "sellers": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -6897,6 +7259,18 @@
       "p": 3000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -6908,6 +7282,10 @@
     {
      "d": "2026-11-19",
      "v": 3700
+    },
+    {
+     "d": "2026-11-22",
+     "v": 3600
     }
    ],
    "range": {
@@ -7038,16 +7416,16 @@
    "id": "arcane-ballista",
    "name": "Arcane Ballista",
    "category": "Machines",
-   "value": 1550000,
+   "value": 1525000,
    "demand": 10,
    "source": "Arcane defense. Every listing was sold out",
    "verified": true,
    "market": {
     "buy": 1200000,
-    "sell": 1899999,
-    "buyers": 13,
-    "sellers": 7,
-    "islands": 13,
+    "sell": 1850000,
+    "buyers": 14,
+    "sellers": 8,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -7168,6 +7546,18 @@
       "p": 1100000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1800000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -7186,7 +7576,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1550000
+     "v": 1525000
     }
    ],
    "range": {
@@ -7199,16 +7589,16 @@
    "id": "slime-beacon",
    "name": "Slime Beacon",
    "category": "Machines",
-   "value": 1825000,
+   "value": 1900000,
    "demand": 10,
    "source": "Summons slimes. Sold out",
    "verified": true,
    "market": {
     "buy": 1450000,
-    "sell": 2200000,
-    "buyers": 8,
-    "sellers": 1,
-    "islands": 7,
+    "sell": 2350000,
+    "buyers": 9,
+    "sellers": 2,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -7257,6 +7647,18 @@
       "p": 1600000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1750000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -7275,12 +7677,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1825000
+     "v": 1900000
     }
    ],
    "range": {
     "low": 1200000,
-    "high": 2200000
+    "high": 2500000
    }
   },
   {
@@ -7293,10 +7695,10 @@
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 849500,
-    "buyers": 13,
-    "sellers": 10,
-    "islands": 14,
+    "sell": 850000,
+    "buyers": 14,
+    "sellers": 11,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -7435,6 +7837,18 @@
       "p": 690000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 900000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -7469,9 +7883,9 @@
    "market": {
     "buy": 125000,
     "sell": 249999,
-    "buyers": 14,
-    "sellers": 12,
-    "islands": 14,
+    "buyers": 15,
+    "sellers": 13,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -7628,6 +8042,18 @@
       "p": 120000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 150000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 100000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -7658,9 +8084,9 @@
    "market": {
     "buy": 1000,
     "sell": 1400,
-    "buyers": 11,
-    "sellers": 10,
-    "islands": 14,
+    "buyers": 12,
+    "sellers": 11,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -7787,6 +8213,18 @@
       "p": 1100,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1800,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -7817,9 +8255,9 @@
    "market": {
     "buy": 600,
     "sell": 999,
-    "buyers": 15,
+    "buyers": 16,
     "sellers": 11,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -7970,6 +8408,12 @@
       "p": 600,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -7997,16 +8441,16 @@
    "id": "gear",
    "name": "Gear",
    "category": "Materials",
-   "value": 118,
+   "value": 114,
    "demand": 5,
    "source": "Crafting component",
    "verified": true,
    "market": {
     "buy": 67,
-    "sell": 168,
-    "buyers": 6,
-    "sellers": 12,
-    "islands": 11,
+    "sell": 160,
+    "buyers": 7,
+    "sellers": 13,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -8097,6 +8541,18 @@
       "p": 70,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 150,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 67,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -8112,6 +8568,10 @@
     {
      "d": "2026-11-20",
      "v": 118
+    },
+    {
+     "d": "2026-11-22",
+     "v": 114
     }
    ],
    "range": {
@@ -8131,9 +8591,9 @@
    "market": {
     "buy": 4000000,
     "sell": 5500000,
-    "buyers": 9,
+    "buyers": 10,
     "sellers": 5,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -8218,6 +8678,12 @@
       "p": 4000000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 4000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -8245,16 +8711,16 @@
    "id": "morten-plush",
    "name": "Morten Plush",
    "category": "Gear",
-   "value": 875000,
+   "value": 840000,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 700000,
-    "sell": 1050000,
-    "buyers": 11,
-    "sellers": 6,
-    "islands": 14,
+    "buy": 685000,
+    "sell": 1000000,
+    "buyers": 12,
+    "sellers": 7,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -8357,6 +8823,18 @@
       "p": 825000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -8375,7 +8853,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 875000
+     "v": 840000
     }
    ],
    "range": {
@@ -8388,16 +8866,16 @@
    "id": "morten-boots",
    "name": "Morten Boots",
    "category": "Gear",
-   "value": 555000,
+   "value": 540000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 712500,
-    "buyers": 13,
-    "sellers": 6,
-    "islands": 13,
+    "sell": 675000,
+    "buyers": 14,
+    "sellers": 7,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -8512,6 +8990,18 @@
       "p": 400000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -8530,7 +9020,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 555000
+     "v": 540000
     }
    ],
    "range": {
@@ -8550,9 +9040,9 @@
    "market": {
     "buy": 60000,
     "sell": 90000,
-    "buyers": 11,
-    "sellers": 8,
-    "islands": 12,
+    "buyers": 12,
+    "sellers": 9,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -8667,6 +9157,18 @@
       "p": 45000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 70000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -8701,9 +9203,9 @@
    "market": {
     "buy": 60000,
     "sell": 90000,
-    "buyers": 10,
-    "sellers": 9,
-    "islands": 11,
+    "buyers": 11,
+    "sellers": 10,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -8818,6 +9320,18 @@
       "p": 111111,
       "n": 1,
       "where": "Pooflezs's shop, island 19 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 70000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -8994,10 +9508,10 @@
    "verified": true,
    "market": {
     "buy": 30000,
-    "sell": 38250,
-    "buyers": 10,
-    "sellers": 2,
-    "islands": 10,
+    "sell": 38500,
+    "buyers": 11,
+    "sellers": 3,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -9070,6 +9584,18 @@
       "p": 32000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 39999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -9085,7 +9611,7 @@
    ],
    "range": {
     "low": 24900,
-    "high": 38500
+    "high": 39999
    },
    "icon": "icons/onion-harvester.png"
   },
@@ -9100,9 +9626,9 @@
    "market": {
     "buy": 10000,
     "sell": 18999,
-    "buyers": 6,
-    "sellers": 6,
-    "islands": 7,
+    "buyers": 7,
+    "sellers": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -9175,6 +9701,18 @@
       "p": 14000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 19999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -9205,9 +9743,9 @@
    "market": {
     "buy": 5000,
     "sell": 9999,
-    "buyers": 7,
-    "sellers": 5,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -9280,6 +9818,18 @@
       "p": 5000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6666,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -9307,16 +9857,16 @@
    "id": "wheat-harvester",
    "name": "Wheat Harvester",
    "category": "Machines",
-   "value": 2300,
+   "value": 2200,
    "demand": 10,
    "source": "Auto-harvests wheat",
    "verified": true,
    "market": {
-    "buy": 1750,
+    "buy": 1500,
     "sell": 2900,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 7,
+    "buyers": 7,
+    "sellers": 6,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -9383,6 +9933,18 @@
       "p": 2000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -9398,10 +9960,6 @@
     {
      "d": "2026-11-20",
      "v": 2200
-    },
-    {
-     "d": "2026-11-22",
-     "v": 2300
     }
    ],
    "range": {
@@ -9414,16 +9972,16 @@
    "id": "lumber-mill-i",
    "name": "Lumber Mill I",
    "category": "Machines",
-   "value": 13500,
+   "value": 13000,
    "demand": 10,
    "source": "Tier 1 lumber mill",
    "verified": true,
    "market": {
     "buy": 10000,
-    "sell": 17000,
+    "sell": 16000,
     "buyers": 10,
-    "sellers": 7,
-    "islands": 11,
+    "sellers": 8,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -9526,6 +10084,12 @@
       "p": 11000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -9541,6 +10105,10 @@
     {
      "d": "2026-11-20",
      "v": 13500
+    },
+    {
+     "d": "2026-11-22",
+     "v": 13000
     }
    ],
    "range": {
@@ -9933,16 +10501,16 @@
    "id": "overflow-chest",
    "name": "Overflow Chest",
    "category": "Machines",
-   "value": 6750,
+   "value": 6500,
    "demand": 10,
    "source": "Storage",
    "verified": true,
    "market": {
     "buy": 4500,
-    "sell": 9000,
-    "buyers": 14,
-    "sellers": 9,
-    "islands": 13,
+    "sell": 8500,
+    "buyers": 15,
+    "sellers": 10,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -10069,6 +10637,18 @@
       "p": 2750,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -10087,7 +10667,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 6750
+     "v": 6500
     }
    ],
    "range": {
@@ -10253,9 +10833,9 @@
    "market": {
     "buy": 800,
     "sell": 1150,
-    "buyers": 9,
+    "buyers": 10,
     "sellers": 2,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -10322,6 +10902,12 @@
       "p": 800,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 800,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -10352,9 +10938,9 @@
    "market": {
     "buy": 200,
     "sell": 400,
-    "buyers": 8,
-    "sellers": 5,
-    "islands": 9,
+    "buyers": 9,
+    "sellers": 6,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -10433,6 +11019,18 @@
       "p": 200,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -10460,16 +11058,16 @@
    "id": "carrot-seeds",
    "name": "Carrot Seeds",
    "category": "Crops",
-   "value": 168,
+   "value": 138,
    "demand": 10,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 88,
-    "sell": 249,
-    "buyers": 6,
-    "sellers": 3,
-    "islands": 6,
+    "buy": 75,
+    "sell": 200,
+    "buyers": 7,
+    "sellers": 4,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -10524,6 +11122,18 @@
       "p": 50,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 150,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 75,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -10534,7 +11144,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 168
+     "v": 138
     }
    ],
    "range": {
@@ -10548,15 +11158,15 @@
    "name": "Wheat Seeds",
    "category": "Crops",
    "value": 30,
-   "demand": 8,
+   "demand": 9,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 10,
     "sell": 49,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 5,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -10617,6 +11227,12 @@
       "p": 20,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -10730,8 +11346,8 @@
     "buy": 10000,
     "sell": 15000,
     "buyers": 114,
-    "sellers": 90,
-    "islands": 11,
+    "sellers": 94,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -10876,6 +11492,12 @@
       "p": 7500,
       "n": 10,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 4,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -10903,8 +11525,8 @@
     "buy": 10000,
     "sell": 15000,
     "buyers": 79,
-    "sellers": 67,
-    "islands": 8,
+    "sellers": 73,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -11013,6 +11635,12 @@
       "p": 7500,
       "n": 10,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 6,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11123,16 +11751,16 @@
    "id": "output-chest",
    "name": "Output Chest",
    "category": "Machines",
-   "value": 1750,
+   "value": 1650,
    "demand": 10,
    "source": "Storage, output side",
    "verified": true,
    "market": {
     "buy": 1200,
-    "sell": 2300,
-    "buyers": 11,
-    "sellers": 12,
-    "islands": 11,
+    "sell": 2100,
+    "buyers": 12,
+    "sellers": 13,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -11265,6 +11893,18 @@
       "p": 700,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11275,7 +11915,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1750
+     "v": 1650
     }
    ],
    "range": {
@@ -11288,16 +11928,16 @@
    "id": "input-chest",
    "name": "Input Chest",
    "category": "Machines",
-   "value": 1550,
+   "value": 1500,
    "demand": 10,
    "source": "Storage, input side",
    "verified": true,
    "market": {
-    "buy": 1100,
+    "buy": 1000,
     "sell": 2000,
-    "buyers": 10,
-    "sellers": 12,
-    "islands": 11,
+    "buyers": 11,
+    "sellers": 13,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -11424,6 +12064,18 @@
       "p": 700,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11438,7 +12090,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1550
+     "v": 1500
     }
    ],
    "range": {
@@ -11458,9 +12110,9 @@
    "market": {
     "buy": 2000,
     "sell": 3000,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 4,
+    "buyers": 5,
+    "sellers": 5,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -11509,6 +12161,18 @@
       "p": 3000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 3000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11532,16 +12196,16 @@
    "id": "conveyor",
    "name": "Conveyor",
    "category": "Machines",
-   "value": 3950,
-   "demand": 9,
+   "value": 4000,
+   "demand": 10,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
-    "buy": 2925,
+    "buy": 3000,
     "sell": 5000,
-    "buyers": 8,
-    "sellers": 11,
-    "islands": 13,
+    "buyers": 9,
+    "sellers": 12,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -11656,6 +12320,18 @@
       "p": 2850,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11671,10 +12347,6 @@
     {
      "d": "2026-11-20",
      "v": 4000
-    },
-    {
-     "d": "2026-11-22",
-     "v": 3950
     }
    ],
    "range": {
@@ -11687,16 +12359,16 @@
    "id": "conveyor-ramp-up",
    "name": "Conveyor Ramp Up",
    "category": "Machines",
-   "value": 3750,
-   "demand": 7,
+   "value": 3700,
+   "demand": 8,
    "source": "Conveyor incline",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 5000,
-    "buyers": 5,
-    "sellers": 7,
-    "islands": 8,
+    "sell": 4950,
+    "buyers": 6,
+    "sellers": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -11763,6 +12435,18 @@
       "p": 5000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11778,6 +12462,10 @@
     {
      "d": "2026-11-20",
      "v": 3750
+    },
+    {
+     "d": "2026-11-22",
+     "v": 3700
     }
    ],
    "range": {
@@ -11790,16 +12478,16 @@
    "id": "conveyor-ramp-down",
    "name": "Conveyor Ramp Down",
    "category": "Machines",
-   "value": 3750,
+   "value": 3500,
    "demand": 10,
    "source": "Conveyor decline",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 5000,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 6,
+    "sell": 4500,
+    "buyers": 7,
+    "sellers": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -11866,6 +12554,18 @@
       "p": 5000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -11881,6 +12581,10 @@
     {
      "d": "2026-11-20",
      "v": 3750
+    },
+    {
+     "d": "2026-11-22",
+     "v": 3500
     }
    ],
    "range": {
@@ -12445,16 +13149,16 @@
    "id": "arcane-table",
    "name": "Arcane Table",
    "category": "Machines",
-   "value": 4000000,
+   "value": 3925000,
    "demand": 10,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
-    "buy": 3100000,
-    "sell": 4900000,
-    "buyers": 11,
-    "sellers": 10,
-    "islands": 12,
+    "buy": 3050000,
+    "sell": 4799999,
+    "buyers": 12,
+    "sellers": 11,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -12575,6 +13279,18 @@
       "p": 2750000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 4000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -12590,6 +13306,10 @@
     {
      "d": "2026-11-20",
      "v": 4000000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 3925000
     }
    ],
    "range": {
@@ -12654,9 +13374,9 @@
    "market": {
     "buy": 3500,
     "sell": 12000,
-    "buyers": 8,
-    "sellers": 7,
-    "islands": 8,
+    "buyers": 9,
+    "sellers": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -12747,6 +13467,18 @@
       "p": 3500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 12000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -12773,16 +13505,16 @@
    "id": "blue-slime-block",
    "name": "Blue Slime Block",
    "category": "Blocks",
-   "value": 6500,
+   "value": 6700,
    "demand": 10,
    "source": "Block Press: Blue Slime Gel",
    "verified": true,
    "market": {
-    "buy": 4000,
+    "buy": 4400,
     "sell": 9000,
-    "buyers": 7,
-    "sellers": 3,
-    "islands": 7,
+    "buyers": 8,
+    "sellers": 4,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -12843,6 +13575,18 @@
       "p": 4000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 12000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -12858,15 +13602,11 @@
     {
      "d": "2026-11-20",
      "v": 6700
-    },
-    {
-     "d": "2026-11-22",
-     "v": 6500
     }
    ],
    "range": {
     "low": 4000,
-    "high": 9000
+    "high": 12000
    }
   },
   {
@@ -12878,11 +13618,11 @@
    "source": "Block Press: Pink Slime Gel",
    "verified": true,
    "market": {
-    "buy": 105000,
-    "sell": 185000,
-    "buyers": 8,
-    "sellers": 5,
-    "islands": 8,
+    "buy": 110000,
+    "sell": 182500,
+    "buyers": 9,
+    "sellers": 6,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -12961,6 +13701,18 @@
       "p": 130000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 180000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 120000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13038,16 +13790,16 @@
    "id": "dv-plush",
    "name": "DV Plush",
    "category": "Gear",
-   "value": 9375000,
+   "value": 9500000,
    "demand": 10,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
     "buy": 6000000,
-    "sell": 12750000,
-    "buyers": 10,
-    "sellers": 6,
-    "islands": 10,
+    "sell": 13000000,
+    "buyers": 11,
+    "sellers": 7,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -13144,6 +13896,18 @@
       "p": 6500000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 20000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13159,11 +13923,15 @@
     {
      "d": "2026-11-20",
      "v": 9375000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 9500000
     }
    ],
    "range": {
     "low": 3500000,
-    "high": 15000000
+    "high": 20000000
    }
   },
   {
@@ -13415,16 +14183,16 @@
    "id": "sunflower",
    "name": "Sunflower",
    "category": "Flowers",
-   "value": 500000,
+   "value": 490000,
    "demand": 10,
    "source": "Rare flower. One 200K bid, nobody selling",
    "verified": true,
    "market": {
     "buy": 300000,
-    "sell": 700000,
-    "buyers": 6,
-    "sellers": 3,
-    "islands": 6,
+    "sell": 675000,
+    "buyers": 7,
+    "sellers": 4,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -13479,6 +14247,18 @@
       "p": 300000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 200000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13493,7 +14273,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 500000
+     "v": 490000
     }
    ],
    "range": {
@@ -13545,16 +14325,16 @@
    "id": "golden-wheat-sheaf",
    "name": "Golden Wheat Sheaf",
    "category": "Crops",
-   "value": 51000,
+   "value": 50000,
    "demand": 9,
    "source": "Rare wheat harvest",
    "verified": true,
    "market": {
     "buy": 40000,
-    "sell": 62500,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 3,
+    "sell": 60000,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -13585,6 +14365,18 @@
       "p": 70000,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13596,6 +14388,10 @@
     {
      "d": "2026-11-20",
      "v": 51000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 50000
     }
    ],
    "range": {
@@ -13682,16 +14478,16 @@
    "id": "hearty-soup",
    "name": "Hearty Soup",
    "category": "Food",
-   "value": 80000,
-   "demand": 7,
+   "value": 67500,
+   "demand": 8,
    "source": "Industrial Cooker. Top-tier food",
    "verified": true,
    "market": {
-    "buy": 62500,
-    "sell": 97500,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 60000,
+    "sell": 75000,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -13716,6 +14512,18 @@
       "p": 70000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13727,10 +14535,14 @@
     {
      "d": "2026-11-20",
      "v": 80000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 67500
     }
    ],
    "range": {
-    "low": 60000,
+    "low": 50000,
     "high": 124999
    }
   },
@@ -13738,16 +14550,16 @@
    "id": "pinkberry-pie",
    "name": "Pinkberry Pie",
    "category": "Food",
-   "value": 72000,
+   "value": 67500,
    "demand": 10,
    "source": "Industrial Cooker. Rare pie",
    "verified": true,
    "market": {
-    "buy": 62500,
-    "sell": null,
-    "buyers": 2,
-    "sellers": 0,
-    "islands": 2,
+    "buy": 60000,
+    "sell": 75000,
+    "buyers": 3,
+    "sellers": 1,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -13760,6 +14572,18 @@
       "p": 60000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13771,27 +14595,31 @@
     {
      "d": "2026-11-20",
      "v": 72000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 67500
     }
    ],
    "range": {
-    "low": 60000,
-    "high": 65000
+    "low": 50000,
+    "high": 75000
    }
   },
   {
    "id": "slime-soup",
    "name": "Slime Soup",
    "category": "Food",
-   "value": 6400,
-   "demand": 5,
+   "value": 5500,
+   "demand": 6,
    "source": "Industrial Cooker: Slime Gel",
    "verified": true,
    "market": {
-    "buy": 4000,
-    "sell": 8750,
-    "buyers": 1,
-    "sellers": 2,
-    "islands": 2,
+    "buy": 3500,
+    "sell": 7500,
+    "buyers": 2,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -13810,6 +14638,18 @@
       "p": 7500,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4500,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13821,10 +14661,14 @@
     {
      "d": "2026-11-20",
      "v": 6400
+    },
+    {
+     "d": "2026-11-22",
+     "v": 5500
     }
    ],
    "range": {
-    "low": 4000,
+    "low": 3000,
     "high": 9999
    }
   },
@@ -13832,16 +14676,16 @@
    "id": "orange-slime-block",
    "name": "Orange Slime Block",
    "category": "Blocks",
-   "value": 44000,
+   "value": 45000,
    "demand": 10,
    "source": "Block Press: Orange Slime Gel",
    "verified": true,
    "market": {
     "buy": 30000,
-    "sell": 57500,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 5,
+    "sell": 60000,
+    "buyers": 6,
+    "sellers": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -13896,6 +14740,18 @@
       "p": 55000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 90000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13906,7 +14762,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 44000
+     "v": 45000
     }
    ],
    "range": {
@@ -13918,16 +14774,16 @@
    "id": "wood",
    "name": "Wood",
    "category": "Materials",
-   "value": 18,
+   "value": 19,
    "demand": 6,
    "source": "Trees, Lumber Mill",
    "verified": true,
    "market": {
     "buy": 15,
-    "sell": 22,
-    "buyers": 1,
-    "sellers": 2,
-    "islands": 1,
+    "sell": 23,
+    "buyers": 2,
+    "sellers": 3,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -13946,6 +14802,18 @@
       "p": 22,
       "n": 1,
       "where": "Big hub shop, island 10 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 15,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -13953,27 +14821,31 @@
     {
      "d": "2026-11-19",
      "v": 18
+    },
+    {
+     "d": "2026-11-22",
+     "v": 19
     }
    ],
    "range": {
     "low": 15,
-    "high": 23
+    "high": 25
    }
   },
   {
    "id": "lumber-mill-ii",
    "name": "Lumber Mill II",
    "category": "Machines",
-   "value": 100000,
+   "value": 110000,
    "demand": 10,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
     "buy": 90000,
-    "sell": 115000,
-    "buyers": 5,
-    "sellers": 2,
-    "islands": 6,
+    "sell": 130000,
+    "buyers": 6,
+    "sellers": 3,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -14016,6 +14888,18 @@
       "p": 70000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 140000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 100000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -14027,11 +14911,15 @@
     {
      "d": "2026-11-20",
      "v": 100000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 110000
     }
    ],
    "range": {
     "low": 65000,
-    "high": 130000
+    "high": 140000
    },
    "note": "An 8M ask at the mega shop on 11-20 was ignored as a troll listing (bids are 90\u2013180K)."
   },
@@ -14157,16 +15045,16 @@
    "id": "recycler",
    "name": "Recycler",
    "category": "Machines",
-   "value": 62500,
-   "demand": 8,
+   "value": 65000,
+   "demand": 9,
    "source": "Recycles items",
    "verified": true,
    "market": {
-    "buy": 45000,
+    "buy": 50000,
     "sell": 80000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -14185,6 +15073,12 @@
       "p": 80000,
       "n": 1,
       "where": "RedRen's market, island 15 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -14196,6 +15090,10 @@
     {
      "d": "2026-11-20",
      "v": 62500
+    },
+    {
+     "d": "2026-11-22",
+     "v": 65000
     }
    ],
    "range": {
@@ -14453,16 +15351,16 @@
    "id": "rocket-carrot",
    "name": "Rocket Carrot",
    "category": "Crops",
-   "value": 30000,
+   "value": 52500,
    "demand": 7,
    "source": "Rare carrot harvest",
    "verified": true,
    "market": {
-    "buy": 25000,
-    "sell": 35000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "buy": 42500,
+    "sell": 62500,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
@@ -14475,6 +15373,18 @@
       "p": 35000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 90000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -14482,11 +15392,15 @@
     {
      "d": "2026-11-20",
      "v": 30000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 52500
     }
    ],
    "range": {
     "low": 25000,
-    "high": 35000
+    "high": 90000
    }
   },
   {
@@ -15176,15 +16090,15 @@
    "name": "Cyan Chicken",
    "category": "Animals",
    "value": 3750000,
-   "demand": 6,
+   "demand": 7,
    "source": "Rare chicken",
    "verified": true,
    "market": {
     "buy": 2500000,
     "sell": 5000000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -15197,6 +16111,12 @@
       "p": 2500000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
@@ -15535,16 +16455,16 @@
    "id": "horse",
    "name": "Horse",
    "category": "Animals",
-   "value": 22500,
-   "demand": 6,
+   "value": 20000,
+   "demand": 7,
    "source": "Rideable",
    "verified": true,
    "market": {
-    "buy": 15000,
+    "buy": 10000,
     "sell": 30000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -15557,17 +16477,23 @@
       "p": 15000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 22500
+     "v": 20000
     }
    ],
    "range": {
-    "low": 15000,
+    "low": 5000,
     "high": 30000
    }
   },
@@ -15657,33 +16583,39 @@
    "id": "golden-egg",
    "name": "Golden Egg",
    "category": "Food",
-   "value": 4500000,
-   "demand": 4,
+   "value": 2750000,
+   "demand": 5,
    "source": "Rare egg",
    "verified": true,
    "market": {
-    "buy": null,
+    "buy": 1000000,
     "sell": 4500000,
-    "buyers": 0,
+    "buyers": 1,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 4500000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 4500000
+     "v": 2750000
     }
    ],
    "range": {
-    "low": 4500000,
+    "low": 1000000,
     "high": 4500000
    }
   },
@@ -15919,68 +16851,92 @@
    "id": "dumbphone",
    "name": "Dumbphone",
    "category": "Gear",
-   "value": 5750000,
-   "demand": 8,
+   "value": 7500000,
+   "demand": 7,
    "source": "Rare collectible",
    "verified": true,
    "market": {
     "buy": 5000000,
-    "sell": null,
-    "buyers": 1,
-    "sellers": 0,
-    "islands": 1,
+    "sell": 10000000,
+    "buyers": 2,
+    "sellers": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 5000000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 10000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 5750000
+     "v": 7500000
     }
    ],
    "range": {
     "low": 5000000,
-    "high": 5000000
+    "high": 10000000
    }
   },
   {
    "id": "berry-harvester",
    "name": "Berry Harvester",
    "category": "Machines",
-   "value": 37500,
+   "value": 35000,
    "demand": 8,
    "source": "Auto-harvests berries",
    "verified": true,
    "market": {
-    "buy": 32500,
-    "sell": null,
-    "buyers": 1,
-    "sellers": 0,
-    "islands": 1,
+    "buy": 31250,
+    "sell": 39000,
+    "buyers": 2,
+    "sellers": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 32500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 39000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 37500
+     "v": 35000
     }
    ],
    "range": {
-    "low": 32500,
-    "high": 32500
+    "low": 30000,
+    "high": 39000
    }
   },
   {
@@ -16051,16 +17007,16 @@
    "id": "bulk-vending-machine",
    "name": "Bulk Vending Machine",
    "category": "Machines",
-   "value": 460000,
+   "value": 480000,
    "demand": 7,
    "source": "Bigger vending machine for shops",
    "verified": true,
    "market": {
-    "buy": 375000,
-    "sell": 545000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "buy": 387500,
+    "sell": 572500,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -16073,18 +17029,70 @@
       "p": 375000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 600000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 400000,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 460000
+     "v": 480000
     }
    ],
    "range": {
     "low": 375000,
-    "high": 545000
+    "high": 600000
+   }
+  },
+  {
+   "id": "clay",
+   "name": "Clay",
+   "category": "Materials",
+   "value": 15,
+   "demand": 5,
+   "source": "Mining",
+   "verified": true,
+   "market": {
+    "buy": 5,
+    "sell": 25,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "anton's hub market, island 14 (2026-11-22)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-22",
+     "v": 15
+    }
+   ],
+   "range": {
+    "low": 5,
+    "high": 25
    }
   },
   {
