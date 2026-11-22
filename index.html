@@ -430,7 +430,7 @@ footer code{background:var(--panel);border:1px solid var(--line);border-radius:6
 (function(){
   // === CONFIG === paste your Cloudflare Worker URL here once it exists, e.g. "https://above-values-votes.yourname.workers.dev"
   window.ABOVE_VOTE_API = window.ABOVE_VOTE_API || "https://above-values-votes.christopherangarita8.workers.dev";
-  const CC={"Gear":"#ffb02e","Crystals":"#36d6dd","Flowers":"#ff7ad9","Machines":"#8da2c0","Blocks":"#b26bff","Materials":"#45d57a","Crops":"#9be15d","Food":"#ff8a5c","Ores & Ingots":"#f2c14e"};
+  const CC={"Gear":"#ffb02e","Crystals":"#36d6dd","Flowers":"#ff7ad9","Machines":"#8da2c0","Blocks":"#b26bff","Materials":"#45d57a","Crops":"#9be15d","Food":"#ff8a5c","Ores & Ingots":"#f2c14e","Animals":"#e8a86b"};
   const colorOf=i=>CC[i.category]||"#8d9bb8";
   const state={data:null,items:[],q:"",cat:"All",rar:"All",sort:"value",view:"grid",realOnly:false,give:[],get:[],modal:null};
   const $=s=>document.querySelector(s);
