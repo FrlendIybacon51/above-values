@@ -16527,7 +16527,7 @@
    "category": "Animals",
    "value": 16000000,
    "demand": 6,
-   "source": "Very rare (exotic) chicken",
+   "source": "Very rare (exotic) chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 12000000,
@@ -16567,7 +16567,7 @@
    "category": "Animals",
    "value": 16000000,
    "demand": 6,
-   "source": "Very rare (exotic) chicken",
+   "source": "Very rare (exotic) chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 12000000,
@@ -16607,7 +16607,7 @@
    "category": "Animals",
    "value": 16000000,
    "demand": 6,
-   "source": "Very rare (exotic) chicken",
+   "source": "Very rare (exotic) chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 12000000,
@@ -16647,7 +16647,7 @@
    "category": "Animals",
    "value": 34500000,
    "demand": 8,
-   "source": "Mythic chicken",
+   "source": "Mythic chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 30000000,
@@ -16681,7 +16681,7 @@
    "category": "Animals",
    "value": 45000000,
    "demand": 6,
-   "source": "Mythic chicken",
+   "source": "Mythic chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 30000000,
@@ -16721,7 +16721,7 @@
    "category": "Animals",
    "value": 3750000,
    "demand": 6,
-   "source": "Rare chicken",
+   "source": "Rare chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 2500000,
@@ -16761,7 +16761,7 @@
    "category": "Animals",
    "value": 3750000,
    "demand": 7,
-   "source": "Rare chicken",
+   "source": "Rare chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 2500000,
@@ -16807,7 +16807,7 @@
    "category": "Animals",
    "value": 3750000,
    "demand": 6,
-   "source": "Rare chicken",
+   "source": "Rare chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 2500000,
@@ -16847,7 +16847,7 @@
    "category": "Animals",
    "value": 175000,
    "demand": 5,
-   "source": "Uncommon chicken",
+   "source": "Uncommon chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 100000,
@@ -16887,7 +16887,7 @@
    "category": "Animals",
    "value": 175000,
    "demand": 5,
-   "source": "Uncommon chicken",
+   "source": "Uncommon chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 100000,
@@ -16927,7 +16927,7 @@
    "category": "Animals",
    "value": 175000,
    "demand": 5,
-   "source": "Uncommon chicken",
+   "source": "Uncommon chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 100000,
@@ -16967,7 +16967,7 @@
    "category": "Animals",
    "value": 7500,
    "demand": 6,
-   "source": "Common chicken",
+   "source": "Common chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 5000,
@@ -17007,7 +17007,7 @@
    "category": "Animals",
    "value": 7500,
    "demand": 6,
-   "source": "Common chicken",
+   "source": "Common chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 5000,
@@ -17047,7 +17047,7 @@
    "category": "Animals",
    "value": 7500,
    "demand": 6,
-   "source": "Common chicken",
+   "source": "Common chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 5000,
@@ -17087,7 +17087,7 @@
    "category": "Animals",
    "value": 7500,
    "demand": 6,
-   "source": "Common chicken",
+   "source": "Common chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 5000,
@@ -17127,7 +17127,7 @@
    "category": "Animals",
    "value": 18000,
    "demand": 8,
-   "source": "Rideable",
+   "source": "Caught with a Lasso in the Ruins. Put in your Mount slot and press V to ride",
    "verified": true,
    "market": {
     "buy": 6250,
@@ -17179,7 +17179,7 @@
    "category": "Animals",
    "value": 12500,
    "demand": 5,
-   "source": "Makes wool",
+   "source": "Caught with a Lasso in the Ruins. Grows wool while grazing grass",
    "verified": true,
    "market": {
     "buy": 5250,
@@ -17219,7 +17219,7 @@
    "category": "Animals",
    "value": 43500,
    "demand": 8,
-   "source": "Makes milk",
+   "source": "Caught with a Lasso in the Ruins. Gives milk near a Hay Feeder, sometimes special milks",
    "verified": true,
    "market": {
     "buy": 38000,
@@ -17253,7 +17253,7 @@
    "category": "Food",
    "value": 375,
    "demand": 6,
-   "source": "Laid by chickens. Sold out everywhere seen",
+   "source": "Collected from a Hen House. Hatch in an Incubator for one of 16 chicken breeds",
    "verified": true,
    "market": {
     "buy": 275,
@@ -17373,7 +17373,7 @@
    "category": "Food",
    "value": 7500000,
    "demand": 6,
-   "source": "Rare cow product",
+   "source": "Special milk from cows near a Hay Feeder",
    "verified": true,
    "market": {
     "buy": 5000000,
@@ -17413,7 +17413,7 @@
    "category": "Blocks",
    "value": 14500,
    "demand": 10,
-   "source": "Made from sheep wool. Every color trades the same",
+   "source": "Sheep grow wool by grazing grass; dye it in 21 colors. Every color trades the same",
    "verified": true,
    "market": {
     "buy": 12500,
@@ -17579,7 +17579,7 @@
    "category": "Gear",
    "value": 7500000,
    "demand": 7,
-   "source": "Rare collectible",
+   "source": "Limited item as of the 11-22 update; no more are being given out",
    "verified": true,
    "market": {
     "buy": 5000000,
@@ -17617,7 +17617,8 @@
    "range": {
     "low": 5000000,
     "high": 10000000
-   }
+   },
+   "note": "Made limited on 11-22, so expect its price to rise."
   },
   {
    "id": "berry-harvester",
@@ -17625,7 +17626,7 @@
    "category": "Machines",
    "value": 35000,
    "demand": 8,
-   "source": "Auto-harvests berries",
+   "source": "Automates berry harvesting",
    "verified": true,
    "market": {
     "buy": 31250,
@@ -17671,7 +17672,7 @@
    "category": "Machines",
    "value": 500000,
    "demand": 5,
-   "source": "Arcane item mover. Sold out both sides",
+   "source": "Anything that falls in goes straight to your backpack",
    "verified": false,
    "market": {
     "buy": null,
@@ -17695,7 +17696,7 @@
    "category": "Machines",
    "value": 365000,
    "demand": 8,
-   "source": "New machine",
+   "source": "Packs tomatoes, onions, carrots or berries into baskets worth more than the crops; makes Hay Bales from 100 Wheat",
    "verified": true,
    "market": {
     "buy": 297500,
@@ -17741,7 +17742,7 @@
    "category": "Machines",
    "value": 490000,
    "demand": 6,
-   "source": "Bigger vending machine for shops",
+   "source": "Sells up to 100,000 of one item, including machine/weapon/tool stacks",
    "verified": true,
    "market": {
     "buy": 387500,
@@ -17839,7 +17840,7 @@
    "category": "Materials",
    "value": 500,
    "demand": 5,
-   "source": "Animal feed. Sold out both sides",
+   "source": "Basket Machine: 100 Wheat. Feeds cows",
    "verified": false,
    "market": {
     "buy": null,
@@ -17863,7 +17864,7 @@
    "category": "Crops",
    "value": 6,
    "demand": 5,
-   "source": "Berry bushes",
+   "source": "Berry bushes: 2\u20133 per pick (was 2\u20134 before the 11-22 update)",
    "verified": false,
    "market": {
     "buy": null,
