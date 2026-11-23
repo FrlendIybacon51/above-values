@@ -1015,16 +1015,16 @@
    "id": "gold-crystal",
    "name": "Gold Crystal",
    "category": "Crystals",
-   "value": 970000,
-   "demand": 8,
+   "value": 975000,
+   "demand": 10,
    "source": "Gold ore nodes, Skeletons, Morton",
    "verified": true,
    "market": {
-    "buy": 795000,
+    "buy": 797500,
     "sell": 1150000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 3,
-    "islands": 21,
+    "islands": 22,
     "listings": [
      {
       "t": "buy",
@@ -1235,6 +1235,12 @@
       "p": 795000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 810000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -1249,7 +1255,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 970000
+     "v": 975000
     }
    ],
    "range": {
@@ -1262,16 +1268,16 @@
    "id": "soul-crystal",
    "name": "Soul Crystal",
    "category": "Crystals",
-   "value": 36000,
+   "value": 36500,
    "demand": 10,
    "source": "Knights (rare), Morton boss",
    "verified": true,
    "market": {
-    "buy": 32500,
+    "buy": 32875,
     "sell": 39999,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 1,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -1482,6 +1488,12 @@
       "p": 22500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 33250,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -1496,7 +1508,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 36000
+     "v": 36500
     }
    ],
    "range": {
@@ -2032,16 +2044,16 @@
    "id": "orange-slime-gel",
    "name": "Orange Slime Gel",
    "category": "Materials",
-   "value": 33000,
-   "demand": 6,
+   "value": 32500,
+   "demand": 8,
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 21750,
+    "buy": 21500,
     "sell": 43750,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 26,
+    "islands": 27,
     "listings": [
      {
       "t": "sell",
@@ -2288,6 +2300,12 @@
       "p": 23500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 21500,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -2306,7 +2324,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 33000
+     "v": 32500
     }
    ],
    "range": {
@@ -2320,16 +2338,16 @@
    "id": "slime-gel",
    "name": "Slime Gel",
    "category": "Materials",
-   "value": 2350,
-   "demand": 9,
+   "value": 2300,
+   "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1800,
+    "buy": 1775,
     "sell": 2874,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 24,
+    "islands": 25,
     "listings": [
      {
       "t": "sell",
@@ -2540,6 +2558,12 @@
       "p": 1800,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1625,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -2554,11 +2578,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 2350
+     "v": 2300
     }
    ],
    "range": {
-    "low": 1750,
+    "low": 1625,
     "high": 2999
    },
    "icon": "icons/slime-gel.png"
@@ -2567,16 +2591,16 @@
    "id": "blue-slime-gel",
    "name": "Blue Slime Gel",
    "category": "Materials",
-   "value": 1950,
-   "demand": 6,
+   "value": 2000,
+   "demand": 7,
    "source": "Blue Slime (85 HP)",
    "verified": true,
    "market": {
-    "buy": 1500,
+    "buy": 1562,
     "sell": 2400,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 2,
-    "islands": 24,
+    "islands": 25,
     "listings": [
      {
       "t": "buy",
@@ -2829,6 +2853,12 @@
       "p": 1500,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1625,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -2847,7 +2877,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1950
+     "v": 2000
     }
    ],
    "range": {
@@ -2861,15 +2891,15 @@
    "name": "Bone",
    "category": "Materials",
    "value": 1200,
-   "demand": 8,
+   "demand": 10,
    "source": "Skeletons in the Ruins",
    "verified": true,
    "market": {
-    "buy": 900,
+    "buy": 875,
     "sell": 1500,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 17,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -3056,6 +3086,12 @@
       "p": 750,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 850,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -3252,15 +3288,15 @@
    "name": "Golden Bread",
    "category": "Food",
    "value": 63000,
-   "demand": 8,
+   "demand": 9,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 50625,
+    "buy": 51250,
     "sell": 75000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -3333,6 +3369,12 @@
       "p": 51250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 51250,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -3375,16 +3417,16 @@
    "id": "jumbo-berry-pie",
    "name": "Jumbo Berry Pie",
    "category": "Food",
-   "value": 6950,
-   "demand": 8,
+   "value": 7500,
+   "demand": 9,
    "source": "Industrial Cooker: Jumbo Berry. 50 HP + 50% bigger",
    "verified": true,
    "market": {
-    "buy": 5875,
-    "sell": 8000,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 5,
+    "buy": 6750,
+    "sell": 8250,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -3439,6 +3481,18 @@
       "p": 6750,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 8500,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6750,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -3457,12 +3511,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 6950
+     "v": 7500
     }
    ],
    "range": {
     "low": 5000,
-    "high": 8000
+    "high": 8500
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3552,16 +3606,16 @@
    "id": "veggie-soup",
    "name": "Veggie Soup",
    "category": "Food",
-   "value": 500,
-   "demand": 5,
+   "value": 512,
+   "demand": 4,
    "source": "Cooking station. Heals 40 HP",
    "verified": true,
    "market": {
     "buy": 200,
-    "sell": 800,
+    "sell": 825,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 3,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -3592,6 +3646,12 @@
       "p": 800,
       "n": 1,
       "where": "iamTokyoxxJap's shop, island 18 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 850,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -3610,12 +3670,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 500
+     "v": 512
     }
    ],
    "range": {
     "low": 200,
-    "high": 800
+    "high": 850
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3641,16 +3701,16 @@
    "id": "carrot-cake",
    "name": "Carrot Cake",
    "category": "Food",
-   "value": 591,
-   "demand": 7,
+   "value": 190,
+   "demand": 10,
    "source": "Industrial Cooker. 20 healing",
    "verified": true,
    "market": {
-    "buy": 282,
-    "sell": 900,
+    "buy": 165,
+    "sell": null,
     "buyers": 2,
-    "sellers": 1,
-    "islands": 4,
+    "sellers": 0,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -3693,6 +3753,12 @@
       "p": 165,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 165,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -3711,12 +3777,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 591
+     "v": 190
     }
    ],
    "range": {
     "low": 165,
-    "high": 900
+    "high": 165
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3739,15 +3805,15 @@
    "name": "Berry Pie",
    "category": "Food",
    "value": 488,
-   "demand": 4,
+   "demand": 5,
    "source": "Industrial Cooker. 15 healing",
    "verified": true,
    "market": {
     "buy": 150,
     "sell": 825,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 4,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -3796,6 +3862,18 @@
       "p": 150,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 825,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 150,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -4051,9 +4129,9 @@
    "market": {
     "buy": 400,
     "sell": 1000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 1,
-    "islands": 17,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -4216,6 +4294,12 @@
       "p": 500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -4247,16 +4331,16 @@
    "id": "gold-ingot",
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
-   "value": 7500,
-   "demand": 8,
+   "value": 6900,
+   "demand": 9,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
-    "buy": 6000,
-    "sell": 9000,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 20,
+    "buy": 5625,
+    "sell": 8225,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -4473,6 +4557,18 @@
       "p": 5250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 7450,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5250,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -4491,7 +4587,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 7500
+     "v": 6900
     }
    ],
    "range": {
@@ -4504,16 +4600,16 @@
    "id": "gold-ore",
    "name": "Gold Ore",
    "category": "Ores & Ingots",
-   "value": 6250,
-   "demand": 8,
+   "value": 6300,
+   "demand": 9,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
-    "buy": 5000,
-    "sell": 7500,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 18,
+    "buy": 5125,
+    "sell": 7475,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -4700,6 +4796,18 @@
       "p": 5250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 7450,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5250,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -4715,6 +4823,10 @@
     {
      "d": "2026-11-20",
      "v": 6250
+    },
+    {
+     "d": "2026-11-22",
+     "v": 6300
     }
    ],
    "range": {
@@ -4727,16 +4839,16 @@
    "id": "iron-ingot",
    "name": "Iron Ingot",
    "category": "Ores & Ingots",
-   "value": 20,
-   "demand": 5,
+   "value": 22,
+   "demand": 4,
    "source": "Smelt Iron Ore",
    "verified": true,
    "market": {
     "buy": 15,
-    "sell": 25,
+    "sell": 28,
     "buyers": 1,
-    "sellers": 3,
-    "islands": 7,
+    "sellers": 4,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -4785,6 +4897,12 @@
       "p": 15,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 30,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -4796,6 +4914,10 @@
     {
      "d": "2026-11-19",
      "v": 20
+    },
+    {
+     "d": "2026-11-22",
+     "v": 22
     }
    ],
    "range": {
@@ -4809,15 +4931,15 @@
    "name": "Iron Ore",
    "category": "Ores & Ingots",
    "value": 10,
-   "demand": 5,
+   "demand": 6,
    "source": "Iron drills, mining",
    "verified": true,
    "market": {
     "buy": 5,
     "sell": 15,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 4,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -4860,6 +4982,18 @@
       "p": 5,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -5043,16 +5177,16 @@
    "id": "pine-wood",
    "name": "Pine Wood",
    "category": "Materials",
-   "value": 78,
-   "demand": 6,
+   "value": 81,
+   "demand": 8,
    "source": "Pine trees, Lumber Mill",
    "verified": true,
    "market": {
-    "buy": 45,
+    "buy": 50,
     "sell": 112,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -5137,6 +5271,12 @@
       "p": 40,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 125,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -5155,7 +5295,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 78
+     "v": 81
     }
    ],
    "range": {
@@ -8077,16 +8217,16 @@
    "id": "arcane-gold",
    "name": "Arcane Gold",
    "category": "Ores & Ingots",
-   "value": 755000,
-   "demand": 9,
+   "value": 740000,
+   "demand": 10,
    "source": "Arcane-tier gold ingot",
    "verified": true,
    "market": {
     "buy": 635000,
-    "sell": 875000,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 16,
+    "sell": 850000,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -8249,6 +8389,18 @@
       "p": 635000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 850000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 635000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -8267,7 +8419,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 755000
+     "v": 740000
     }
    ],
    "range": {
@@ -8281,15 +8433,15 @@
    "name": "Arcane Bone",
    "category": "Materials",
    "value": 130000,
-   "demand": 9,
+   "demand": 10,
    "source": "Arcane-tier bone",
    "verified": true,
    "market": {
     "buy": 105000,
     "sell": 157500,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 16,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -8464,6 +8616,12 @@
       "p": 105000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 105000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -9167,16 +9325,16 @@
    "id": "morten-plush",
    "name": "Morten Plush",
    "category": "Gear",
-   "value": 755000,
-   "demand": 6,
+   "value": 760000,
+   "demand": 7,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 600000,
+    "buy": 605000,
     "sell": 912500,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 2,
-    "islands": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -9291,6 +9449,12 @@
       "p": 600000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 610000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -9309,7 +9473,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 755000
+     "v": 760000
     }
    ],
    "range": {
@@ -12216,16 +12380,16 @@
    "id": "iron-drill-i",
    "name": "Iron Drill I",
    "category": "Machines",
-   "value": 41000,
+   "value": 41500,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 35625,
+    "buy": 36250,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -12286,6 +12450,12 @@
       "p": 36250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 38000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -12304,12 +12474,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 41000
+     "v": 41500
     }
    ],
    "range": {
     "low": 35000,
-    "high": 36250
+    "high": 38000
    },
    "icon": "icons/iron-drill-i.png"
   },
@@ -14404,16 +14574,16 @@
    "id": "dv-plush",
    "name": "DV Plush",
    "category": "Gear",
-   "value": 13625000,
-   "demand": 7,
+   "value": 14000000,
+   "demand": 8,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
-    "buy": 7250000,
+    "buy": 8000000,
     "sell": 20000000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -14522,6 +14692,12 @@
       "p": 8000000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8050000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -14540,7 +14716,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 13625000
+     "v": 14000000
     }
    ],
    "range": {
@@ -15396,16 +15572,16 @@
    "id": "wood",
    "name": "Wood",
    "category": "Materials",
-   "value": 20,
-   "demand": 6,
+   "value": 22,
+   "demand": 8,
    "source": "Trees, Lumber Mill",
    "verified": true,
    "market": {
-    "buy": 15,
+    "buy": 18,
     "sell": 25,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -15436,6 +15612,12 @@
       "p": 15,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 20,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -15446,7 +15628,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 20
+     "v": 22
     }
    ],
    "range": {
@@ -16364,9 +16546,9 @@
    "market": {
     "buy": 11000,
     "sell": 15000,
-    "buyers": 8,
-    "sellers": 8,
-    "islands": 2,
+    "buyers": 14,
+    "sellers": 14,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -16385,6 +16567,18 @@
       "p": 15000,
       "n": 8,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 6,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 11000,
+      "n": 6,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -16414,9 +16608,9 @@
    "market": {
     "buy": 11000,
     "sell": 15000,
-    "buyers": 8,
-    "sellers": 8,
-    "islands": 2,
+    "buyers": 14,
+    "sellers": 14,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -16435,6 +16629,18 @@
       "p": 15000,
       "n": 8,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 6,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 11000,
+      "n": 6,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -17125,16 +17331,16 @@
    "id": "horse",
    "name": "Horse",
    "category": "Animals",
-   "value": 18000,
-   "demand": 8,
+   "value": 12000,
+   "demand": 9,
    "source": "Caught with a Lasso in the Ruins. Put in your Mount slot and press V to ride",
    "verified": true,
    "market": {
     "buy": 6250,
-    "sell": 30000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "sell": 17375,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -17159,13 +17365,25 @@
       "p": 6250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 4750,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6250,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 18000
+     "v": 12000
     }
    ],
    "range": {
@@ -17178,15 +17396,15 @@
    "name": "Sheep",
    "category": "Animals",
    "value": 12500,
-   "demand": 5,
+   "demand": 6,
    "source": "Caught with a Lasso in the Ruins. Grows wool while grazing grass",
    "verified": true,
    "market": {
     "buy": 5250,
     "sell": 20000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -17199,6 +17417,12 @@
       "p": 5250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5250,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -17218,21 +17442,27 @@
    "name": "Cow",
    "category": "Animals",
    "value": 43500,
-   "demand": 8,
+   "demand": 10,
    "source": "Caught with a Lasso in the Ruins. Gives milk near a Hay Feeder, sometimes special milks",
    "verified": true,
    "market": {
     "buy": 38000,
     "sell": null,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 38000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 38000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -17252,15 +17482,15 @@
    "name": "Egg",
    "category": "Food",
    "value": 375,
-   "demand": 6,
+   "demand": 5,
    "source": "Collected from a Hen House. Hatch in an Incubator for one of 16 chicken breeds",
    "verified": true,
    "market": {
     "buy": 275,
     "sell": 475,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -17273,6 +17503,12 @@
       "p": 275,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 475,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -17291,16 +17527,16 @@
    "id": "golden-egg",
    "name": "Golden Egg",
    "category": "Food",
-   "value": 3000000,
-   "demand": 7,
+   "value": 2610000,
+   "demand": 6,
    "source": "Rare egg",
    "verified": true,
    "market": {
     "buy": 1500000,
-    "sell": 4500000,
+    "sell": 3725000,
     "buyers": 2,
-    "sellers": 1,
-    "islands": 3,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -17319,13 +17555,19 @@
       "p": 2000000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2950000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 3000000
+     "v": 2610000
     }
    ],
    "range": {
@@ -17418,9 +17660,9 @@
    "market": {
     "buy": 12500,
     "sell": 16500,
-    "buyers": 20,
-    "sellers": 21,
-    "islands": 2,
+    "buyers": 32,
+    "sellers": 33,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -17439,6 +17681,18 @@
       "p": 16500,
       "n": 20,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 12,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 12500,
+      "n": 12,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -17578,15 +17832,15 @@
    "name": "Dumbphone",
    "category": "Gear",
    "value": 7500000,
-   "demand": 7,
+   "demand": 9,
    "source": "Limited item as of the 11-22 update; no more are being given out",
    "verified": true,
    "market": {
     "buy": 5000000,
     "sell": 10000000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -17605,6 +17859,12 @@
       "p": 5000000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5050000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
      }
     ]
    },
@@ -17670,25 +17930,41 @@
    "id": "arcane-hopper",
    "name": "Arcane Hopper",
    "category": "Machines",
-   "value": 500000,
-   "demand": 5,
+   "value": 850000,
+   "demand": 7,
    "source": "Anything that falls in goes straight to your backpack",
-   "verified": false,
+   "verified": true,
    "market": {
-    "buy": null,
-    "sell": null,
-    "buyers": 0,
-    "sellers": 0,
-    "islands": 0,
-    "listings": []
+    "buy": 710000,
+    "sell": 990000,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 990000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 710000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     }
+    ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 500000
+     "v": 850000
     }
    ],
-   "note": "No listing in stock anywhere yet. Value is a placeholder."
+   "range": {
+    "low": 710000,
+    "high": 990000
+   }
   },
   {
    "id": "basket-machine",
@@ -17838,25 +18114,76 @@
    "id": "hay-bale",
    "name": "Hay Bale",
    "category": "Materials",
-   "value": 500,
-   "demand": 5,
+   "value": 16000,
+   "demand": 10,
    "source": "Basket Machine: 100 Wheat. Feeds cows",
-   "verified": false,
+   "verified": true,
    "market": {
-    "buy": null,
-    "sell": null,
-    "buyers": 0,
-    "sellers": 0,
-    "islands": 0,
-    "listings": []
+    "buy": 23000,
+    "sell": 9500,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 9500,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 23000,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     }
+    ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 500
+     "v": 16000
     }
    ],
-   "note": "No listing in stock anywhere yet. Value is a placeholder."
+   "range": {
+    "low": 23000,
+    "high": 9500
+   },
+   "note": "One shop had its buy (23K) set above its own sell (9.5K) on 11-22 evening, probably a mistake. Basket Machine makes one from 100 Wheat."
+  },
+  {
+   "id": "milk",
+   "name": "Milk",
+   "category": "Food",
+   "value": 575,
+   "demand": 8,
+   "source": "From cows kept near a Hay Feeder",
+   "verified": true,
+   "market": {
+    "buy": 500,
+    "sell": null,
+    "buyers": 1,
+    "sellers": 0,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-22",
+     "v": 575
+    }
+   ],
+   "range": {
+    "low": 500,
+    "high": 500
+   }
   },
   {
    "id": "berries",
