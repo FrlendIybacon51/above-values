@@ -8,16 +8,16 @@
    "id": "goldbone-axe",
    "name": "Goldbone Axe",
    "category": "Gear",
-   "value": 1385000,
-   "demand": 9,
+   "value": 1440000,
+   "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast chopping",
    "verified": true,
    "market": {
-    "buy": 1100000,
-    "sell": 1670000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 19,
+    "buy": 1150000,
+    "sell": 1735000,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 20,
     "listings": [
      {
       "t": "sell",
@@ -168,6 +168,18 @@
       "p": 715000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1800000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -186,12 +198,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1385000
+     "v": 1440000
     }
    ],
    "range": {
     "low": 715000,
-    "high": 1670000
+    "high": 1800000
    },
    "icon": "icons/goldbone-axe.png"
   },
@@ -199,16 +211,16 @@
    "id": "goldbone-pickaxe",
    "name": "Goldbone Pickaxe",
    "category": "Gear",
-   "value": 1175000,
+   "value": 1240000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast gold mining",
    "verified": true,
    "market": {
-    "buy": 875000,
+    "buy": 1000000,
     "sell": 1475000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 16,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -347,6 +359,12 @@
       "p": 750000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -365,7 +383,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1175000
+     "v": 1240000
     }
    ],
    "range": {
@@ -378,16 +396,16 @@
    "id": "goldbone-sword",
    "name": "Goldbone Sword",
    "category": "Gear",
-   "value": 1125000,
-   "demand": 7,
+   "value": 1190000,
+   "demand": 8,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 800000,
-    "sell": 1450000,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 16,
+    "buy": 900000,
+    "sell": 1475000,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -532,6 +550,18 @@
       "p": 1499999,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -550,12 +580,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1125000
+     "v": 1190000
     }
    ],
    "range": {
     "low": 715000,
-    "high": 1499999
+    "high": 1500000
    },
    "icon": "icons/goldbone-sword.png",
    "note": "Asking price was partly cut off in the screenshot; double-check 825K."
@@ -564,16 +594,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 575000,
-   "demand": 8,
+   "value": 580000,
+   "demand": 9,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
-    "buy": 400000,
+    "buy": 407500,
     "sell": 750000,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 20,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 21,
     "listings": [
      {
       "t": "buy",
@@ -766,6 +796,18 @@
       "p": 899999,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 750000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -780,7 +822,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 575000
+     "v": 580000
     }
    ],
    "range": {
@@ -794,15 +836,15 @@
    "name": "Soulfire Bow",
    "category": "Gear",
    "value": 750000,
-   "demand": 9,
+   "demand": 10,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
     "buy": 600000,
     "sell": 900000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 3,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -1013,6 +1055,12 @@
       "p": 500000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -1786,15 +1834,15 @@
    "name": "Pink Slime Gel",
    "category": "Materials",
    "value": 41000,
-   "demand": 9,
+   "demand": 10,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 31250,
-    "sell": 51000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 27,
+    "buy": 30000,
+    "sell": 51750,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 28,
     "listings": [
      {
       "t": "sell",
@@ -2059,6 +2107,18 @@
       "p": 25000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2078,7 +2138,7 @@
    ],
    "range": {
     "low": 25000,
-    "high": 52500
+    "high": 60000
    },
    "icon": "icons/pink-slime-gel.png"
   },
@@ -2386,16 +2446,16 @@
    "id": "slime-gel",
    "name": "Slime Gel",
    "category": "Materials",
-   "value": 2350,
+   "value": 2300,
    "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1750,
-    "sell": 2999,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 26,
+    "buy": 1688,
+    "sell": 2874,
+    "buyers": 6,
+    "sellers": 4,
+    "islands": 27,
     "listings": [
      {
       "t": "sell",
@@ -2624,6 +2684,18 @@
       "p": 1500,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2499,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2638,7 +2710,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 2350
+     "v": 2300
     }
    ],
    "range": {
@@ -2652,15 +2724,15 @@
    "name": "Blue Slime Gel",
    "category": "Materials",
    "value": 1950,
-   "demand": 8,
+   "demand": 10,
    "source": "Blue Slime (85 HP)",
    "verified": true,
    "market": {
     "buy": 1500,
     "sell": 2400,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 26,
+    "islands": 27,
     "listings": [
      {
       "t": "buy",
@@ -2925,6 +2997,12 @@
       "p": 1250,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2961,11 +3039,11 @@
    "source": "Skeletons in the Ruins",
    "verified": true,
    "market": {
-    "buy": 850,
+    "buy": 875,
     "sell": 1500,
-    "buyers": 5,
-    "sellers": 2,
-    "islands": 19,
+    "buyers": 6,
+    "sellers": 3,
+    "islands": 20,
     "listings": [
      {
       "t": "sell",
@@ -3164,6 +3242,18 @@
       "p": 750,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -3365,16 +3455,16 @@
    "id": "golden-bread",
    "name": "Golden Bread",
    "category": "Food",
-   "value": 63000,
+   "value": 62500,
    "demand": 10,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 50625,
+    "buy": 50000,
     "sell": 75000,
-    "buyers": 4,
-    "sellers": 1,
-    "islands": 9,
+    "buyers": 5,
+    "sellers": 2,
+    "islands": 10,
     "listings": [
      {
       "t": "sell",
@@ -3459,6 +3549,18 @@
       "p": 25000,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -3477,7 +3579,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 63000
+     "v": 62500
     }
    ],
    "range": {
@@ -3501,16 +3603,16 @@
    "id": "jumbo-berry-pie",
    "name": "Jumbo Berry Pie",
    "category": "Food",
-   "value": 7050,
+   "value": 6500,
    "demand": 10,
    "source": "Industrial Cooker: Jumbo Berry. 50 HP + 50% bigger",
    "verified": true,
    "market": {
-    "buy": 5875,
-    "sell": 8250,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 7,
+    "buy": 5000,
+    "sell": 8000,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 8,
     "listings": [
      {
       "t": "sell",
@@ -3583,6 +3685,18 @@
       "p": 5000,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 8000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -3601,7 +3715,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 7050
+     "v": 6500
     }
    ],
    "range": {
@@ -4212,16 +4326,16 @@
    "id": "berry-bush-seed",
    "name": "Berry Bush Seed",
    "category": "Crops",
-   "value": 700,
+   "value": 638,
    "demand": 10,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 400,
-    "sell": 1000,
-    "buyers": 5,
-    "sellers": 1,
-    "islands": 18,
+    "sell": 875,
+    "buyers": 6,
+    "sellers": 2,
+    "islands": 19,
     "listings": [
      {
       "t": "buy",
@@ -4390,6 +4504,18 @@
       "p": 500,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 750,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 400,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -4408,7 +4534,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 700
+     "v": 638
     }
    ],
    "range": {
@@ -4421,16 +4547,16 @@
    "id": "gold-ingot",
    "name": "Gold Ingot",
    "category": "Ores & Ingots",
-   "value": 6900,
-   "demand": 9,
+   "value": 7300,
+   "demand": 8,
    "source": "Smelt Gold Ore; Knights, Morton",
    "verified": true,
    "market": {
     "buy": 5625,
-    "sell": 8225,
+    "sell": 9000,
     "buyers": 4,
-    "sellers": 4,
-    "islands": 21,
+    "sellers": 5,
+    "islands": 22,
     "listings": [
      {
       "t": "sell",
@@ -4659,6 +4785,12 @@
       "p": 5250,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -4677,7 +4809,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 6900
+     "v": 7300
     }
    ],
    "range": {
@@ -4690,16 +4822,16 @@
    "id": "gold-ore",
    "name": "Gold Ore",
    "category": "Ores & Ingots",
-   "value": 6300,
-   "demand": 8,
+   "value": 6250,
+   "demand": 9,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
-    "buy": 5125,
+    "buy": 5000,
     "sell": 7500,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 5,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -4904,6 +5036,12 @@
       "p": 9999,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -4919,10 +5057,6 @@
     {
      "d": "2026-11-20",
      "v": 6250
-    },
-    {
-     "d": "2026-11-22",
-     "v": 6300
     }
    ],
    "range": {
@@ -4935,16 +5069,16 @@
    "id": "iron-ingot",
    "name": "Iron Ingot",
    "category": "Ores & Ingots",
-   "value": 22,
+   "value": 18,
    "demand": 4,
    "source": "Smelt Iron Ore",
    "verified": true,
    "market": {
-    "buy": 15,
-    "sell": 28,
-    "buyers": 1,
-    "sellers": 4,
-    "islands": 8,
+    "buy": 10,
+    "sell": 25,
+    "buyers": 2,
+    "sellers": 5,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -4999,6 +5133,18 @@
       "p": 30,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 25,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -5013,11 +5159,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 22
+     "v": 18
     }
    ],
    "range": {
-    "low": 15,
+    "low": 5,
     "high": 30
    },
    "icon": "icons/iron-ingot.png"
@@ -5117,16 +5263,16 @@
    "id": "coal",
    "name": "Coal",
    "category": "Ores & Ingots",
-   "value": 16,
-   "demand": 5,
+   "value": 14,
+   "demand": 6,
    "source": "Coal drills, mining",
    "verified": true,
    "market": {
     "buy": 7,
-    "sell": 25,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 5,
+    "sell": 20,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 6,
     "listings": [
      {
       "t": "sell",
@@ -5187,6 +5333,18 @@
       "p": 7,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 7,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -5197,7 +5355,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 16
+     "v": 14
     }
    ],
    "range": {
@@ -5616,8 +5774,8 @@
     "buy": 9250,
     "sell": 15000,
     "buyers": 20,
-    "sellers": 32,
-    "islands": 12,
+    "sellers": 33,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -5750,6 +5908,12 @@
       "p": 15000,
       "n": 10,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 10000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -6561,16 +6725,16 @@
    "id": "water-pump",
    "name": "Water Pump",
    "category": "Machines",
-   "value": 330000,
-   "demand": 7,
+   "value": 315000,
+   "demand": 8,
    "source": "Crafted. Normal quality",
    "verified": true,
    "market": {
-    "buy": 320000,
-    "sell": 345000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 10,
+    "buy": 285000,
+    "sell": 347500,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -6643,6 +6807,18 @@
       "p": 345000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 350000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -6661,12 +6837,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 330000
+     "v": 315000
     }
    ],
    "range": {
-    "low": 320000,
-    "high": 345000
+    "low": 250000,
+    "high": 350000
    },
    "icon": "icons/water-pump.png"
   },
@@ -6674,16 +6850,16 @@
    "id": "water-pump-prime",
    "name": "Water Pump (Prime)",
    "category": "Machines",
-   "value": 2000000,
-   "demand": 3,
+   "value": 1250000,
+   "demand": 10,
    "source": "Prime quality: same machine, better stats",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 2000000,
-    "buyers": 0,
-    "sellers": 3,
-    "islands": 4,
+    "buy": 1500000,
+    "sell": 1000000,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -6708,6 +6884,12 @@
       "p": 1000000,
       "n": 1,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 1500000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -6719,11 +6901,15 @@
     {
      "d": "2026-11-19",
      "v": 2000000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 1250000
     }
    ],
    "range": {
-    "low": 1000000,
-    "high": 2000000
+    "low": 1500000,
+    "high": 1000000
    },
    "note": "Which 2M pump was Prime vs Masterwork was read from the floor signs; treat the two tiers as approximate."
   },
@@ -6795,9 +6981,9 @@
    "market": {
     "buy": 1200000,
     "sell": null,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 0,
-    "islands": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -6936,6 +7122,12 @@
       "p": 1215000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -6968,15 +7160,15 @@
    "name": "Lumber Mill III",
    "category": "Machines",
    "value": 800000,
-   "demand": 7,
+   "demand": 9,
    "source": "Tier 3 lumber mill. Tier I and II were sold out",
    "verified": true,
    "market": {
     "buy": 500000,
     "sell": 1100000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -7061,6 +7253,12 @@
       "p": 500000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -7085,15 +7283,15 @@
    "name": "Vending Machine",
    "category": "Machines",
    "value": 185000,
-   "demand": 9,
+   "demand": 10,
    "source": "Lets you sell to other players",
    "verified": true,
    "market": {
     "buy": 150000,
     "sell": 217500,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "sell",
@@ -7208,6 +7406,12 @@
       "p": 157500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 150000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -7951,16 +8155,16 @@
    "id": "industrial-furnace",
    "name": "Industrial Furnace",
    "category": "Machines",
-   "value": 75000,
-   "demand": 1,
+   "value": 7500,
+   "demand": 6,
    "source": "Smelts ores and blocks. Every listing was sold out",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 75000,
-    "buyers": 0,
-    "sellers": 9,
-    "islands": 4,
+    "buy": 6000,
+    "sell": 9000,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -7991,6 +8195,18 @@
       "p": 95000,
       "n": 3,
       "where": "Pooflezs's shop, island 19 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 9000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -8009,12 +8225,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 75000
+     "v": 7500
     }
    ],
    "range": {
-    "low": 75000,
-    "high": 95000
+    "low": 6000,
+    "high": 9000
    },
    "icon": "icons/industrial-furnace.png"
   },
@@ -8022,16 +8238,16 @@
    "id": "arcane-ballista",
    "name": "Arcane Ballista",
    "category": "Machines",
-   "value": 1400000,
-   "demand": 9,
+   "value": 1310000,
+   "demand": 10,
    "source": "Arcane defense. Every listing was sold out",
    "verified": true,
    "market": {
-    "buy": 1150000,
-    "sell": 1650000,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 15,
+    "buy": 1125000,
+    "sell": 1500000,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -8170,6 +8386,18 @@
       "p": 1150000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1500000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -8188,11 +8416,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1400000
+     "v": 1310000
     }
    ],
    "range": {
-    "low": 1100000,
+    "low": 1000000,
     "high": 1800000
    },
    "icon": "icons/arcane-ballista.png"
@@ -8201,16 +8429,16 @@
    "id": "slime-beacon",
    "name": "Slime Beacon",
    "category": "Machines",
-   "value": 1990000,
-   "demand": 8,
+   "value": 2070000,
+   "demand": 9,
    "source": "Summons slimes. Sold out",
    "verified": true,
    "market": {
-    "buy": 1750000,
-    "sell": 2225000,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 9,
+    "buy": 1775000,
+    "sell": 2362500,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -8283,6 +8511,18 @@
       "p": 1800000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 3000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -8301,28 +8541,28 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1990000
+     "v": 2070000
     }
    ],
    "range": {
     "low": 1600000,
-    "high": 2500000
+    "high": 3000000
    }
   },
   {
    "id": "arcane-gold",
    "name": "Arcane Gold",
    "category": "Ores & Ingots",
-   "value": 740000,
+   "value": 755000,
    "demand": 10,
    "source": "Arcane-tier gold ingot",
    "verified": true,
    "market": {
     "buy": 635000,
-    "sell": 850000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 17,
+    "sell": 875000,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -8497,6 +8737,18 @@
       "p": 635000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 900000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -8515,7 +8767,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 740000
+     "v": 755000
     }
    ],
    "range": {
@@ -8534,10 +8786,10 @@
    "verified": true,
    "market": {
     "buy": 105000,
-    "sell": 157500,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 17,
+    "sell": 150000,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -8718,6 +8970,18 @@
       "p": 105000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 150000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 80000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -8736,7 +9000,7 @@
     }
    ],
    "range": {
-    "low": 100000,
+    "low": 80000,
     "high": 165000
    },
    "icon": "icons/arcane-bone.png"
@@ -8746,15 +9010,15 @@
    "name": "Arcane Iron",
    "category": "Ores & Ingots",
    "value": 1500,
-   "demand": 9,
+   "demand": 10,
    "source": "Arcane-tier iron ingot",
    "verified": true,
    "market": {
-    "buy": 1150,
+    "buy": 1175,
     "sell": 1800,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 16,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -8899,6 +9163,18 @@
       "p": 1150,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1800,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -8926,16 +9202,16 @@
    "id": "arcane-coal",
    "name": "Arcane Coal",
    "category": "Ores & Ingots",
-   "value": 744,
+   "value": 750,
    "demand": 9,
    "source": "Arcane-tier coal",
    "verified": true,
    "market": {
     "buy": 600,
-    "sell": 888,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 16,
+    "sell": 900,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -9104,6 +9380,18 @@
       "p": 650,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 950,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9122,12 +9410,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 744
+     "v": 750
     }
    ],
    "range": {
     "low": 600,
-    "high": 900
+    "high": 950
    },
    "icon": "icons/arcane-coal.png"
   },
@@ -9279,15 +9567,15 @@
    "name": "Morten Chestplate",
    "category": "Gear",
    "value": 4975000,
-   "demand": 9,
+   "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
     "buy": 4000000,
     "sell": 5950000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 1,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -9396,6 +9684,12 @@
       "p": 3000000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 4000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9428,15 +9722,15 @@
    "name": "Morten Plush",
    "category": "Gear",
    "value": 760000,
-   "demand": 7,
+   "demand": 9,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 605000,
+    "buy": 610000,
     "sell": 912500,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 16,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -9557,6 +9851,12 @@
       "p": 610000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 800000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9588,16 +9888,16 @@
    "id": "morten-boots",
    "name": "Morten Boots",
    "category": "Gear",
-   "value": 500000,
+   "value": 460000,
    "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 600000,
+    "sell": 525000,
     "buyers": 4,
-    "sellers": 1,
-    "islands": 16,
+    "sellers": 2,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -9736,6 +10036,12 @@
       "p": 300000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 450000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9754,7 +10060,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 500000
+     "v": 460000
     }
    ],
    "range": {
@@ -9767,16 +10073,16 @@
    "id": "morten-cape",
    "name": "Morten Cape",
    "category": "Gear",
-   "value": 63500,
+   "value": 57500,
    "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 47500,
-    "sell": 79375,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 15,
+    "buy": 45000,
+    "sell": 70000,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -9921,6 +10227,18 @@
       "p": 50000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9939,7 +10257,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 63500
+     "v": 57500
     }
    ],
    "range": {
@@ -9952,16 +10270,16 @@
    "id": "morten-mask",
    "name": "Morten Mask",
    "category": "Gear",
-   "value": 64500,
+   "value": 57500,
    "demand": 9,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 50000,
-    "sell": 79375,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 14,
+    "buy": 45000,
+    "sell": 70000,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -10106,6 +10424,18 @@
       "p": 50000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10124,7 +10454,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 64500
+     "v": 57500
     }
    ],
    "range": {
@@ -10522,16 +10852,16 @@
    "id": "carrot-harvester",
    "name": "Carrot Harvester",
    "category": "Machines",
-   "value": 7900,
-   "demand": 8,
+   "value": 8350,
+   "demand": 9,
    "source": "Auto-harvests carrots",
    "verified": true,
    "market": {
-    "buy": 5833,
+    "buy": 6666,
     "sell": 9999,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 8,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -10616,6 +10946,18 @@
       "p": 6666,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6666,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10634,7 +10976,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 7900
+     "v": 8350
     }
    ],
    "range": {
@@ -10647,16 +10989,16 @@
    "id": "wheat-harvester",
    "name": "Wheat Harvester",
    "category": "Machines",
-   "value": 2300,
+   "value": 2250,
    "demand": 7,
    "source": "Auto-harvests wheat",
    "verified": true,
    "market": {
-    "buy": 1750,
-    "sell": 2874,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 8,
+    "buy": 1500,
+    "sell": 2999,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -10735,6 +11077,18 @@
       "p": 1500,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10753,7 +11107,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 2300
+     "v": 2250
     }
    ],
    "range": {
@@ -10766,16 +11120,16 @@
    "id": "lumber-mill-i",
    "name": "Lumber Mill I",
    "category": "Machines",
-   "value": 16000,
-   "demand": 7,
+   "value": 13000,
+   "demand": 8,
    "source": "Tier 1 lumber mill",
    "verified": true,
    "market": {
-    "buy": 11750,
-    "sell": 20000,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 14,
+    "buy": 11000,
+    "sell": 15000,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -10896,6 +11250,18 @@
       "p": 24999,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 14000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 9000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10914,11 +11280,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 16000
+     "v": 13000
     }
    ],
    "range": {
-    "low": 11000,
+    "low": 9000,
     "high": 24999
    },
    "icon": "icons/lumber-mill-i.png"
@@ -10927,16 +11293,16 @@
    "id": "stone-drill-i",
    "name": "Stone Drill I",
    "category": "Machines",
-   "value": 12000,
+   "value": 11000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 10500,
+    "buy": 9500,
     "sell": null,
     "buyers": 2,
     "sellers": 0,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -10985,6 +11351,12 @@
       "p": 11000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10996,14 +11368,10 @@
     {
      "d": "2026-11-20",
      "v": 11000
-    },
-    {
-     "d": "2026-11-22",
-     "v": 12000
     }
    ],
    "range": {
-    "low": 10000,
+    "low": 8000,
     "high": 11000
    },
    "icon": "icons/stone-drill-i.png"
@@ -11012,16 +11380,16 @@
    "id": "coal-drill-i",
    "name": "Coal Drill I",
    "category": "Machines",
-   "value": 16000,
+   "value": 14500,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 14000,
+    "buy": 12500,
     "sell": null,
-    "buyers": 3,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -11058,6 +11426,12 @@
       "p": 15000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -11076,11 +11450,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 16000
+     "v": 14500
     }
    ],
    "range": {
-    "low": 12000,
+    "low": 10000,
     "high": 15000
    },
    "icon": "icons/coal-drill-i.png"
@@ -11089,16 +11463,16 @@
    "id": "clay-drill-i",
    "name": "Clay Drill I",
    "category": "Machines",
-   "value": 20000,
-   "demand": 7,
+   "value": 19000,
+   "demand": 8,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 18000,
+    "buy": 16000,
     "sell": 22000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -11171,6 +11545,12 @@
       "p": 18000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 14000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -11185,11 +11565,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 20000
+     "v": 19000
     }
    ],
    "range": {
-    "low": 18000,
+    "low": 14000,
     "high": 22000
    },
    "icon": "icons/clay-drill-i.png"
@@ -11198,16 +11578,16 @@
    "id": "sand-drill-i",
    "name": "Sand Drill I",
    "category": "Machines",
-   "value": 20000,
-   "demand": 7,
+   "value": 19000,
+   "demand": 8,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 18000,
+    "buy": 16000,
     "sell": 22000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -11280,6 +11660,12 @@
       "p": 18000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 14000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -11294,11 +11680,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 20000
+     "v": 19000
     }
    ],
    "range": {
-    "low": 18000,
+    "low": 14000,
     "high": 22000
    },
    "icon": "icons/sand-drill-i.png"
@@ -11758,15 +12144,15 @@
    "name": "Tomato Seeds",
    "category": "Crops",
    "value": 300,
-   "demand": 6,
+   "demand": 7,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 200,
     "sell": 400,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 10,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -11857,6 +12243,18 @@
       "p": 200,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 400,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 200,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -11884,16 +12282,16 @@
    "id": "carrot-seeds",
    "name": "Carrot Seeds",
    "category": "Crops",
-   "value": 106,
-   "demand": 7,
+   "value": 112,
+   "demand": 9,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 62,
+    "buy": 75,
     "sell": 150,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -11960,6 +12358,12 @@
       "p": 75,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 75,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -11970,7 +12374,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 106
+     "v": 112
     }
    ],
    "range": {
@@ -11983,16 +12387,16 @@
    "id": "wheat-seeds",
    "name": "Wheat Seeds",
    "category": "Crops",
-   "value": 12,
-   "demand": 8,
+   "value": 6,
+   "demand": 10,
    "source": "Seed dealer",
    "verified": true,
    "market": {
     "buy": 5,
-    "sell": 20,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 8,
+    "sell": null,
+    "buyers": 2,
+    "sellers": 0,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -12059,6 +12463,12 @@
       "p": 5,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -12069,12 +12479,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 12
+     "v": 6
     }
    ],
    "range": {
     "low": 5,
-    "high": 20
+    "high": 5
    },
    "icon": "icons/wheat-seeds.png"
   },
@@ -12510,16 +12920,16 @@
    "id": "iron-drill-i",
    "name": "Iron Drill I",
    "category": "Machines",
-   "value": 41500,
+   "value": 41000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 36250,
+    "buy": 35625,
     "sell": null,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 0,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -12586,6 +12996,12 @@
       "p": 38000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -12604,7 +13020,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 41500
+     "v": 41000
     }
    ],
    "range": {
@@ -13480,21 +13896,27 @@
    "name": "Rail",
    "category": "Machines",
    "value": 1500,
-   "demand": 4,
+   "demand": 3,
    "source": "Straight rail",
    "verified": true,
    "market": {
     "buy": null,
     "sell": 1500,
     "buyers": 0,
-    "sellers": 2,
-    "islands": 1,
+    "sellers": 3,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
       "p": 1500,
       "n": 2,
       "where": "DHV's shop, island 3 (2026-11-18)"
+     },
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -13505,7 +13927,7 @@
     }
    ],
    "range": {
-    "low": 1500,
+    "low": 999,
     "high": 1500
    },
    "icon": "icons/rail.png"
@@ -13555,16 +13977,16 @@
    "id": "rail-ramp",
    "name": "Rail Ramp",
    "category": "Machines",
-   "value": 1500,
+   "value": 1250,
    "demand": 4,
    "source": "Rail incline",
    "verified": true,
    "market": {
     "buy": null,
-    "sell": 1500,
+    "sell": 1249,
     "buyers": 0,
     "sellers": 2,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -13577,6 +13999,12 @@
       "p": 1499,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 999,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -13584,11 +14012,15 @@
     {
      "d": "2026-11-18",
      "v": 1500
+    },
+    {
+     "d": "2026-11-22",
+     "v": 1250
     }
    ],
    "range": {
-    "low": 1499,
-    "high": 1500
+    "low": 999,
+    "high": 1499
    }
   },
   {
@@ -14043,16 +14475,16 @@
    "id": "arcane-table",
    "name": "Arcane Table",
    "category": "Machines",
-   "value": 3500000,
-   "demand": 9,
+   "value": 3560000,
+   "demand": 10,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
-    "buy": 2750000,
+    "buy": 2875000,
     "sell": 4250000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -14197,6 +14629,12 @@
       "p": 2500000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -14215,7 +14653,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3500000
+     "v": 3560000
     }
    ],
    "range": {
@@ -15163,16 +15601,16 @@
    "id": "sunflower",
    "name": "Sunflower",
    "category": "Flowers",
-   "value": 410000,
-   "demand": 6,
+   "value": 390000,
+   "demand": 7,
    "source": "Rare flower. One 200K bid, nobody selling",
    "verified": true,
    "market": {
-    "buy": 250000,
+    "buy": 200000,
     "sell": 575000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -15239,6 +15677,12 @@
       "p": 200000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 200000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -15253,7 +15697,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 410000
+     "v": 390000
     }
    ],
    "range": {
@@ -15306,15 +15750,15 @@
    "name": "Golden Wheat Sheaf",
    "category": "Crops",
    "value": 50000,
-   "demand": 6,
+   "demand": 7,
    "source": "Rare wheat harvest",
    "verified": true,
    "market": {
     "buy": 40000,
     "sell": 60000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 4,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -15357,6 +15801,18 @@
       "p": 40000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 60000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 40000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -15459,15 +15915,15 @@
    "name": "Hearty Soup",
    "category": "Food",
    "value": 62500,
-   "demand": 6,
+   "demand": 7,
    "source": "Industrial Cooker. Top-tier food",
    "verified": true,
    "market": {
     "buy": 50000,
     "sell": 75000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 3,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -15504,6 +15960,18 @@
       "p": 50000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -15531,15 +15999,15 @@
    "name": "Pinkberry Pie",
    "category": "Food",
    "value": 62500,
-   "demand": 6,
+   "demand": 7,
    "source": "Industrial Cooker. Rare pie",
    "verified": true,
    "market": {
     "buy": 50000,
     "sell": 75000,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 3,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -15564,6 +16032,18 @@
       "p": 50000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 75000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -15590,16 +16070,16 @@
    "id": "slime-soup",
    "name": "Slime Soup",
    "category": "Food",
-   "value": 5100,
+   "value": 3750,
    "demand": 5,
    "source": "Industrial Cooker: Slime Gel",
    "verified": true,
    "market": {
     "buy": 3000,
-    "sell": 7250,
+    "sell": 4500,
     "buyers": 1,
-    "sellers": 2,
-    "islands": 4,
+    "sellers": 3,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -15636,6 +16116,12 @@
       "p": 9999,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 4500,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -15650,7 +16136,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 5100
+     "v": 3750
     }
    ],
    "range": {
@@ -15828,16 +16314,16 @@
    "id": "lumber-mill-ii",
    "name": "Lumber Mill II",
    "category": "Machines",
-   "value": 110000,
+   "value": 105000,
    "demand": 8,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
-    "buy": 85000,
-    "sell": 140000,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 7,
+    "buy": 80000,
+    "sell": 130000,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -15892,6 +16378,18 @@
       "p": 100000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 120000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 80000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -15906,7 +16404,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 110000
+     "v": 105000
     }
    ],
    "range": {
@@ -16371,16 +16869,16 @@
    "id": "rocket-carrot",
    "name": "Rocket Carrot",
    "category": "Crops",
-   "value": 66000,
-   "demand": 7,
+   "value": 75000,
+   "demand": 9,
    "source": "Rare carrot harvest",
    "verified": true,
    "market": {
-    "buy": 42500,
+    "buy": 60000,
     "sell": 90000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -16411,6 +16909,12 @@
       "p": 25000,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 60000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -16421,7 +16925,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 66000
+     "v": 75000
     }
    ],
    "range": {
@@ -16433,16 +16937,16 @@
    "id": "bluetato",
    "name": "Bluetato",
    "category": "Crops",
-   "value": 3750,
-   "demand": 6,
+   "value": 3600,
+   "demand": 7,
    "source": "Rare potato harvest",
    "verified": true,
    "market": {
-    "buy": 2500,
-    "sell": 4999,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 2,
+    "buy": 2750,
+    "sell": 4500,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -16467,6 +16971,18 @@
       "p": 2500,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 4000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -16477,7 +16993,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3750
+     "v": 3600
     }
    ],
    "range": {
@@ -16953,16 +17469,16 @@
    "id": "green-chicken",
    "name": "Green Chicken",
    "category": "Animals",
-   "value": 16000000,
-   "demand": 6,
+   "value": 13750000,
+   "demand": 7,
    "source": "Very rare (exotic) chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
-    "buy": 12000000,
+    "buy": 7500000,
     "sell": 20000000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -16975,17 +17491,23 @@
       "p": 12000000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 16000000
+     "v": 13750000
     }
    ],
    "range": {
-    "low": 12000000,
+    "low": 3000000,
     "high": 20000000
    }
   },
@@ -17033,16 +17555,16 @@
    "id": "macaw-chicken",
    "name": "Macaw Chicken",
    "category": "Animals",
-   "value": 16000000,
-   "demand": 6,
+   "value": 13750000,
+   "demand": 7,
    "source": "Very rare (exotic) chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
-    "buy": 12000000,
+    "buy": 7500000,
     "sell": 20000000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -17055,17 +17577,23 @@
       "p": 12000000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 16000000
+     "v": 13750000
     }
    ],
    "range": {
-    "low": 12000000,
+    "low": 3000000,
     "high": 20000000
    }
   },
@@ -17073,33 +17601,39 @@
    "id": "thunderbird-chicken",
    "name": "Thunderbird Chicken",
    "category": "Animals",
-   "value": 34500000,
-   "demand": 8,
+   "value": 28750000,
+   "demand": 10,
    "source": "Mythic chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
-    "buy": 30000000,
+    "buy": 25000000,
     "sell": null,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 0,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
       "p": 30000000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 20000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 34500000
+     "v": 28750000
     }
    ],
    "range": {
-    "low": 30000000,
+    "low": 20000000,
     "high": 30000000
    }
   },
@@ -17233,16 +17767,16 @@
    "id": "blue-chicken",
    "name": "Blue Chicken",
    "category": "Animals",
-   "value": 3750000,
+   "value": 3000000,
    "demand": 6,
    "source": "Rare chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 2500000,
-    "sell": 5000000,
+    "sell": 3500000,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -17255,13 +17789,19 @@
       "p": 2500000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 3750000
+     "v": 3000000
     }
    ],
    "range": {
@@ -17313,16 +17853,16 @@
    "id": "gold-laced-chicken",
    "name": "Gold Laced Chicken",
    "category": "Animals",
-   "value": 175000,
-   "demand": 5,
+   "value": 160000,
+   "demand": 6,
    "source": "Uncommon chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
-    "buy": 100000,
+    "buy": 67500,
     "sell": 250000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -17335,17 +17875,23 @@
       "p": 100000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 175000
+     "v": 160000
     }
    ],
    "range": {
-    "low": 100000,
+    "low": 35000,
     "high": 250000
    }
   },
@@ -17353,16 +17899,16 @@
    "id": "speckled-chicken",
    "name": "Speckled Chicken",
    "category": "Animals",
-   "value": 175000,
+   "value": 140000,
    "demand": 5,
    "source": "Uncommon chicken. Hatched from eggs in an Incubator; lays eggs in a Hen House when fed",
    "verified": true,
    "market": {
     "buy": 100000,
-    "sell": 250000,
+    "sell": 175000,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -17375,13 +17921,19 @@
       "p": 100000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 100000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 175000
+     "v": 140000
     }
    ],
    "range": {
@@ -17703,16 +18255,16 @@
    "id": "egg",
    "name": "Egg",
    "category": "Food",
-   "value": 375,
-   "demand": 5,
+   "value": 344,
+   "demand": 6,
    "source": "Collected from a Hen House. Hatch in an Incubator for one of 16 chicken breeds",
    "verified": true,
    "market": {
-    "buy": 275,
+    "buy": 212,
     "sell": 475,
-    "buyers": 1,
-    "sellers": 2,
-    "islands": 2,
+    "buyers": 2,
+    "sellers": 3,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -17731,34 +18283,46 @@
       "p": 475,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 150,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 375
+     "v": 344
     }
    ],
    "range": {
-    "low": 275,
-    "high": 475
+    "low": 150,
+    "high": 1000
    }
   },
   {
    "id": "golden-egg",
    "name": "Golden Egg",
    "category": "Food",
-   "value": 2610000,
-   "demand": 6,
+   "value": 2360000,
+   "demand": 7,
    "source": "Rare egg",
    "verified": true,
    "market": {
-    "buy": 1500000,
+    "buy": 1000000,
     "sell": 3725000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -17783,17 +18347,23 @@
       "p": 2950000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 2610000
+     "v": 2360000
     }
    ],
    "range": {
-    "low": 1000000,
+    "low": 500000,
     "high": 4500000
    }
   },
@@ -18158,16 +18728,16 @@
    "id": "arcane-hopper",
    "name": "Arcane Hopper",
    "category": "Machines",
-   "value": 850000,
-   "demand": 7,
+   "value": 820000,
+   "demand": 8,
    "source": "Anything that falls in goes straight to your backpack",
    "verified": true,
    "market": {
-    "buy": 710000,
+    "buy": 655000,
     "sell": 990000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -18180,17 +18750,23 @@
       "p": 710000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 850000
+     "v": 820000
     }
    ],
    "range": {
-    "low": 710000,
+    "low": 600000,
     "high": 990000
    }
   },
@@ -18198,16 +18774,16 @@
    "id": "basket-machine",
    "name": "Basket Machine",
    "category": "Machines",
-   "value": 365000,
-   "demand": 8,
+   "value": 370000,
+   "demand": 9,
    "source": "Packs tomatoes, onions, carrots or berries into baskets worth more than the crops; makes Hay Bales from 100 Wheat",
    "verified": true,
    "market": {
-    "buy": 297500,
-    "sell": 435000,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 2,
+    "buy": 300000,
+    "sell": 442500,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -18226,18 +18802,30 @@
       "p": 325000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 450000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 365000
+     "v": 370000
     }
    ],
    "range": {
     "low": 270000,
-    "high": 435000
+    "high": 450000
    }
   },
   {
@@ -18411,6 +18999,46 @@
    "range": {
     "low": 500,
     "high": 500
+   }
+  },
+  {
+   "id": "griffin-chicken",
+   "name": "Griffin Chicken",
+   "category": "Animals",
+   "value": 30000000,
+   "demand": 6,
+   "source": "Chicken breed (Animal Update) - rarest seen so far",
+   "verified": true,
+   "market": {
+    "buy": 20000000,
+    "sell": 40000000,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 1,
+    "listings": [
+     {
+      "t": "sell",
+      "p": 40000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 20000000,
+      "n": 1,
+      "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     }
+    ]
+   },
+   "history": [
+    {
+     "d": "2026-11-22",
+     "v": 30000000
+    }
+   ],
+   "range": {
+    "low": 20000000,
+    "high": 40000000
    }
   },
   {
