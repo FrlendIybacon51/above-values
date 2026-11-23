@@ -8,16 +8,16 @@
    "id": "goldbone-axe",
    "name": "Goldbone Axe",
    "category": "Gear",
-   "value": 1440000,
+   "value": 1420000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast chopping",
    "verified": true,
    "market": {
-    "buy": 1150000,
+    "buy": 1100000,
     "sell": 1735000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 20,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -180,6 +180,12 @@
       "p": 1200000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -198,7 +204,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1440000
+     "v": 1420000
     }
    ],
    "range": {
@@ -218,9 +224,9 @@
    "market": {
     "buy": 1000000,
     "sell": 1475000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 2,
-    "islands": 17,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -365,6 +371,12 @@
       "p": 1200000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -594,16 +606,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 580000,
-   "demand": 9,
+   "value": 570000,
+   "demand": 10,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
-    "buy": 407500,
-    "sell": 750000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 21,
+    "buy": 415000,
+    "sell": 725000,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 22,
     "listings": [
      {
       "t": "buy",
@@ -808,6 +820,18 @@
       "p": 500000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 520000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 700000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -822,7 +846,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 580000
+     "v": 570000
     }
    ],
    "range": {
@@ -842,9 +866,9 @@
    "market": {
     "buy": 600000,
     "sell": 900000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 3,
-    "islands": 21,
+    "islands": 22,
     "listings": [
      {
       "t": "sell",
@@ -1061,6 +1085,12 @@
       "p": 600000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 620000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -1093,16 +1123,16 @@
    "id": "gold-crystal",
    "name": "Gold Crystal",
    "category": "Crystals",
-   "value": 975000,
+   "value": 960000,
    "demand": 10,
    "source": "Gold ore nodes, Skeletons, Morton",
    "verified": true,
    "market": {
-    "buy": 797500,
-    "sell": 1150000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 22,
+    "buy": 800000,
+    "sell": 1125000,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 23,
     "listings": [
      {
       "t": "buy",
@@ -1319,6 +1349,18 @@
       "p": 810000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 830000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1100000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -1333,7 +1375,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 975000
+     "v": 960000
     }
    ],
    "range": {
@@ -1346,16 +1388,16 @@
    "id": "soul-crystal",
    "name": "Soul Crystal",
    "category": "Crystals",
-   "value": 36500,
+   "value": 40000,
    "demand": 10,
    "source": "Knights (rare), Morton boss",
    "verified": true,
    "market": {
-    "buy": 32875,
-    "sell": 39999,
-    "buyers": 4,
-    "sellers": 1,
-    "islands": 21,
+    "buy": 32500,
+    "sell": 47500,
+    "buyers": 5,
+    "sellers": 2,
+    "islands": 22,
     "listings": [
      {
       "t": "sell",
@@ -1572,6 +1614,18 @@
       "p": 33250,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 55000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -1586,12 +1640,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 36500
+     "v": 40000
     }
    ],
    "range": {
     "low": 22500,
-    "high": 39999
+    "high": 55000
    },
    "icon": "icons/soul-crystal.png"
   },
@@ -1599,16 +1653,16 @@
    "id": "purple-slime-gel",
    "name": "Purple Slime Gel",
    "category": "Materials",
-   "value": 460000,
-   "demand": 7,
+   "value": 455000,
+   "demand": 9,
    "source": "Dropped by Slime Kings (previously dev-spawned only)",
    "verified": true,
    "market": {
-    "buy": 250000,
+    "buy": 237500,
     "sell": 675000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 22,
+    "islands": 23,
     "listings": [
      {
       "t": "buy",
@@ -1801,6 +1855,12 @@
       "p": 250000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 200000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -1819,11 +1879,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 460000
+     "v": 455000
     }
    ],
    "range": {
-    "low": 225000,
+    "low": 200000,
     "high": 850000
    },
    "icon": "icons/purple-slime-gel.png",
@@ -1834,15 +1894,15 @@
    "name": "Pink Slime Gel",
    "category": "Materials",
    "value": 41000,
-   "demand": 10,
+   "demand": 9,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
     "buy": 30000,
-    "sell": 51750,
+    "sell": 52500,
     "buyers": 5,
-    "sellers": 4,
-    "islands": 28,
+    "sellers": 5,
+    "islands": 29,
     "listings": [
      {
       "t": "sell",
@@ -2119,6 +2179,12 @@
       "p": 30000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 53900,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -2146,16 +2212,16 @@
    "id": "orange-slime-gel",
    "name": "Orange Slime Gel",
    "category": "Materials",
-   "value": 32000,
-   "demand": 9,
+   "value": 33000,
+   "demand": 10,
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 20750,
-    "sell": 43750,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 28,
+    "buy": 21500,
+    "sell": 44900,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 29,
     "listings": [
      {
       "t": "sell",
@@ -2414,6 +2480,18 @@
       "p": 15000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 44900,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -2432,7 +2510,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 32000
+     "v": 33000
     }
    ],
    "range": {
@@ -2446,16 +2524,16 @@
    "id": "slime-gel",
    "name": "Slime Gel",
    "category": "Materials",
-   "value": 2300,
+   "value": 2350,
    "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
     "buy": 1688,
-    "sell": 2874,
+    "sell": 2999,
     "buyers": 6,
-    "sellers": 4,
-    "islands": 27,
+    "sellers": 5,
+    "islands": 28,
     "listings": [
      {
       "t": "sell",
@@ -2696,6 +2774,12 @@
       "p": 1500,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 3500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -2710,12 +2794,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 2300
+     "v": 2350
     }
    ],
    "range": {
     "low": 1500,
-    "high": 2999
+    "high": 3500
    },
    "icon": "icons/slime-gel.png"
   },
@@ -7159,16 +7243,16 @@
    "id": "lumber-mill",
    "name": "Lumber Mill III",
    "category": "Machines",
-   "value": 800000,
+   "value": 760000,
    "demand": 9,
    "source": "Tier 3 lumber mill. Tier I and II were sold out",
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 1100000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 12,
+    "sell": 1025000,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -7259,6 +7343,18 @@
       "p": 500000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 680000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 950000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -7270,6 +7366,10 @@
     {
      "d": "2026-11-20",
      "v": 800000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 760000
     }
    ],
    "range": {
@@ -7289,9 +7389,9 @@
    "market": {
     "buy": 150000,
     "sell": 217500,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -7412,6 +7512,12 @@
       "p": 150000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 200000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -7561,16 +7667,16 @@
    "id": "splitter",
    "name": "Splitter",
    "category": "Machines",
-   "value": 4750,
-   "demand": 7,
+   "value": 4600,
+   "demand": 8,
    "source": "Conveyor splitter",
    "verified": true,
    "market": {
-    "buy": 3710,
+    "buy": 3500,
     "sell": 5750,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -7709,6 +7815,12 @@
       "p": 4750,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -7727,7 +7839,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 4750
+     "v": 4600
     }
    ],
    "range": {
@@ -7740,16 +7852,16 @@
    "id": "conveyor-left",
    "name": "Conveyor Left",
    "category": "Machines",
-   "value": 3000,
-   "demand": 7,
+   "value": 3100,
+   "demand": 9,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
-    "buy": 2250,
+    "buy": 2500,
     "sell": 3718,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -7888,6 +8000,12 @@
       "p": 2000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -7906,7 +8024,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3000
+     "v": 3100
     }
    ],
    "range": {
@@ -7919,16 +8037,16 @@
    "id": "conveyor-right",
    "name": "Conveyor Right",
    "category": "Machines",
-   "value": 3000,
-   "demand": 7,
+   "value": 3250,
+   "demand": 8,
    "source": "Conveyor turn",
    "verified": true,
    "market": {
-    "buy": 2250,
-    "sell": 3718,
-    "buyers": 2,
-    "sellers": 2,
-    "islands": 14,
+    "buy": 2500,
+    "sell": 4000,
+    "buyers": 3,
+    "sellers": 3,
+    "islands": 15,
     "listings": [
      {
       "t": "sell",
@@ -8061,6 +8179,18 @@
       "p": 2000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -8075,12 +8205,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3000
+     "v": 3250
     }
    ],
    "range": {
     "low": 2000,
-    "high": 4000
+    "high": 5000
    },
    "icon": "icons/conveyor-right.png"
   },
@@ -8238,16 +8368,16 @@
    "id": "arcane-ballista",
    "name": "Arcane Ballista",
    "category": "Machines",
-   "value": 1310000,
+   "value": 1400000,
    "demand": 10,
    "source": "Arcane defense. Every listing was sold out",
    "verified": true,
    "market": {
-    "buy": 1125000,
-    "sell": 1500000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 16,
+    "buy": 1150000,
+    "sell": 1650000,
+    "buyers": 5,
+    "sellers": 4,
+    "islands": 17,
     "listings": [
      {
       "t": "sell",
@@ -8398,6 +8528,18 @@
       "p": 1000000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1200000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2000000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -8416,12 +8558,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1310000
+     "v": 1400000
     }
    ],
    "range": {
     "low": 1000000,
-    "high": 1800000
+    "high": 2000000
    },
    "icon": "icons/arcane-ballista.png"
   },
@@ -10610,16 +10752,16 @@
    "id": "onion-harvester",
    "name": "Onion Harvester",
    "category": "Machines",
-   "value": 35500,
-   "demand": 8,
+   "value": 36000,
+   "demand": 10,
    "source": "Auto-harvests onions",
    "verified": true,
    "market": {
-    "buy": 31000,
+    "buy": 32000,
     "sell": 39999,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -10704,6 +10846,12 @@
       "p": 30000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 34000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -10718,7 +10866,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 35500
+     "v": 36000
     }
    ],
    "range": {
@@ -10731,16 +10879,16 @@
    "id": "tomato-harvester",
    "name": "Tomato Harvester",
    "category": "Machines",
-   "value": 15500,
-   "demand": 7,
+   "value": 16500,
+   "demand": 9,
    "source": "Auto-harvests tomatoes",
    "verified": true,
    "market": {
-    "buy": 12000,
+    "buy": 14000,
     "sell": 18750,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -10825,6 +10973,12 @@
       "p": 10000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 15000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -10839,7 +10993,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 15500
+     "v": 16500
     }
    ],
    "range": {
@@ -10852,16 +11006,16 @@
    "id": "carrot-harvester",
    "name": "Carrot Harvester",
    "category": "Machines",
-   "value": 8350,
-   "demand": 9,
+   "value": 8300,
+   "demand": 10,
    "source": "Auto-harvests carrots",
    "verified": true,
    "market": {
-    "buy": 6666,
+    "buy": 6583,
     "sell": 9999,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -10958,6 +11112,12 @@
       "p": 6666,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 6500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -10976,7 +11136,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 8350
+     "v": 8300
     }
    ],
    "range": {
@@ -11121,15 +11281,15 @@
    "name": "Lumber Mill I",
    "category": "Machines",
    "value": 13000,
-   "demand": 8,
+   "demand": 9,
    "source": "Tier 1 lumber mill",
    "verified": true,
    "market": {
-    "buy": 11000,
+    "buy": 10500,
     "sell": 15000,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 15,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -11262,6 +11422,18 @@
       "p": 9000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -11293,16 +11465,16 @@
    "id": "stone-drill-i",
    "name": "Stone Drill I",
    "category": "Machines",
-   "value": 11000,
+   "value": 12500,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 9500,
+    "buy": 11000,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -11357,6 +11529,12 @@
       "p": 8000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 17000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -11368,11 +11546,15 @@
     {
      "d": "2026-11-20",
      "v": 11000
+    },
+    {
+     "d": "2026-11-22",
+     "v": 12500
     }
    ],
    "range": {
     "low": 8000,
-    "high": 11000
+    "high": 17000
    },
    "icon": "icons/stone-drill-i.png"
   },
@@ -11380,16 +11562,16 @@
    "id": "coal-drill-i",
    "name": "Coal Drill I",
    "category": "Machines",
-   "value": 14500,
+   "value": 16000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 12500,
+    "buy": 14000,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -11432,6 +11614,12 @@
       "p": 10000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 14000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -11450,7 +11638,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 14500
+     "v": 16000
     }
    ],
    "range": {
@@ -11463,16 +11651,16 @@
    "id": "clay-drill-i",
    "name": "Clay Drill I",
    "category": "Machines",
-   "value": 19000,
-   "demand": 8,
+   "value": 20000,
+   "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 16000,
+    "buy": 17500,
     "sell": 22000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -11551,6 +11739,12 @@
       "p": 14000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 17500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -11565,7 +11759,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 19000
+     "v": 20000
     }
    ],
    "range": {
@@ -11578,16 +11772,16 @@
    "id": "sand-drill-i",
    "name": "Sand Drill I",
    "category": "Machines",
-   "value": 19000,
-   "demand": 8,
+   "value": 20000,
+   "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 16000,
+    "buy": 17500,
     "sell": 22000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 7,
+    "islands": 8,
     "listings": [
      {
       "t": "buy",
@@ -11666,6 +11860,12 @@
       "p": 14000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 17500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -11680,7 +11880,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 19000
+     "v": 20000
     }
    ],
    "range": {
@@ -11693,16 +11893,16 @@
    "id": "overflow-chest",
    "name": "Overflow Chest",
    "category": "Machines",
-   "value": 4250,
+   "value": 4200,
    "demand": 8,
    "source": "Storage",
    "verified": true,
    "market": {
-    "buy": 3500,
-    "sell": 5000,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 15,
+    "buy": 3125,
+    "sell": 5250,
+    "buyers": 4,
+    "sellers": 4,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -11853,6 +12053,18 @@
       "p": 4250,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 6000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -11871,12 +12083,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 4250
+     "v": 4200
     }
    ],
    "range": {
-    "low": 2750,
-    "high": 5500
+    "low": 2000,
+    "high": 6000
    },
    "icon": "icons/overflow-chest.png"
   },
@@ -13478,16 +13690,16 @@
    "id": "conveyor",
    "name": "Conveyor",
    "category": "Machines",
-   "value": 3300,
-   "demand": 8,
+   "value": 3350,
+   "demand": 7,
    "source": "Straight conveyor",
    "verified": true,
    "market": {
     "buy": 2850,
-    "sell": 3750,
+    "sell": 3875,
     "buyers": 3,
-    "sellers": 3,
-    "islands": 15,
+    "sellers": 4,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -13626,6 +13838,12 @@
       "p": 2000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 5000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -13644,12 +13862,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3300
+     "v": 3350
     }
    ],
    "range": {
     "low": 2000,
-    "high": 4000
+    "high": 5000
    },
    "icon": "icons/conveyor.png"
   },
@@ -14475,16 +14693,16 @@
    "id": "arcane-table",
    "name": "Arcane Table",
    "category": "Machines",
-   "value": 3560000,
+   "value": 3500000,
    "demand": 10,
    "source": "Arcane crafting station",
    "verified": true,
    "market": {
-    "buy": 2875000,
+    "buy": 2750000,
     "sell": 4250000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -14635,6 +14853,12 @@
       "p": 3000000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2600000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -14653,7 +14877,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3560000
+     "v": 3500000
     }
    ],
    "range": {
@@ -14666,16 +14890,16 @@
    "id": "ballista-bolt",
    "name": "Ballista Bolt",
    "category": "Materials",
-   "value": 175,
-   "demand": 4,
+   "value": 75,
+   "demand": 6,
    "source": "Ammo for the Arcane Ballista",
    "verified": true,
    "market": {
     "buy": 50,
-    "sell": 300,
+    "sell": 100,
     "buyers": 1,
-    "sellers": 2,
-    "islands": 2,
+    "sellers": 1,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -14688,6 +14912,18 @@
       "p": 50,
       "n": 1,
       "where": "Red-floor shop, island 7 (2026-11-19)"
+     },
+     {
+      "t": "buy",
+      "p": 50,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 100,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -14699,11 +14935,15 @@
     {
      "d": "2026-11-19",
      "v": 175
+    },
+    {
+     "d": "2026-11-22",
+     "v": 75
     }
    ],
    "range": {
     "low": 50,
-    "high": 300
+    "high": 100
    },
    "icon": "icons/ballista-bolt.png"
   },
@@ -16315,15 +16555,15 @@
    "name": "Lumber Mill II",
    "category": "Machines",
    "value": 105000,
-   "demand": 8,
+   "demand": 10,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
-    "buy": 80000,
+    "buy": 82500,
     "sell": 130000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -16390,6 +16630,12 @@
       "p": 80000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 85000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -16681,16 +16927,16 @@
    "id": "sylvan-bow",
    "name": "Sylvan Bow",
    "category": "Gear",
-   "value": 50000,
-   "demand": 7,
+   "value": 42500,
+   "demand": 8,
    "source": "Bow. Between Basic and Soulfire",
    "verified": true,
    "market": {
-    "buy": 30000,
-    "sell": 69999,
-    "buyers": 2,
-    "sellers": 1,
-    "islands": 4,
+    "buy": 25000,
+    "sell": 60000,
+    "buyers": 3,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -16727,6 +16973,18 @@
       "p": 35000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 20000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 50000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -16741,11 +16999,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 50000
+     "v": 42500
     }
    ],
    "range": {
-    "low": 25000,
+    "low": 20000,
     "high": 69999
    }
   },
@@ -16753,16 +17011,16 @@
    "id": "arrow",
    "name": "Arrow",
    "category": "Materials",
-   "value": 110,
+   "value": 65,
    "demand": 6,
    "source": "Ammo for bows. Fletching Machine",
    "verified": true,
    "market": {
-    "buy": 75,
-    "sell": 145,
-    "buyers": 1,
-    "sellers": 1,
-    "islands": 2,
+    "buy": 42,
+    "sell": 88,
+    "buyers": 2,
+    "sellers": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -16787,6 +17045,18 @@
       "p": 75,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 10,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 30,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -16797,11 +17067,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 110
+     "v": 65
     }
    ],
    "range": {
-    "low": 75,
+    "low": 10,
     "high": 145
    }
   },
@@ -18504,15 +18774,15 @@
    "name": "Iron Axe",
    "category": "Gear",
    "value": 2750,
-   "demand": 4,
+   "demand": 6,
    "source": "Workbench: Iron Ingot",
    "verified": true,
    "market": {
     "buy": 500,
     "sell": 5000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -18525,6 +18795,12 @@
       "p": 500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -18544,15 +18820,15 @@
    "name": "Iron Pickaxe",
    "category": "Gear",
    "value": 2750,
-   "demand": 4,
+   "demand": 6,
    "source": "Workbench: Iron Ingot. Needed for Ruins gold",
    "verified": true,
    "market": {
     "buy": 500,
     "sell": 5000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -18565,6 +18841,12 @@
       "p": 500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -18583,16 +18865,16 @@
    "id": "iron-sword",
    "name": "Iron Sword",
    "category": "Gear",
-   "value": 2750,
+   "value": 1700,
    "demand": 4,
    "source": "Workbench: Iron Ingot",
    "verified": true,
    "market": {
     "buy": 500,
-    "sell": 5000,
+    "sell": 2900,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 1,
+    "sellers": 2,
+    "islands": 2,
     "listings": [
      {
       "t": "sell",
@@ -18605,13 +18887,19 @@
       "p": 500,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 800,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 2750
+     "v": 1700
     }
    ],
    "range": {
@@ -18729,15 +19017,15 @@
    "name": "Arcane Hopper",
    "category": "Machines",
    "value": 820000,
-   "demand": 8,
+   "demand": 9,
    "source": "Anything that falls in goes straight to your backpack",
    "verified": true,
    "market": {
-    "buy": 655000,
+    "buy": 650000,
     "sell": 990000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -18756,6 +19044,12 @@
       "p": 600000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 650000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
@@ -18832,16 +19126,16 @@
    "id": "bulk-vending-machine",
    "name": "Bulk Vending Machine",
    "category": "Machines",
-   "value": 490000,
-   "demand": 6,
+   "value": 480000,
+   "demand": 8,
    "source": "Sells up to 100,000 of one item, including machine/weapon/tool stacks",
    "verified": true,
    "market": {
-    "buy": 387500,
+    "buy": 375000,
     "sell": 589500,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 3,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "sell",
@@ -18872,17 +19166,23 @@
       "p": 589500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "Red/dark-stone shop (2026-11-22)"
      }
     ]
    },
    "history": [
     {
      "d": "2026-11-22",
-     "v": 490000
+     "v": 480000
     }
    ],
    "range": {
-    "low": 375000,
+    "low": 300000,
     "high": 600000
    }
   },
