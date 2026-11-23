@@ -199,16 +199,16 @@
    "id": "goldbone-pickaxe",
    "name": "Goldbone Pickaxe",
    "category": "Gear",
-   "value": 1240000,
-   "demand": 9,
+   "value": 1175000,
+   "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast gold mining",
    "verified": true,
    "market": {
-    "buy": 1000000,
+    "buy": 875000,
     "sell": 1475000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -341,6 +341,12 @@
       "p": 715000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 750000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -359,7 +365,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1240000
+     "v": 1175000
     }
    ],
    "range": {
@@ -372,16 +378,16 @@
    "id": "goldbone-sword",
    "name": "Goldbone Sword",
    "category": "Gear",
-   "value": 1060000,
-   "demand": 8,
+   "value": 1125000,
+   "demand": 7,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
     "buy": 800000,
-    "sell": 1325000,
+    "sell": 1450000,
     "buyers": 3,
-    "sellers": 2,
-    "islands": 15,
+    "sellers": 3,
+    "islands": 16,
     "listings": [
      {
       "t": "sell",
@@ -520,6 +526,12 @@
       "p": 715000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1499999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -538,12 +550,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1060000
+     "v": 1125000
     }
    ],
    "range": {
     "low": 715000,
-    "high": 1450000
+    "high": 1499999
    },
    "icon": "icons/goldbone-sword.png",
    "note": "Asking price was partly cut off in the screenshot; double-check 825K."
@@ -552,16 +564,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 500000,
-   "demand": 9,
+   "value": 575000,
+   "demand": 8,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
     "buy": 400000,
-    "sell": 600000,
+    "sell": 750000,
     "buyers": 3,
-    "sellers": 1,
-    "islands": 19,
+    "sellers": 2,
+    "islands": 20,
     "listings": [
      {
       "t": "buy",
@@ -748,6 +760,12 @@
       "p": 415000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 899999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -762,12 +780,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 500000
+     "v": 575000
     }
    ],
    "range": {
     "low": 400000,
-    "high": 600000
+    "high": 899999
    },
    "icon": "icons/soul-scepter.png"
   },
@@ -775,16 +793,16 @@
    "id": "soulfire-bow",
    "name": "Soulfire Bow",
    "category": "Gear",
-   "value": 745000,
+   "value": 750000,
    "demand": 9,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
     "buy": 600000,
-    "sell": 887500,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 19,
+    "sell": 900000,
+    "buyers": 4,
+    "sellers": 3,
+    "islands": 20,
     "listings": [
      {
       "t": "sell",
@@ -983,6 +1001,18 @@
       "p": 615000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 999999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -1001,12 +1031,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 745000
+     "v": 750000
     }
    ],
    "range": {
-    "low": 600000,
-    "high": 900000
+    "low": 500000,
+    "high": 999999
    },
    "icon": "icons/soulfire-bow.png",
    "note": "Island-1 bid was partly cut off; 345K is a best read. Island 2 bid 400K."
@@ -1521,16 +1551,16 @@
    "id": "purple-slime-gel",
    "name": "Purple Slime Gel",
    "category": "Materials",
-   "value": 455000,
-   "demand": 6,
+   "value": 460000,
+   "demand": 7,
    "source": "Dropped by Slime Kings (previously dev-spawned only)",
    "verified": true,
    "market": {
-    "buy": 237500,
+    "buy": 250000,
     "sell": 675000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 21,
+    "islands": 22,
     "listings": [
      {
       "t": "buy",
@@ -1717,6 +1747,12 @@
       "p": 225000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -1735,7 +1771,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 455000
+     "v": 460000
     }
    ],
    "range": {
@@ -1749,16 +1785,16 @@
    "id": "pink-slime-gel",
    "name": "Pink Slime Gel",
    "category": "Materials",
-   "value": 42000,
-   "demand": 8,
+   "value": 41000,
+   "demand": 9,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 32500,
+    "buy": 31250,
     "sell": 51000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 3,
-    "islands": 26,
+    "islands": 27,
     "listings": [
      {
       "t": "sell",
@@ -2017,6 +2053,12 @@
       "p": 32500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2031,11 +2073,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 42000
+     "v": 41000
     }
    ],
    "range": {
-    "low": 30000,
+    "low": 25000,
     "high": 52500
    },
    "icon": "icons/pink-slime-gel.png"
@@ -2044,16 +2086,16 @@
    "id": "orange-slime-gel",
    "name": "Orange Slime Gel",
    "category": "Materials",
-   "value": 32500,
-   "demand": 8,
+   "value": 32000,
+   "demand": 9,
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 21500,
+    "buy": 20750,
     "sell": 43750,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 27,
+    "islands": 28,
     "listings": [
      {
       "t": "sell",
@@ -2306,6 +2348,12 @@
       "p": 21500,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 15000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2324,11 +2372,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 32500
+     "v": 32000
     }
    ],
    "range": {
-    "low": 20000,
+    "low": 15000,
     "high": 47500
    },
    "icon": "icons/orange-slime-gel.png",
@@ -2338,16 +2386,16 @@
    "id": "slime-gel",
    "name": "Slime Gel",
    "category": "Materials",
-   "value": 2300,
+   "value": 2350,
    "demand": 10,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1775,
-    "sell": 2874,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 25,
+    "buy": 1750,
+    "sell": 2999,
+    "buyers": 5,
+    "sellers": 3,
+    "islands": 26,
     "listings": [
      {
       "t": "sell",
@@ -2564,6 +2612,18 @@
       "p": 1625,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2578,11 +2638,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 2300
+     "v": 2350
     }
    ],
    "range": {
-    "low": 1625,
+    "low": 1500,
     "high": 2999
    },
    "icon": "icons/slime-gel.png"
@@ -2591,16 +2651,16 @@
    "id": "blue-slime-gel",
    "name": "Blue Slime Gel",
    "category": "Materials",
-   "value": 2000,
-   "demand": 7,
+   "value": 1950,
+   "demand": 8,
    "source": "Blue Slime (85 HP)",
    "verified": true,
    "market": {
-    "buy": 1562,
+    "buy": 1500,
     "sell": 2400,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 25,
+    "islands": 26,
     "listings": [
      {
       "t": "buy",
@@ -2859,6 +2919,12 @@
       "p": 1625,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1250,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -2877,11 +2943,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 2000
+     "v": 1950
     }
    ],
    "range": {
-    "low": 1500,
+    "low": 1250,
     "high": 2550
    },
    "icon": "icons/blue-slime-gel.png"
@@ -2895,11 +2961,11 @@
    "source": "Skeletons in the Ruins",
    "verified": true,
    "market": {
-    "buy": 875,
+    "buy": 850,
     "sell": 1500,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 18,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -3092,6 +3158,12 @@
       "p": 850,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 750,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -3124,16 +3196,16 @@
    "id": "candy-corn",
    "name": "Candy Corn",
    "category": "Materials",
-   "value": 1400,
-   "demand": 6,
+   "value": 1500,
+   "demand": 8,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
-    "buy": 800,
+    "buy": 1000,
     "sell": 2000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "sell",
@@ -3260,6 +3332,12 @@
       "p": 1000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -3274,7 +3352,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 1400
+     "v": 1500
     }
    ],
    "range": {
@@ -3288,15 +3366,15 @@
    "name": "Golden Bread",
    "category": "Food",
    "value": 63000,
-   "demand": 9,
+   "demand": 10,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 51250,
+    "buy": 50625,
     "sell": 75000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 1,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -3375,6 +3453,12 @@
       "p": 51250,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -3397,7 +3481,7 @@
     }
    ],
    "range": {
-    "low": 50000,
+    "low": 25000,
     "high": 75000
    },
    "recipe": {
@@ -3417,16 +3501,16 @@
    "id": "jumbo-berry-pie",
    "name": "Jumbo Berry Pie",
    "category": "Food",
-   "value": 7500,
-   "demand": 9,
+   "value": 7050,
+   "demand": 10,
    "source": "Industrial Cooker: Jumbo Berry. 50 HP + 50% bigger",
    "verified": true,
    "market": {
-    "buy": 6750,
+    "buy": 5875,
     "sell": 8250,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "sell",
@@ -3493,6 +3577,12 @@
       "p": 6750,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -3511,7 +3601,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 7500
+     "v": 7050
     }
    ],
    "range": {
@@ -4601,15 +4691,15 @@
    "name": "Gold Ore",
    "category": "Ores & Ingots",
    "value": 6300,
-   "demand": 9,
+   "demand": 8,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
     "buy": 5125,
-    "sell": 7475,
+    "sell": 7500,
     "buyers": 4,
-    "sellers": 4,
-    "islands": 19,
+    "sellers": 5,
+    "islands": 20,
     "listings": [
      {
       "t": "sell",
@@ -4808,6 +4898,12 @@
       "p": 5250,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -4831,7 +4927,7 @@
    ],
    "range": {
     "low": 4500,
-    "high": 7500
+    "high": 9999
    },
    "icon": "icons/gold-ore.png"
   },
@@ -9182,16 +9278,16 @@
    "id": "morten-chestplate",
    "name": "Morten Chestplate",
    "category": "Gear",
-   "value": 4990000,
-   "demand": 8,
+   "value": 4975000,
+   "demand": 9,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 4025000,
+    "buy": 4000000,
     "sell": 5950000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -9294,6 +9390,12 @@
       "p": 4050000,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9312,11 +9414,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 4990000
+     "v": 4975000
     }
    ],
    "range": {
-    "low": 4000000,
+    "low": 3000000,
     "high": 5950000
    },
    "icon": "icons/morten-chestplate.png"
@@ -9487,15 +9589,15 @@
    "name": "Morten Boots",
    "category": "Gear",
    "value": 500000,
-   "demand": 9,
+   "demand": 10,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
     "buy": 400000,
     "sell": 600000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 1,
-    "islands": 15,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -9628,6 +9730,12 @@
       "p": 407500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9650,7 +9758,7 @@
     }
    ],
    "range": {
-    "low": 400000,
+    "low": 300000,
     "high": 600000
    },
    "icon": "icons/morten-boots.png"
@@ -9659,16 +9767,16 @@
    "id": "morten-cape",
    "name": "Morten Cape",
    "category": "Gear",
-   "value": 62000,
-   "demand": 8,
+   "value": 63500,
+   "demand": 10,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 45000,
+    "buy": 47500,
     "sell": 79375,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -9807,6 +9915,12 @@
       "p": 62500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -9825,7 +9939,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 62000
+     "v": 63500
     }
    ],
    "range": {
@@ -9838,16 +9952,16 @@
    "id": "morten-mask",
    "name": "Morten Mask",
    "category": "Gear",
-   "value": 65500,
-   "demand": 7,
+   "value": 64500,
+   "demand": 9,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 51250,
+    "buy": 50000,
     "sell": 79375,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -9986,6 +10100,12 @@
       "p": 62500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10004,7 +10124,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 65500
+     "v": 64500
     }
    ],
    "range": {
@@ -10646,16 +10766,16 @@
    "id": "lumber-mill-i",
    "name": "Lumber Mill I",
    "category": "Machines",
-   "value": 13500,
-   "demand": 8,
+   "value": 16000,
+   "demand": 7,
    "source": "Tier 1 lumber mill",
    "verified": true,
    "market": {
     "buy": 11750,
-    "sell": 15000,
+    "sell": 20000,
     "buyers": 2,
-    "sellers": 1,
-    "islands": 13,
+    "sellers": 2,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -10770,6 +10890,12 @@
       "p": 12500,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 24999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -10785,11 +10911,15 @@
     {
      "d": "2026-11-20",
      "v": 13500
+    },
+    {
+     "d": "2026-11-22",
+     "v": 16000
     }
    ],
    "range": {
     "low": 11000,
-    "high": 15000
+    "high": 24999
    },
    "icon": "icons/lumber-mill-i.png"
   },
@@ -14574,16 +14704,16 @@
    "id": "dv-plush",
    "name": "DV Plush",
    "category": "Gear",
-   "value": 14000000,
-   "demand": 8,
+   "value": 13000000,
+   "demand": 9,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
     "buy": 8000000,
-    "sell": 20000000,
-    "buyers": 3,
-    "sellers": 1,
-    "islands": 12,
+    "sell": 18000000,
+    "buyers": 4,
+    "sellers": 2,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -14698,6 +14828,18 @@
       "p": 8050000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 15999999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8000000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -14716,7 +14858,7 @@
     },
     {
      "d": "2026-11-22",
-     "v": 14000000
+     "v": 13000000
     }
    ],
    "range": {
@@ -14728,16 +14870,16 @@
    "id": "yellow-shiny",
    "name": "Yellow Shiny (any)",
    "category": "Flowers",
-   "value": 76000,
-   "demand": 10,
+   "value": 110000,
+   "demand": 6,
    "source": "Solar, Sunburst, Corona, Radiant, Dawn, Zenith. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 52500,
-    "sell": 100000,
-    "buyers": 12,
-    "sellers": 12,
-    "islands": 5,
+    "buy": 75000,
+    "sell": 149999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -14792,6 +14934,18 @@
       "p": 100000,
       "n": 6,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 149999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 75000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -14810,12 +14964,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 76000
+     "v": 110000
     }
    ],
    "range": {
-    "low": 50000,
-    "high": 100000
+    "low": 75000,
+    "high": 149999
    },
    "icon": "icons/yellow-shiny.png"
   },
@@ -14823,16 +14977,16 @@
    "id": "red-shiny",
    "name": "Red Shiny (any)",
    "category": "Flowers",
-   "value": 7500,
-   "demand": 10,
+   "value": 11000,
+   "demand": 6,
    "source": "Phoenix, Inferno, Cinder, Blaze, Magma, Ember. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 5000,
-    "sell": 10000,
-    "buyers": 6,
-    "sellers": 6,
-    "islands": 4,
+    "buy": 7500,
+    "sell": 14999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -14881,6 +15035,18 @@
       "p": 10000,
       "n": 6,
       "where": "DV_Economy's market, island 16 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 14999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 7500,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -14899,12 +15065,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 7500
+     "v": 11000
     }
    ],
    "range": {
-    "low": 5000,
-    "high": 10000
+    "low": 7500,
+    "high": 14999
    },
    "icon": "icons/red-shiny.png"
   },
@@ -14912,16 +15078,16 @@
    "id": "blue-shiny",
    "name": "Blue Shiny (any)",
    "category": "Flowers",
-   "value": 1050,
-   "demand": 10,
+   "value": 2000,
+   "demand": 5,
    "source": "Midnight, Ocean, Electric, Fiery, Frozen, Storm. Bred from flowers",
    "verified": true,
    "market": {
-    "buy": 375,
-    "sell": 1750,
-    "buyers": 12,
-    "sellers": 12,
-    "islands": 3,
+    "buy": 1000,
+    "sell": 2999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -14958,6 +15124,18 @@
       "p": 1500,
       "n": 6,
       "where": "Yumi's checkerboard shop, island 12 (2026-11-19)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -14969,11 +15147,15 @@
     {
      "d": "2026-11-19",
      "v": 1050
+    },
+    {
+     "d": "2026-11-22",
+     "v": 2000
     }
    ],
    "range": {
-    "low": 250,
-    "high": 1999
+    "low": 1000,
+    "high": 2999
    },
    "icon": "icons/blue-shiny.png"
   },
@@ -15408,16 +15590,16 @@
    "id": "slime-soup",
    "name": "Slime Soup",
    "category": "Food",
-   "value": 3750,
-   "demand": 6,
+   "value": 5100,
+   "demand": 5,
    "source": "Industrial Cooker: Slime Gel",
    "verified": true,
    "market": {
     "buy": 3000,
-    "sell": 4500,
+    "sell": 7250,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 3,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -15448,6 +15630,12 @@
       "p": 3000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -15462,12 +15650,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 3750
+     "v": 5100
     }
    ],
    "range": {
     "low": 3000,
-    "high": 4500
+    "high": 9999
    }
   },
   {
@@ -15995,16 +16183,16 @@
    "id": "sylvan-bow",
    "name": "Sylvan Bow",
    "category": "Gear",
-   "value": 35000,
-   "demand": 6,
+   "value": 50000,
+   "demand": 7,
    "source": "Bow. Between Basic and Soulfire",
    "verified": true,
    "market": {
-    "buy": 25000,
-    "sell": 45000,
-    "buyers": 1,
+    "buy": 30000,
+    "sell": 69999,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -16029,6 +16217,18 @@
       "p": 25000,
       "n": 1,
       "where": "Post-update hub (Bulk Vending), island 23 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 69999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
@@ -16043,12 +16243,12 @@
     },
     {
      "d": "2026-11-22",
-     "v": 35000
+     "v": 50000
     }
    ],
    "range": {
     "low": 25000,
-    "high": 45000
+    "high": 69999
    }
   },
   {
@@ -16171,16 +16371,16 @@
    "id": "rocket-carrot",
    "name": "Rocket Carrot",
    "category": "Crops",
-   "value": 75000,
-   "demand": 6,
+   "value": 66000,
+   "demand": 7,
    "source": "Rare carrot harvest",
    "verified": true,
    "market": {
-    "buy": 60000,
+    "buy": 42500,
     "sell": 90000,
-    "buyers": 1,
+    "buyers": 2,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -16205,6 +16405,12 @@
       "p": 60000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -16215,11 +16421,11 @@
     },
     {
      "d": "2026-11-22",
-     "v": 75000
+     "v": 66000
     }
    ],
    "range": {
-    "low": 60000,
+    "low": 25000,
     "high": 90000
    }
   },
@@ -16227,16 +16433,16 @@
    "id": "bluetato",
    "name": "Bluetato",
    "category": "Crops",
-   "value": 3250,
+   "value": 3750,
    "demand": 6,
    "source": "Rare potato harvest",
    "verified": true,
    "market": {
     "buy": 2500,
-    "sell": 4000,
+    "sell": 4999,
     "buyers": 1,
     "sellers": 1,
-    "islands": 1,
+    "islands": 2,
     "listings": [
      {
       "t": "buy",
@@ -16249,6 +16455,18 @@
       "p": 4000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "sell",
+      "p": 4999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Ice-block shiny & food shop (2026-11-22)"
      }
     ]
    },
@@ -16256,11 +16474,15 @@
     {
      "d": "2026-11-20",
      "v": 3250
+    },
+    {
+     "d": "2026-11-22",
+     "v": 3750
     }
    ],
    "range": {
     "low": 2500,
-    "high": 4000
+    "high": 4999
    }
   },
   {
@@ -17832,15 +18054,15 @@
    "name": "Dumbphone",
    "category": "Gear",
    "value": 7500000,
-   "demand": 9,
+   "demand": 8,
    "source": "Limited item as of the 11-22 update; no more are being given out",
    "verified": true,
    "market": {
     "buy": 5000000,
     "sell": 10000000,
     "buyers": 3,
-    "sellers": 1,
-    "islands": 3,
+    "sellers": 2,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -17865,6 +18087,12 @@
       "p": 5050000,
       "n": 1,
       "where": "Stone-wall shop evening recheck, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999999,
+      "n": 1,
+      "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
      }
     ]
    },
