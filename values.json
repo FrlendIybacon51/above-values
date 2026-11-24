@@ -1,23 +1,23 @@
 {
  "game": "ABOVE",
  "currency": "coins",
- "updated": "2026-11-22",
+ "updated": "2026-11-24",
  "note": "Values come from player vending machines. buy = what machines pay you, sell = what machines charge. Value = midpoint of the median bid and median ask across every island surveyed. Demand = market signal from how many machines are buying vs selling and how tight the spread is.",
  "items": [
   {
    "id": "goldbone-axe",
    "name": "Goldbone Axe",
    "category": "Gear",
-   "value": 1420000,
+   "value": 1390000,
    "demand": 10,
    "source": "Forge: Gold Ingot + Bone. Fast chopping",
    "verified": true,
    "market": {
-    "buy": 1100000,
+    "buy": 1050000,
     "sell": 1735000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 2,
-    "islands": 21,
+    "islands": 22,
     "listings": [
      {
       "t": "sell",
@@ -186,6 +186,12 @@
       "p": 1000000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 750000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -205,6 +211,10 @@
     {
      "d": "2026-11-22",
      "v": 1420000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 1390000
     }
    ],
    "range": {
@@ -224,9 +234,9 @@
    "market": {
     "buy": 1000000,
     "sell": 1475000,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 2,
-    "islands": 18,
+    "islands": 19,
     "listings": [
      {
       "t": "sell",
@@ -377,6 +387,12 @@
       "p": 1000000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 750000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -408,16 +424,16 @@
    "id": "goldbone-sword",
    "name": "Goldbone Sword",
    "category": "Gear",
-   "value": 1190000,
-   "demand": 8,
+   "value": 1125000,
+   "demand": 6,
    "source": "Forge: Gold Ingot + Bone",
    "verified": true,
    "market": {
-    "buy": 900000,
-    "sell": 1475000,
-    "buyers": 4,
-    "sellers": 4,
-    "islands": 17,
+    "buy": 750000,
+    "sell": 1499999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 18,
     "listings": [
      {
       "t": "sell",
@@ -574,6 +590,18 @@
       "p": 1000000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1499999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 750000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -593,11 +621,15 @@
     {
      "d": "2026-11-22",
      "v": 1190000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 1125000
     }
    ],
    "range": {
-    "low": 715000,
-    "high": 1500000
+    "low": 750000,
+    "high": 1499999
    },
    "icon": "icons/goldbone-sword.png",
    "note": "Asking price was partly cut off in the screenshot; double-check 825K."
@@ -606,16 +638,16 @@
    "id": "soul-scepter",
    "name": "Soul Scepter",
    "category": "Gear",
-   "value": 570000,
-   "demand": 10,
+   "value": 675000,
+   "demand": 6,
    "source": "Forge: 25 Bone + 10 Gold Ingot + 10 Soul Crystal",
    "verified": true,
    "market": {
-    "buy": 415000,
-    "sell": 725000,
-    "buyers": 5,
-    "sellers": 4,
-    "islands": 22,
+    "buy": 450000,
+    "sell": 899999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 23,
     "listings": [
      {
       "t": "buy",
@@ -832,6 +864,18 @@
       "p": 700000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 899999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 450000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -847,10 +891,14 @@
     {
      "d": "2026-11-22",
      "v": 570000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 675000
     }
    ],
    "range": {
-    "low": 400000,
+    "low": 450000,
     "high": 899999
    },
    "icon": "icons/soul-scepter.png"
@@ -860,15 +908,15 @@
    "name": "Soulfire Bow",
    "category": "Gear",
    "value": 750000,
-   "demand": 10,
+   "demand": 6,
    "source": "Forge, uses Soul Crystals. Hold to charge",
    "verified": true,
    "market": {
-    "buy": 600000,
-    "sell": 900000,
-    "buyers": 6,
-    "sellers": 3,
-    "islands": 22,
+    "buy": 500000,
+    "sell": 999999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 23,
     "listings": [
      {
       "t": "sell",
@@ -1091,6 +1139,18 @@
       "p": 620000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 999999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -1128,11 +1188,11 @@
    "source": "Gold ore nodes, Skeletons, Morton",
    "verified": true,
    "market": {
-    "buy": 800000,
+    "buy": 797500,
     "sell": 1125000,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 4,
-    "islands": 23,
+    "islands": 24,
     "listings": [
      {
       "t": "buy",
@@ -1361,6 +1421,12 @@
       "p": 1100000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 600000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -1379,7 +1445,7 @@
     }
    ],
    "range": {
-    "low": 750000,
+    "low": 600000,
     "high": 1150000
    },
    "icon": "icons/gold-crystal.png"
@@ -1388,16 +1454,16 @@
    "id": "soul-crystal",
    "name": "Soul Crystal",
    "category": "Crystals",
-   "value": 40000,
+   "value": 39500,
    "demand": 10,
    "source": "Knights (rare), Morton boss",
    "verified": true,
    "market": {
-    "buy": 32500,
+    "buy": 31250,
     "sell": 47500,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 2,
-    "islands": 22,
+    "islands": 23,
     "listings": [
      {
       "t": "sell",
@@ -1626,6 +1692,12 @@
       "p": 55000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 30000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -1641,6 +1713,10 @@
     {
      "d": "2026-11-22",
      "v": 40000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 39500
     }
    ],
    "range": {
@@ -1653,16 +1729,16 @@
    "id": "purple-slime-gel",
    "name": "Purple Slime Gel",
    "category": "Materials",
-   "value": 455000,
-   "demand": 9,
+   "value": 375000,
+   "demand": 6,
    "source": "Dropped by Slime Kings (previously dev-spawned only)",
    "verified": true,
    "market": {
-    "buy": 237500,
-    "sell": 675000,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 23,
+    "buy": 250000,
+    "sell": 499999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 24,
     "listings": [
      {
       "t": "buy",
@@ -1861,6 +1937,18 @@
       "p": 200000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 499999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 250000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -1880,11 +1968,15 @@
     {
      "d": "2026-11-22",
      "v": 455000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 375000
     }
    ],
    "range": {
-    "low": 200000,
-    "high": 850000
+    "low": 250000,
+    "high": 499999
    },
    "icon": "icons/purple-slime-gel.png",
    "note": "Was admin-spawned only; Slime Kings started dropping it on 2026-11-20, so expect the price to fall. Bids already down to 150K at some shops."
@@ -1893,16 +1985,16 @@
    "id": "pink-slime-gel",
    "name": "Pink Slime Gel",
    "category": "Materials",
-   "value": 41000,
-   "demand": 9,
+   "value": 37500,
+   "demand": 6,
    "source": "Pink Slime (100 HP)",
    "verified": true,
    "market": {
-    "buy": 30000,
-    "sell": 52500,
-    "buyers": 5,
-    "sellers": 5,
-    "islands": 29,
+    "buy": 25000,
+    "sell": 49999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 30,
     "listings": [
      {
       "t": "sell",
@@ -2185,6 +2277,18 @@
       "p": 53900,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 49999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -2200,11 +2304,15 @@
     {
      "d": "2026-11-22",
      "v": 41000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 37500
     }
    ],
    "range": {
     "low": 25000,
-    "high": 60000
+    "high": 49999
    },
    "icon": "icons/pink-slime-gel.png"
   },
@@ -2217,11 +2325,11 @@
    "source": "Orange Slime (200 HP)",
    "verified": true,
    "market": {
-    "buy": 21500,
+    "buy": 20750,
     "sell": 44900,
-    "buyers": 5,
+    "buyers": 6,
     "sellers": 3,
-    "islands": 29,
+    "islands": 30,
     "listings": [
      {
       "t": "sell",
@@ -2492,6 +2600,12 @@
       "p": 44900,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 15000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -2524,16 +2638,16 @@
    "id": "slime-gel",
    "name": "Slime Gel",
    "category": "Materials",
-   "value": 2350,
-   "demand": 10,
+   "value": 2250,
+   "demand": 6,
    "source": "Green Slime in the Hub",
    "verified": true,
    "market": {
-    "buy": 1688,
+    "buy": 1500,
     "sell": 2999,
-    "buyers": 6,
-    "sellers": 5,
-    "islands": 28,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 29,
     "listings": [
      {
       "t": "sell",
@@ -2780,6 +2894,18 @@
       "p": 3500,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 1500,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -2795,11 +2921,15 @@
     {
      "d": "2026-11-22",
      "v": 2350
+    },
+    {
+     "d": "2026-11-24",
+     "v": 2250
     }
    ],
    "range": {
     "low": 1500,
-    "high": 3500
+    "high": 2999
    },
    "icon": "icons/slime-gel.png"
   },
@@ -2814,9 +2944,9 @@
    "market": {
     "buy": 1500,
     "sell": 2400,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 27,
+    "islands": 28,
     "listings": [
      {
       "t": "buy",
@@ -3087,6 +3217,12 @@
       "p": 1500,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1250,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -3118,16 +3254,16 @@
    "id": "bone",
    "name": "Bone",
    "category": "Materials",
-   "value": 1200,
-   "demand": 10,
+   "value": 1100,
+   "demand": 6,
    "source": "Skeletons in the Ruins",
    "verified": true,
    "market": {
-    "buy": 875,
-    "sell": 1500,
-    "buyers": 6,
-    "sellers": 3,
-    "islands": 20,
+    "buy": 750,
+    "sell": 1499,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 21,
     "listings": [
      {
       "t": "sell",
@@ -3338,6 +3474,18 @@
       "p": 1000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1499,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 750,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -3357,11 +3505,15 @@
     {
      "d": "2026-11-22",
      "v": 1200
+    },
+    {
+     "d": "2026-11-24",
+     "v": 1100
     }
    ],
    "range": {
     "low": 750,
-    "high": 1500
+    "high": 1499
    },
    "icon": "icons/bone.png",
    "note": "Asking price partly cut off; 2.5K inferred from the 1.6K bid."
@@ -3371,15 +3523,15 @@
    "name": "Candy Corn",
    "category": "Materials",
    "value": 1500,
-   "demand": 8,
+   "demand": 10,
    "source": "Halloween event drop",
    "verified": true,
    "market": {
     "buy": 1000,
     "sell": 2000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -3512,6 +3664,12 @@
       "p": 1000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -3539,16 +3697,16 @@
    "id": "golden-bread",
    "name": "Golden Bread",
    "category": "Food",
-   "value": 62500,
-   "demand": 10,
+   "value": 37500,
+   "demand": 6,
    "source": "Industrial Cooker. 2x rare harvest rate buff",
    "verified": true,
    "market": {
-    "buy": 50000,
-    "sell": 75000,
-    "buyers": 5,
-    "sellers": 2,
-    "islands": 10,
+    "buy": 25000,
+    "sell": 49999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 11,
     "listings": [
      {
       "t": "sell",
@@ -3645,6 +3803,18 @@
       "p": 50000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 49999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -3664,11 +3834,15 @@
     {
      "d": "2026-11-22",
      "v": 62500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 37500
     }
    ],
    "range": {
     "low": 25000,
-    "high": 75000
+    "high": 49999
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -3687,16 +3861,16 @@
    "id": "jumbo-berry-pie",
    "name": "Jumbo Berry Pie",
    "category": "Food",
-   "value": 6500,
-   "demand": 10,
+   "value": 7500,
+   "demand": 6,
    "source": "Industrial Cooker: Jumbo Berry. 50 HP + 50% bigger",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 8000,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 8,
+    "sell": 9999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 9,
     "listings": [
      {
       "t": "sell",
@@ -3781,6 +3955,18 @@
       "p": 5000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -3800,11 +3986,15 @@
     {
      "d": "2026-11-22",
      "v": 6500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 7500
     }
    ],
    "range": {
     "low": 5000,
-    "high": 8500
+    "high": 9999
    },
    "recipe": {
     "station": "Industrial Cooker",
@@ -4417,9 +4607,9 @@
    "market": {
     "buy": 400,
     "sell": 875,
-    "buyers": 6,
+    "buyers": 7,
     "sellers": 2,
-    "islands": 19,
+    "islands": 20,
     "listings": [
      {
       "t": "buy",
@@ -4600,6 +4790,12 @@
       "p": 400,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 350,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -4622,7 +4818,7 @@
     }
    ],
    "range": {
-    "low": 400,
+    "low": 350,
     "high": 1000
    },
    "icon": "icons/berry-bush-seed.png"
@@ -4906,16 +5102,16 @@
    "id": "gold-ore",
    "name": "Gold Ore",
    "category": "Ores & Ingots",
-   "value": 6250,
-   "demand": 9,
+   "value": 7500,
+   "demand": 6,
    "source": "Gold nodes in the Ruins (Iron Pickaxe+)",
    "verified": true,
    "market": {
     "buy": 5000,
-    "sell": 7500,
-    "buyers": 5,
-    "sellers": 5,
-    "islands": 21,
+    "sell": 9999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 22,
     "listings": [
      {
       "t": "sell",
@@ -5126,6 +5322,18 @@
       "p": 5000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -5141,10 +5349,14 @@
     {
      "d": "2026-11-20",
      "v": 6250
+    },
+    {
+     "d": "2026-11-24",
+     "v": 7500
     }
    ],
    "range": {
-    "low": 4500,
+    "low": 5000,
     "high": 9999
    },
    "icon": "icons/gold-ore.png"
@@ -7243,16 +7455,16 @@
    "id": "lumber-mill",
    "name": "Lumber Mill III",
    "category": "Machines",
-   "value": 760000,
+   "value": 800000,
    "demand": 9,
    "source": "Tier 3 lumber mill. Tier I and II were sold out",
    "verified": true,
    "market": {
     "buy": 500000,
-    "sell": 1025000,
+    "sell": 1100000,
     "buyers": 4,
-    "sellers": 2,
-    "islands": 13,
+    "sellers": 3,
+    "islands": 14,
     "listings": [
      {
       "t": "sell",
@@ -7355,6 +7567,12 @@
       "p": 950000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1599999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -7370,11 +7588,15 @@
     {
      "d": "2026-11-22",
      "v": 760000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 800000
     }
    ],
    "range": {
     "low": 500000,
-    "high": 1100000
+    "high": 1599999
    },
    "icon": "icons/lumber-mill.png"
   },
@@ -8218,16 +8440,16 @@
    "id": "rail-boost",
    "name": "Rail Booster",
    "category": "Machines",
-   "value": 1100,
-   "demand": 6,
+   "value": 1050,
+   "demand": 5,
    "source": "Speeds up railcarts",
    "verified": true,
    "market": {
     "buy": 750,
-    "sell": 1450,
+    "sell": 1350,
     "buyers": 1,
-    "sellers": 1,
-    "islands": 4,
+    "sellers": 2,
+    "islands": 5,
     "listings": [
      {
       "t": "sell",
@@ -8258,6 +8480,12 @@
       "p": 750,
       "n": 1,
       "where": "Stone-wall shop, island 24 (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1249,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -8273,6 +8501,10 @@
     {
      "d": "2026-11-22",
      "v": 1100
+    },
+    {
+     "d": "2026-11-24",
+     "v": 1050
     }
    ],
    "range": {
@@ -9715,9 +9947,9 @@
    "market": {
     "buy": 4000000,
     "sell": 5950000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 1,
-    "islands": 14,
+    "islands": 15,
     "listings": [
      {
       "t": "buy",
@@ -9832,6 +10064,12 @@
       "p": 4000000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 3000000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -9863,16 +10101,16 @@
    "id": "morten-plush",
    "name": "Morten Plush",
    "category": "Gear",
-   "value": 760000,
-   "demand": 9,
+   "value": 750000,
+   "demand": 6,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 610000,
-    "sell": 912500,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 17,
+    "buy": 500000,
+    "sell": 999999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -9999,6 +10237,18 @@
       "p": 800000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 999999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 500000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -10018,11 +10268,15 @@
     {
      "d": "2026-11-22",
      "v": 760000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 750000
     }
    ],
    "range": {
-    "low": 600000,
-    "high": 1000000
+    "low": 500000,
+    "high": 999999
    },
    "icon": "icons/morten-plush.png"
   },
@@ -10030,16 +10284,16 @@
    "id": "morten-boots",
    "name": "Morten Boots",
    "category": "Gear",
-   "value": 460000,
-   "demand": 10,
+   "value": 450000,
+   "demand": 6,
    "source": "Morten boss drop. Armor",
    "verified": true,
    "market": {
-    "buy": 400000,
-    "sell": 525000,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 17,
+    "buy": 300000,
+    "sell": 599999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 18,
     "listings": [
      {
       "t": "buy",
@@ -10184,6 +10438,18 @@
       "p": 450000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 599999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 300000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -10203,11 +10469,15 @@
     {
      "d": "2026-11-22",
      "v": 460000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 450000
     }
    ],
    "range": {
     "low": 300000,
-    "high": 600000
+    "high": 599999
    },
    "icon": "icons/morten-boots.png"
   },
@@ -10215,16 +10485,16 @@
    "id": "morten-cape",
    "name": "Morten Cape",
    "category": "Gear",
-   "value": 57500,
-   "demand": 10,
+   "value": 75000,
+   "demand": 6,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 45000,
-    "sell": 70000,
-    "buyers": 5,
-    "sellers": 3,
-    "islands": 16,
+    "buy": 50000,
+    "sell": 99999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -10381,6 +10651,18 @@
       "p": 40000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 99999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -10400,11 +10682,15 @@
     {
      "d": "2026-11-22",
      "v": 57500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 75000
     }
    ],
    "range": {
-    "low": 40000,
-    "high": 88750
+    "low": 50000,
+    "high": 99999
    },
    "icon": "icons/morten-cape.png"
   },
@@ -10412,16 +10698,16 @@
    "id": "morten-mask",
    "name": "Morten Mask",
    "category": "Gear",
-   "value": 57500,
-   "demand": 9,
+   "value": 75000,
+   "demand": 6,
    "source": "Morten boss drop. Cosmetic",
    "verified": true,
    "market": {
-    "buy": 45000,
-    "sell": 70000,
-    "buyers": 4,
-    "sellers": 3,
-    "islands": 15,
+    "buy": 50000,
+    "sell": 99999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 16,
     "listings": [
      {
       "t": "buy",
@@ -10578,6 +10864,18 @@
       "p": 40000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 99999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 50000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -10597,11 +10895,15 @@
     {
      "d": "2026-11-22",
      "v": 57500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 75000
     }
    ],
    "range": {
-    "low": 40000,
-    "high": 88750
+    "low": 50000,
+    "high": 99999
    },
    "icon": "icons/morten-mask.png"
   },
@@ -10752,16 +11054,16 @@
    "id": "onion-harvester",
    "name": "Onion Harvester",
    "category": "Machines",
-   "value": 36000,
+   "value": 35500,
    "demand": 10,
    "source": "Auto-harvests onions",
    "verified": true,
    "market": {
-    "buy": 32000,
+    "buy": 31000,
     "sell": 39999,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 1,
-    "islands": 12,
+    "islands": 13,
     "listings": [
      {
       "t": "buy",
@@ -10852,6 +11154,12 @@
       "p": 34000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 19000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -10867,10 +11175,14 @@
     {
      "d": "2026-11-22",
      "v": 36000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 35500
     }
    ],
    "range": {
-    "low": 30000,
+    "low": 19000,
     "high": 39999
    },
    "icon": "icons/onion-harvester.png"
@@ -10879,16 +11191,16 @@
    "id": "tomato-harvester",
    "name": "Tomato Harvester",
    "category": "Machines",
-   "value": 16500,
-   "demand": 9,
+   "value": 13500,
+   "demand": 6,
    "source": "Auto-harvests tomatoes",
    "verified": true,
    "market": {
-    "buy": 14000,
-    "sell": 18750,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 9,
+    "buy": 9000,
+    "sell": 17999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -10979,6 +11291,18 @@
       "p": 15000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 17999,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 9000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -10994,11 +11318,15 @@
     {
      "d": "2026-11-22",
      "v": 16500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 13500
     }
    ],
    "range": {
-    "low": 10000,
-    "high": 19999
+    "low": 9000,
+    "high": 17999
    },
    "icon": "icons/tomato-harvester.png"
   },
@@ -11006,16 +11334,16 @@
    "id": "carrot-harvester",
    "name": "Carrot Harvester",
    "category": "Machines",
-   "value": 8300,
-   "demand": 10,
+   "value": 6750,
+   "demand": 6,
    "source": "Auto-harvests carrots",
    "verified": true,
    "market": {
-    "buy": 6583,
-    "sell": 9999,
-    "buyers": 4,
-    "sellers": 2,
-    "islands": 10,
+    "buy": 4500,
+    "sell": 8999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -11118,6 +11446,18 @@
       "p": 6500,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 8999,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 4500,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -11137,11 +11477,15 @@
     {
      "d": "2026-11-22",
      "v": 8300
+    },
+    {
+     "d": "2026-11-24",
+     "v": 6750
     }
    ],
    "range": {
-    "low": 5000,
-    "high": 9999
+    "low": 4500,
+    "high": 8999
    },
    "icon": "icons/carrot-harvester.png"
   },
@@ -11149,16 +11493,16 @@
    "id": "wheat-harvester",
    "name": "Wheat Harvester",
    "category": "Machines",
-   "value": 2250,
-   "demand": 7,
+   "value": 1850,
+   "demand": 6,
    "source": "Auto-harvests wheat",
    "verified": true,
    "market": {
-    "buy": 1500,
-    "sell": 2999,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 9,
+    "buy": 1250,
+    "sell": 2499,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -11249,6 +11593,18 @@
       "p": 1500,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2499,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 1250,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -11268,11 +11624,15 @@
     {
      "d": "2026-11-22",
      "v": 2250
+    },
+    {
+     "d": "2026-11-24",
+     "v": 1850
     }
    ],
    "range": {
-    "low": 1500,
-    "high": 2999
+    "low": 1250,
+    "high": 2499
    },
    "icon": "icons/wheat-harvester.png"
   },
@@ -11281,15 +11641,15 @@
    "name": "Lumber Mill I",
    "category": "Machines",
    "value": 13000,
-   "demand": 9,
+   "demand": 8,
    "source": "Tier 1 lumber mill",
    "verified": true,
    "market": {
     "buy": 10500,
     "sell": 15000,
     "buyers": 4,
-    "sellers": 4,
-    "islands": 16,
+    "sellers": 5,
+    "islands": 17,
     "listings": [
      {
       "t": "buy",
@@ -11434,6 +11794,12 @@
       "p": 15000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 24999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -11465,16 +11831,16 @@
    "id": "stone-drill-i",
    "name": "Stone Drill I",
    "category": "Machines",
-   "value": 12500,
+   "value": 11000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 11000,
+    "buy": 9500,
     "sell": null,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 0,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -11535,6 +11901,12 @@
       "p": 17000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 7000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -11550,10 +11922,14 @@
     {
      "d": "2026-11-22",
      "v": 12500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 11000
     }
    ],
    "range": {
-    "low": 8000,
+    "low": 7000,
     "high": 17000
    },
    "icon": "icons/stone-drill-i.png"
@@ -11562,16 +11938,16 @@
    "id": "coal-drill-i",
    "name": "Coal Drill I",
    "category": "Machines",
-   "value": 16000,
+   "value": 14000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 14000,
+    "buy": 12000,
     "sell": null,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 0,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -11620,6 +11996,12 @@
       "p": 14000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 8000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -11639,10 +12021,14 @@
     {
      "d": "2026-11-22",
      "v": 16000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 14000
     }
    ],
    "range": {
-    "low": 10000,
+    "low": 8000,
     "high": 15000
    },
    "icon": "icons/coal-drill-i.png"
@@ -11651,16 +12037,16 @@
    "id": "clay-drill-i",
    "name": "Clay Drill I",
    "category": "Machines",
-   "value": 20000,
-   "demand": 10,
+   "value": 15000,
+   "demand": 6,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 17500,
-    "sell": 22000,
-    "buyers": 3,
+    "buy": 10000,
+    "sell": 19999,
+    "buyers": 1,
     "sellers": 1,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -11745,6 +12131,18 @@
       "p": 17500,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 19999,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -11760,11 +12158,15 @@
     {
      "d": "2026-11-22",
      "v": 20000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 15000
     }
    ],
    "range": {
-    "low": 14000,
-    "high": 22000
+    "low": 10000,
+    "high": 19999
    },
    "icon": "icons/clay-drill-i.png"
   },
@@ -11772,16 +12174,16 @@
    "id": "sand-drill-i",
    "name": "Sand Drill I",
    "category": "Machines",
-   "value": 20000,
-   "demand": 10,
+   "value": 15000,
+   "demand": 6,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 17500,
-    "sell": 22000,
-    "buyers": 3,
+    "buy": 10000,
+    "sell": 19999,
+    "buyers": 1,
     "sellers": 1,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -11866,6 +12268,18 @@
       "p": 17500,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 19999,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 10000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -11881,11 +12295,15 @@
     {
      "d": "2026-11-22",
      "v": 20000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 15000
     }
    ],
    "range": {
-    "low": 14000,
-    "high": 22000
+    "low": 10000,
+    "high": 19999
    },
    "icon": "icons/sand-drill-i.png"
   },
@@ -12253,9 +12671,9 @@
    "market": {
     "buy": 800,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 10,
+    "islands": 11,
     "listings": [
      {
       "t": "buy",
@@ -12328,6 +12746,12 @@
       "p": 800,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 500,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -12346,7 +12770,7 @@
     }
    ],
    "range": {
-    "low": 800,
+    "low": 500,
     "high": 800
    },
    "icon": "icons/onion-seeds.png"
@@ -12355,16 +12779,16 @@
    "id": "tomato-seeds",
    "name": "Tomato Seeds",
    "category": "Crops",
-   "value": 300,
-   "demand": 7,
+   "value": 374,
+   "demand": 6,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 200,
-    "sell": 400,
-    "buyers": 3,
-    "sellers": 3,
-    "islands": 11,
+    "buy": 250,
+    "sell": 499,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -12467,6 +12891,18 @@
       "p": 200,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 499,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 250,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -12482,11 +12918,15 @@
     {
      "d": "2026-11-22",
      "v": 300
+    },
+    {
+     "d": "2026-11-24",
+     "v": 374
     }
    ],
    "range": {
-    "low": 200,
-    "high": 400
+    "low": 250,
+    "high": 499
    },
    "icon": "icons/tomato-seeds.png"
   },
@@ -12494,16 +12934,16 @@
    "id": "carrot-seeds",
    "name": "Carrot Seeds",
    "category": "Crops",
-   "value": 112,
-   "demand": 9,
+   "value": 187,
+   "demand": 6,
    "source": "Seed dealer",
    "verified": true,
    "market": {
-    "buy": 75,
-    "sell": 150,
-    "buyers": 3,
+    "buy": 125,
+    "sell": 249,
+    "buyers": 1,
     "sellers": 1,
-    "islands": 8,
+    "islands": 9,
     "listings": [
      {
       "t": "buy",
@@ -12576,6 +13016,18 @@
       "p": 75,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 249,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 125,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -12587,11 +13039,15 @@
     {
      "d": "2026-11-22",
      "v": 112
+    },
+    {
+     "d": "2026-11-24",
+     "v": 187
     }
    ],
    "range": {
-    "low": 50,
-    "high": 150
+    "low": 125,
+    "high": 249
    },
    "icon": "icons/carrot-seeds.png"
   },
@@ -12606,9 +13062,9 @@
    "market": {
     "buy": 5,
     "sell": null,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 0,
-    "islands": 9,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -12681,6 +13137,12 @@
       "p": 5,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 50,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -12696,7 +13158,7 @@
    ],
    "range": {
     "low": 5,
-    "high": 5
+    "high": 50
    },
    "icon": "icons/wheat-seeds.png"
   },
@@ -13132,16 +13594,16 @@
    "id": "iron-drill-i",
    "name": "Iron Drill I",
    "category": "Machines",
-   "value": 41000,
+   "value": 40000,
    "demand": 10,
    "source": "Tier 1 drill",
    "verified": true,
    "market": {
-    "buy": 35625,
+    "buy": 35000,
     "sell": null,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 0,
-    "islands": 11,
+    "islands": 12,
     "listings": [
      {
       "t": "buy",
@@ -13214,6 +13676,12 @@
       "p": 35000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 22000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -13233,10 +13701,14 @@
     {
      "d": "2026-11-22",
      "v": 41000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 40000
     }
    ],
    "range": {
-    "low": 35000,
+    "low": 22000,
     "high": 38000
    },
    "icon": "icons/iron-drill-i.png"
@@ -14113,16 +14585,16 @@
    "id": "rail",
    "name": "Rail",
    "category": "Machines",
-   "value": 1500,
-   "demand": 3,
+   "value": 687,
+   "demand": 4,
    "source": "Straight rail",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 1500,
-    "buyers": 0,
-    "sellers": 3,
-    "islands": 2,
+    "buy": 125,
+    "sell": 1249,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -14135,6 +14607,18 @@
       "p": 999,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 1249,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 125,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -14142,11 +14626,15 @@
     {
      "d": "2026-11-18",
      "v": 1500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 687
     }
    ],
    "range": {
-    "low": 999,
-    "high": 1500
+    "low": 125,
+    "high": 1249
    },
    "icon": "icons/rail.png"
   },
@@ -14154,16 +14642,16 @@
    "id": "rail-corner",
    "name": "Rail Corner",
    "category": "Machines",
-   "value": 1500,
-   "demand": 3,
+   "value": 812,
+   "demand": 4,
    "source": "Rail turn",
    "verified": true,
    "market": {
-    "buy": null,
-    "sell": 1500,
-    "buyers": 0,
-    "sellers": 3,
-    "islands": 2,
+    "buy": 125,
+    "sell": 1499,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 3,
     "listings": [
      {
       "t": "sell",
@@ -14176,6 +14664,12 @@
       "p": 1499,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-20)"
+     },
+     {
+      "t": "buy",
+      "p": 125,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -14183,11 +14677,15 @@
     {
      "d": "2026-11-18",
      "v": 1500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 812
     }
    ],
    "range": {
-    "low": 1499,
-    "high": 1500
+    "low": 125,
+    "high": 1499
    },
    "icon": "icons/rail-corner.png"
   },
@@ -15383,15 +15881,15 @@
    "name": "DV Plush",
    "category": "Gear",
    "value": 13000000,
-   "demand": 9,
+   "demand": 10,
    "source": "Rare plush. One collector bidding 6M",
    "verified": true,
    "market": {
     "buy": 8000000,
     "sell": 18000000,
-    "buyers": 4,
+    "buyers": 5,
     "sellers": 2,
-    "islands": 13,
+    "islands": 14,
     "listings": [
      {
       "t": "buy",
@@ -15518,6 +16016,12 @@
       "p": 8000000,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 10000000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -15557,7 +16061,7 @@
     "sell": 149999,
     "buyers": 1,
     "sellers": 1,
-    "islands": 6,
+    "islands": 7,
     "listings": [
      {
       "t": "buy",
@@ -15624,6 +16128,18 @@
       "p": 75000,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 149999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 75000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -15664,7 +16180,7 @@
     "sell": 14999,
     "buyers": 1,
     "sellers": 1,
-    "islands": 5,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -15725,6 +16241,18 @@
       "p": 7500,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 14999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 7500,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -15765,7 +16293,7 @@
     "sell": 2999,
     "buyers": 1,
     "sellers": 1,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -15814,6 +16342,18 @@
       "p": 1000,
       "n": 1,
       "where": "Ice-block shiny & food shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 2999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 1000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -16310,16 +16850,16 @@
    "id": "slime-soup",
    "name": "Slime Soup",
    "category": "Food",
-   "value": 3750,
-   "demand": 5,
+   "value": 7500,
+   "demand": 6,
    "source": "Industrial Cooker: Slime Gel",
    "verified": true,
    "market": {
-    "buy": 3000,
-    "sell": 4500,
+    "buy": 5000,
+    "sell": 9999,
     "buyers": 1,
-    "sellers": 3,
-    "islands": 5,
+    "sellers": 1,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -16362,6 +16902,18 @@
       "p": 4500,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 9999,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 5000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -16377,10 +16929,14 @@
     {
      "d": "2026-11-22",
      "v": 3750
+    },
+    {
+     "d": "2026-11-24",
+     "v": 7500
     }
    ],
    "range": {
-    "low": 3000,
+    "low": 5000,
     "high": 9999
    }
   },
@@ -16554,16 +17110,16 @@
    "id": "lumber-mill-ii",
    "name": "Lumber Mill II",
    "category": "Machines",
-   "value": 105000,
-   "demand": 10,
+   "value": 110000,
+   "demand": 9,
    "source": "Tier 2 lumber mill",
    "verified": true,
    "market": {
     "buy": 82500,
-    "sell": 130000,
+    "sell": 140000,
     "buyers": 4,
-    "sellers": 2,
-    "islands": 9,
+    "sellers": 3,
+    "islands": 10,
     "listings": [
      {
       "t": "buy",
@@ -16636,6 +17192,12 @@
       "p": 85000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 199999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -16651,11 +17213,15 @@
     {
      "d": "2026-11-22",
      "v": 105000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 110000
     }
    ],
    "range": {
     "low": 70000,
-    "high": 140000
+    "high": 199999
    },
    "note": "An 8M ask at the mega shop on 11-20 was ignored as a troll listing (bids are 90\u2013180K)."
   },
@@ -16927,16 +17493,16 @@
    "id": "sylvan-bow",
    "name": "Sylvan Bow",
    "category": "Gear",
-   "value": 42500,
-   "demand": 8,
+   "value": 52500,
+   "demand": 6,
    "source": "Bow. Between Basic and Soulfire",
    "verified": true,
    "market": {
-    "buy": 25000,
-    "sell": 60000,
-    "buyers": 3,
-    "sellers": 2,
-    "islands": 5,
+    "buy": 35000,
+    "sell": 69999,
+    "buyers": 1,
+    "sellers": 1,
+    "islands": 6,
     "listings": [
      {
       "t": "buy",
@@ -16985,6 +17551,18 @@
       "p": 50000,
       "n": 1,
       "where": "Red/dark-stone shop (2026-11-22)"
+     },
+     {
+      "t": "sell",
+      "p": 69999,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
+     },
+     {
+      "t": "buy",
+      "p": 35000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -17000,10 +17578,14 @@
     {
      "d": "2026-11-22",
      "v": 42500
+    },
+    {
+     "d": "2026-11-24",
+     "v": 52500
     }
    ],
    "range": {
-    "low": 20000,
+    "low": 35000,
     "high": 69999
    }
   },
@@ -17139,16 +17721,16 @@
    "id": "rocket-carrot",
    "name": "Rocket Carrot",
    "category": "Crops",
-   "value": 75000,
-   "demand": 9,
+   "value": 66000,
+   "demand": 10,
    "source": "Rare carrot harvest",
    "verified": true,
    "market": {
-    "buy": 60000,
+    "buy": 42500,
     "sell": 90000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 1,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -17185,6 +17767,12 @@
       "p": 60000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 25000,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -17196,6 +17784,10 @@
     {
      "d": "2026-11-22",
      "v": 75000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 66000
     }
    ],
    "range": {
@@ -17207,16 +17799,16 @@
    "id": "bluetato",
    "name": "Bluetato",
    "category": "Crops",
-   "value": 3600,
-   "demand": 7,
+   "value": 3500,
+   "demand": 8,
    "source": "Rare potato harvest",
    "verified": true,
    "market": {
-    "buy": 2750,
+    "buy": 2500,
     "sell": 4500,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 2,
-    "islands": 3,
+    "islands": 4,
     "listings": [
      {
       "t": "buy",
@@ -17253,6 +17845,12 @@
       "p": 3000,
       "n": 1,
       "where": "Neon-floor mega hub (heart 6048), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 2500,
+      "n": 1,
+      "where": "Ice-block shiny & food shop recheck (2026-11-24)"
      }
     ]
    },
@@ -17264,6 +17862,10 @@
     {
      "d": "2026-11-22",
      "v": 3600
+    },
+    {
+     "d": "2026-11-24",
+     "v": 3500
     }
    ],
    "range": {
@@ -18912,15 +19514,15 @@
    "name": "Dumbphone",
    "category": "Gear",
    "value": 7500000,
-   "demand": 8,
+   "demand": 10,
    "source": "Limited item as of the 11-22 update; no more are being given out",
    "verified": true,
    "market": {
     "buy": 5000000,
     "sell": 10000000,
-    "buyers": 3,
+    "buyers": 4,
     "sellers": 2,
-    "islands": 4,
+    "islands": 5,
     "listings": [
      {
       "t": "buy",
@@ -18951,6 +19553,12 @@
       "p": 9999999,
       "n": 1,
       "where": "Triskey Market (Triskey_XYZ), Bulk Vending (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 5000000,
+      "n": 1,
+      "where": "Triskey Market recheck (2026-11-24)"
      }
     ]
    },
@@ -18970,16 +19578,16 @@
    "id": "berry-harvester",
    "name": "Berry Harvester",
    "category": "Machines",
-   "value": 35000,
-   "demand": 8,
+   "value": 34500,
+   "demand": 10,
    "source": "Automates berry harvesting",
    "verified": true,
    "market": {
-    "buy": 31250,
+    "buy": 30000,
     "sell": 39000,
-    "buyers": 2,
+    "buyers": 3,
     "sellers": 1,
-    "islands": 2,
+    "islands": 3,
     "listings": [
      {
       "t": "buy",
@@ -18998,6 +19606,12 @@
       "p": 30000,
       "n": 1,
       "where": "anton's hub market, island 14 (2026-11-22)"
+     },
+     {
+      "t": "buy",
+      "p": 19000,
+      "n": 1,
+      "where": "Sky-walkway seed & drill shop (2026-11-24)"
      }
     ]
    },
@@ -19005,10 +19619,14 @@
     {
      "d": "2026-11-22",
      "v": 35000
+    },
+    {
+     "d": "2026-11-24",
+     "v": 34500
     }
    ],
    "range": {
-    "low": 30000,
+    "low": 19000,
     "high": 39000
    }
   },
